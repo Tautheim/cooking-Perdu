@@ -1,0 +1,59 @@
+{
+   "Mousse au chocolat": {
+      "Type": "Dessert",
+      "Temps": {
+         "Pr\u00e9paration": [
+            30,
+            "min"
+         ],
+         "Cuisson": [
+            0,
+            "min"
+         ],
+         "Repos": [
+            1,
+            "h"
+         ]
+      },
+      "Ingr\u00e9dients": [
+         [
+            "3",
+            "",
+            "Blanc d'oeufs"
+         ],
+         [
+            "20",
+            "g",
+            "Sucre"
+         ],
+         [
+            "125",
+            "g",
+            "chocolat"
+         ],
+         [
+            "2",
+            "",
+            "Jaune d'oeuf"
+         ],
+         [
+            "75",
+            "g",
+            "Beurre"
+         ],
+         [
+            "50",
+            "g",
+            "Sucre"
+         ]
+      ],
+      "Pr\u00e9paration": [
+         "Faire fondre le chocolat au bain marie",
+         "Hors du feu ajouter le beurre jusqu'\u00e0 obtenir un m\u00e9lange pommade",
+         "Une fois le m\u00e9lange froid ajouter les jaunes et 50 g de sucre",
+         "Battre les blancs en neige et \u00e0 mi-parcours ajouter le sucre restant",
+         "M\u00e9langer d\u00e9licatement les blancs avec le reste",
+         "Mettre au frais"
+      ]
+   }
+}

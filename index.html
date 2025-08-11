@@ -1,0 +1,82 @@
+<html lang="fr">
+    <head>
+        <link href="style.css" rel="stylesheet">
+        <title>Cuisine Perdu</title>
+    </head>
+    <body>
+        <h1>Le coin cuisine des Perdu</h1>
+        <p>Bienvenue au seul endroit qui recense l'ensemble des meilleures recettes de cuisines.
+            Chacune d'entre-elles a été testée, ajustée et approuvée afin de permettre à tous et toutes de pouvoir les reproduire le plus simplement possible.
+            Si vous pensez qu'une de vos recette mérite d'apparaître dans la liste, n'hésitez pas à nous la partager et nous nous ferons le plaisir de l'ajouter au site.<br>
+            En attendant il ne nous reste plus qu'à vous souhaiter de bonnes expériences, de vous amuser en cuisinant et surtout :
+            <span class="upper">bon appétit !</span>
+        </p>
+        <section class="container">
+            <section class="searchRecipe">
+                <h2>Sélectionner une recette :</h2>
+                <input class="recipeResearch" type="text" id="recipeResearch" placeholder="Rechercher une recette...">
+                <fieldset class="listCheckBox">
+                    <legend><b>Filtrer :</b></legend>
+                    <div>
+                        <input type="checkbox" value="Apéritif" name="typeRecipe[]" id="aperitif" checked>
+                        <label for="aperitif">Apéritif</label>
+                    </div>
+                    <div>
+                        <input type="checkbox" value="Entrée" name="typeRecipe[]" id="entree" checked>
+                        <label for="entree">Entrée</label>
+                    </div>
+                    <div>
+                        <input type="checkbox" value="Plat" name="typeRecipe[]" id="plat" checked>
+                        <label for="plat">Plat</label>
+                    </div>
+                    <div>
+                        <input type="checkbox" value="Dessert" name="typeRecipe[]" id="dessert" checked>
+                        <label for="dessert">Dessert</label>
+                    </div>
+                    <div>
+                        <input type="checkbox" value="Boisson" name="typeRecipe[]" id="boisson" checked>
+                        <label for="boisson">Boisson</label>
+                    </div>
+                </fieldset>
+                <select id="listRecipes" name="listRecipes" size="25">
+                </select>
+            </section>
+            <section class="showRecipe">
+                <section class="dataRecipe" hidden>
+                    <h2 class="recipeName">Nom de la recette</h2>
+                    <div id="recipeType">
+                        <label> <b>Type de recette : </b></label>
+                        <label id="Type"> Type </label>
+                    </div>
+                    <fieldset class="fieldSetRecipeInfos" id="recipeTimes">
+                        <legend class="paragraphTitle"><b>Temps :</b></legend>
+                        <div>
+                            <label><u>Préparation :</u> </label>
+                            <label id="preparingTimeValue">valeur</label>
+                            <label id="preparingTimeUnit">unité</label>
+                        </div>
+                        <div>
+                            <label><u>Repos :</u> </label>
+                            <label id="restingTimeValue">valeur</label>
+                            <label id="restaringTimeUnit">unité</label>
+                        </div>
+                        <div>
+                            <label><u>Cuisson :</u> </label>
+                            <label id="cookingTimeValue">valeur</label>
+                            <label id="cookingTimeUnit">unité</label>
+                        </div>
+                    </fieldset>
+                    <fieldset class="fieldSetRecipeInfos" id="recipeIngredient">
+                        <legend><b>Ingédients :</b></legend>
+                    </fieldset>
+                    <fieldset class="fieldSetRecipeInfos" id="recipeSteps">
+                        <legend><b>Étapes de préparation :</b></legend>
+                    </fieldset>
+
+                </section>
+            </section>
+        </section>
+    <script src="script.js"></script>
+    </body>
+</html>
+

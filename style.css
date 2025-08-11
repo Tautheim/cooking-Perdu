@@ -1,0 +1,123 @@
+body{
+    background-color: #FEFAE0;
+    margin-left: 5%;
+    margin-right: 5%;
+    margin-top: 1%;
+    margin-bottom: 1%;
+}
+
+h1 {
+    text-align: center;
+    text-transform:uppercase;
+    color: black/*#A1A27E*/;
+    font-family: Verdana;
+    font-size: 32px;
+    padding:16px;
+    border-radius: 15px;
+    background-color: #E9EDC9/*transparent*//*#BED3C3*/ ;
+}
+
+h2 {
+    text-align: left;
+    text-transform:uppercase;
+    font-family: Verdana;
+    font-size: 18px;
+    color: black;
+}
+
+.recipeName{
+    text-align: center;
+}
+
+p {
+    text-align: justify;
+    color: black;
+    font-family: Calibri;
+    font-size: 20px;
+    background-color: transparent;
+    border-radius: 0px;
+    padding: 0px;
+}
+
+label{
+    text-align: justify;
+    color: black;
+    font-family: Calibri;
+    font-size: 20px;
+    background-color: transparent;
+    border-radius: 0px;
+    padding: 0px;
+}
+
+input{
+    border-radius: 5px;
+    font-family: Calibri;
+    font-size: 20px;
+    border-width: 3px;
+    border-style: solid;
+}
+.recipeResearch{
+    width: 100%;
+}
+
+fieldset{
+    display: inline;
+    font-family: Calibri;
+    font-size: 20px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    border-radius: 5px;
+    border-style: solid;
+    border-width: 3px;
+}
+.listCheckBox{
+    width: 85%;
+    border-color:gray;
+}
+.fieldSetRecipeInfos{
+    width:95%;
+    border-color: grey;
+}
+
+.container{
+    display:flex;
+}
+
+.searchRecipe{
+    width:25%;
+    height: 100%;
+    background-color:#E9EDC9;
+    border-radius: 10px;
+    border-color: #E9EDC9;
+    border-width: 5px;
+    border-style:solid;
+    padding: 5px;
+}
+
+.showRecipe{
+    width:75%;
+    height: 1000px;
+    background-color: transparent;
+    border-radius: 10px;
+    border-width: 5px;
+    border-color: #E9EDC9;
+    border-style:solid;
+    padding: 5px;
+}
+
+.recipeResearch{
+    width: 100%;
+}
+
+#listRecipes{
+    width: 100%;
+    font-size: 20px;
+    font-family: Calibri;
+    padding: 5px;
+}
+
+.upper {
+    text-transform: uppercase;
+}
