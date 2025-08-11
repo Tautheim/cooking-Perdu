@@ -111,11 +111,18 @@ fieldset{
     width: 100%;
 }
 
-#listRecipes{
+.listRecipesContainer {
+    height: 600px; /* hauteur fixe */
+    overflow-y: auto; /* défilement si trop d’éléments */
+}
+
+#listRecipes {
     width: 100%;
+    height: 100%;
     font-size: 20px;
     font-family: Calibri;
     padding: 5px;
+    box-sizing: border-box; /* pour que padding ne casse pas la taille */
 }
 
 .upper {
