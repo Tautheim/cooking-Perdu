@@ -98,7 +98,7 @@ fieldset{
 
 .showRecipe{
     width:75%;
-    height: 1000px;
+    height: auto;
     background-color: transparent;
     border-radius: 10px;
     border-width: 5px;
@@ -120,4 +120,5 @@ fieldset{
 
 .upper {
     text-transform: uppercase;
+
 }
