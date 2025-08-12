@@ -1,59 +1,475 @@
 {
-   "Mousse au chocolat": {
-      "Type": "Dessert",
-      "Temps": {
-         "Pr\u00e9paration": [
-            30,
-            "min"
-         ],
-         "Cuisson": [
-            0,
-            "min"
-         ],
-         "Repos": [
-            1,
-            "h"
-         ]
-      },
-      "Ingr\u00e9dients": [
-         [
-            "3",
-            "",
-            "Blanc d'oeufs"
-         ],
-         [
-            "20",
-            "g",
-            "Sucre"
-         ],
-         [
-            "125",
-            "g",
-            "chocolat"
-         ],
-         [
-            "2",
-            "",
-            "Jaune d'oeuf"
-         ],
-         [
-            "75",
-            "g",
-            "Beurre"
-         ],
-         [
-            "50",
-            "g",
-            "Sucre"
-         ]
-      ],
-      "Pr\u00e9paration": [
-         "Faire fondre le chocolat au bain marie",
-         "Hors du feu ajouter le beurre jusqu'\u00e0 obtenir un m\u00e9lange pommade",
-         "Une fois le m\u00e9lange froid ajouter les jaunes et 50 g de sucre",
-         "Battre les blancs en neige et \u00e0 mi-parcours ajouter le sucre restant",
-         "M\u00e9langer d\u00e9licatement les blancs avec le reste",
-         "Mettre au frais"
-      ]
-   }
+ "Curry \u00e0 la japonaise": {
+  "Type": "Plat",
+  "Temps": {
+   "Pr\u00e9paration": [
+    25,
+    "min"
+   ],
+   "Cuisson": [
+    1,
+    "h"
+   ],
+   "Repos": [
+    0,
+    "min"
+   ]
+  },
+  "Ingr\u00e9dients": [
+   [
+    "1",
+    "",
+    "oignon"
+   ],
+   [
+    "5",
+    "",
+    "gousses d'ail"
+   ],
+   [
+    "30",
+    "g",
+    "gingembre"
+   ],
+   [
+    "2",
+    "cuill\u00e8res \u00e0 soupe",
+    "beurre"
+   ],
+   [
+    "2",
+    "",
+    "petites pommes"
+   ],
+   [
+    "2",
+    "",
+    "carottes"
+   ],
+   [
+    "1",
+    "sachet",
+    "riz japonais"
+   ],
+   [
+    "4",
+    "cuill\u00e8res \u00e0 soupe",
+    "farine"
+   ],
+   [
+    "3",
+    "cuill\u00e8res \u00e0 soupe",
+    "curry en poudre"
+   ],
+   [
+    "200",
+    "g",
+    "tomates concass\u00e9es"
+   ],
+   [
+    "1,2",
+    "L",
+    "bouillon"
+   ],
+   [
+    "2",
+    "cuill\u00e8res \u00e0 soupe",
+    "Ketchup"
+   ],
+   [
+    "3",
+    "cuill\u00e8res \u00e0 soupe",
+    "sauce Worcestershire"
+   ],
+   [
+    "1,5",
+    "cuill\u00e8res \u00e0 soupe",
+    "miel"
+   ],
+   [
+    "3",
+    "cuill\u00e8res \u00e0 soupe",
+    "sauce soja"
+   ],
+   [
+    "1",
+    "cuill\u00e8res \u00e0 caf\u00e9",
+    "self"
+   ],
+   [
+    "1",
+    "",
+    "oeuf mollet"
+   ],
+   [
+    "1",
+    "cuill\u00e8res \u00e0 soupe",
+    "huile"
+   ]
+  ],
+  "Pr\u00e9paration": [
+   "\u00c9mincer l'oignon, l'ail, le gingembre, les pommes, et les carottes",
+   "Faire chauffer l'huile \u00e0 feu doux dans une cocotte.",
+   "Augmenter le feux et y faire revenir l'oignon, l'ail et le gigembre jusqu'\u00e0 ce qu'ils soient dor\u00e9s.",
+   "Baisser le feux.",
+   "Ajouter le beurre, la farine et faire revenir 2 minutes",
+   "Ajouter le curry puis les tomates et cuire pendant 5 minutes",
+   "Verser 240 mL de bouillon et m\u00e9langer.",
+   "Ajouter le reste du bouillon avec le ketchup, la sauce Worcestershire, le miel, la sauce soja, les pommes et les carottes",
+   "Porter \u00e0 \u00e9bullition puis baisser le feu.",
+   "Laisser mijoter 30 minutes en remuant r\u00e9guli\u00e8rement.",
+   "Pendant ce temps, faire cuire le riz dans une casserole \u00e0 part."
+  ]
+ },
+ "Fondant au chocolat": {
+  "Type": "Dessert",
+  "Temps": {
+   "Pr\u00e9paration": [
+    30,
+    "min"
+   ],
+   "Cuisson": [
+    1,
+    "h"
+   ],
+   "Repos": [
+    0,
+    ""
+   ]
+  },
+  "Ingr\u00e9dients": [
+   [
+    "250",
+    "g",
+    "chocolat"
+   ],
+   [
+    "200",
+    "g",
+    "beurre"
+   ],
+   [
+    "250",
+    "g",
+    "sucre semoule"
+   ],
+   [
+    "75",
+    "g",
+    "farine"
+   ],
+   [
+    "3",
+    "",
+    "oeufs"
+   ],
+   [
+    "1",
+    "dose",
+    "sucre glace"
+   ],
+   [
+    "1/2",
+    "verre",
+    "eau"
+   ]
+  ],
+  "Pr\u00e9paration": [
+   "Couper le chocolat et le beurre en petits morceaux",
+   "Dans une casserole m\u00e9langer l'eau et le sucre",
+   "Faire chauffer en d\u00e9layant \u00e0 la spatule jusqu'\u00e0 \u00e9bullition",
+   "Ajouter le chocolat et le beurre, baisser le feu et m\u00e9langer intimement sur feux doux jusqu'\u00e0 ce que la pr\u00e9paration soit lisse.",
+   "\u00c9teindre le feu",
+   "Verser la farine dans une terrine puis les oeufs 1 par 1 tout en m\u00e9langeant",
+   "Une fois le chocolat ti\u00e9di, y verser ce m\u00e9lange et remuaer vigoureusement jusqu'\u00e0 absorption compl\u00e8te",
+   "Verser la p\u00e2te dans le moule et faire cuire au four au bain-marie pendant 1 heure \u00e0 170\u00b0C",
+   "Sortir du four, laisser refroidir puis d\u00e9mouler",
+   "Poudrer de sucre glace"
+  ]
+ },
+ "G\u00e2teau au chocolat": {
+  "Type": "Dessert",
+  "Temps": {
+   "Pr\u00e9paration": [
+    20,
+    "min"
+   ],
+   "Cuisson": [
+    30,
+    "min"
+   ],
+   "Repos": [
+    1,
+    "h"
+   ]
+  },
+  "Ingr\u00e9dients": [
+   [
+    "3",
+    "",
+    "oeufs"
+   ],
+   [
+    "125",
+    "g",
+    "beurre"
+   ],
+   [
+    "125",
+    "g",
+    "sucre"
+   ],
+   [
+    "125",
+    "g",
+    "chocolat noir"
+   ],
+   [
+    "50",
+    "g",
+    "farine"
+   ]
+  ],
+  "Pr\u00e9paration": [
+   "Faire fondre le chocolat et le beurre \u00e0 feux doux.",
+   "Ajouter le sucre et la farine tout en m\u00e9langeant hors du feu.",
+   "S\u00e9parer les blancs d'oeuf de leur jaune.",
+   "Monter les blancs en neige.",
+   "Une fois le m\u00e9lange chocolat refroidi, y ajouter les jaunes d'oeufs et m\u00e9langer",
+   "Incorporer le chocolat dans les blanc et m\u00e9langer d\u00e9licatement",
+   "Mettre le tout dans un moule et faire cuire au four \u00e0 170\u00b0C (th. 5-6)",
+   "Pour garder un int\u00e9rieur tendre, ajuster la cuisson pour garder un aspect \"cr\u00eame\""
+  ]
+ },
+ "Moelleux au chocolat": {
+  "Type": "Dessert",
+  "Temps": {
+   "Pr\u00e9paration": [
+    20,
+    "min"
+   ],
+   "Cuisson": [
+    25,
+    "min"
+   ],
+   "Repos": [
+    0,
+    "min"
+   ]
+  },
+  "Ingr\u00e9dients": [
+   [
+    "200",
+    "g",
+    "chocolat"
+   ],
+   [
+    "200",
+    "g",
+    "beurre"
+   ],
+   [
+    "150",
+    "g",
+    "sucre"
+   ],
+   [
+    "5",
+    "",
+    "oeufs"
+   ],
+   [
+    "1",
+    "cuill\u00e8re \u00e0 soupe",
+    "farine"
+   ]
+  ],
+  "Pr\u00e9paration": [
+   "Pr\u00e9chauffer le four \u00e0 180\u00b0C",
+   "Faire fondre le chocolat et le beurre au bain-marie",
+   "Ajouter le sucre et m\u00e9langer",
+   "Laisser refroidir le m\u00e9lange",
+   "S\u00e9parer les blancs d'oeuf de leur jaune",
+   "Battre les blancs en neige (pas trop ferme pour faciliter le m\u00e9lange)",
+   "Une le m\u00e9lange de chocolat ti\u00e9di, ajouter les jaunes d'oeufs et m\u00e9langer",
+   "Ajouter la farine tamis\u00e9e",
+   "M\u00e9langer le chocolat aux blancs en neige, d'abord par 2 cuill\u00e9r\u00e9e jusqu'\u00e0 ce que le m\u00e9lange soit homog\u00e8ne, puis le reste.",
+   "M\u00e9langer d\u00e9licatement",
+   "Verser le m\u00e9lange dans le moule et enfourner 20-25 minutes"
+  ]
+ },
+ "Moelleux aux p\u00e9pites de chocolat": {
+  "Type": "Dessert",
+  "Temps": {
+   "Pr\u00e9paration": [
+    10,
+    "min"
+   ],
+   "Cuisson": [
+    18,
+    "min"
+   ],
+   "Repos": [
+    0,
+    "min"
+   ]
+  },
+  "Ingr\u00e9dients": [
+   [
+    "3",
+    "",
+    "oeufs"
+   ],
+   [
+    "1",
+    "",
+    "yaourt nature"
+   ],
+   [
+    "120",
+    "g",
+    "p\u00e9pites de chocolat"
+   ],
+   [
+    "1,5",
+    "pot",
+    "farine"
+   ],
+   [
+    "1/2",
+    "pot",
+    "sucre"
+   ],
+   [
+    "1",
+    "sachet",
+    "levure chimique"
+   ],
+   [
+    "1/2",
+    "pot",
+    "huile"
+   ]
+  ],
+  "Pr\u00e9paration": [
+   "Dans un saladier m\u00e9langer tous les ingr\u00e9dients",
+   "Verser le m\u00e9lange dans des moules individuels",
+   "Faire cuire 18 min \u00e0 thermostat 7"
+  ]
+ },
+ "Mousse au chocolat": {
+  "Type": "Dessert",
+  "Temps": {
+   "Pr\u00e9paration": [
+    30,
+    "min"
+   ],
+   "Cuisson": [
+    0,
+    "min"
+   ],
+   "Repos": [
+    1,
+    "h"
+   ]
+  },
+  "Ingr\u00e9dients": [
+   [
+    "3",
+    "",
+    "Blanc d'oeufs"
+   ],
+   [
+    "20",
+    "g",
+    "Sucre"
+   ],
+   [
+    "125",
+    "g",
+    "chocolat"
+   ],
+   [
+    "2",
+    "",
+    "Jaune d'oeuf"
+   ],
+   [
+    "75",
+    "g",
+    "Beurre"
+   ],
+   [
+    "50",
+    "g",
+    "Sucre"
+   ]
+  ],
+  "Pr\u00e9paration": [
+   "Faire fondre le chocolat au bain marie",
+   "Hors du feu ajouter le beurre jusqu'\u00e0 obtenir un m\u00e9lange pommade",
+   "Une fois le m\u00e9lange froid ajouter les jaunes et 50 g de sucre",
+   "Battre les blancs en neige et \u00e0 mi-parcours ajouter le sucre restant",
+   "M\u00e9langer d\u00e9licatement les blancs avec le reste",
+   "Mettre au frais"
+  ]
+ },
+ "P\u00e2te \u00e0 cr\u00eapes": {
+  "Type": "Dessert",
+  "Temps": {
+   "Pr\u00e9paration": [
+    30,
+    "min"
+   ],
+   "Cuisson": [
+    1,
+    "min"
+   ],
+   "Repos": [
+    30,
+    "min"
+   ]
+  },
+  "Ingr\u00e9dients": [
+   [
+    "250",
+    "g",
+    "farine"
+   ],
+   [
+    "4",
+    "",
+    "oeufs"
+   ],
+   [
+    "1",
+    "sachet",
+    "sucre vanill\u00e9"
+   ],
+   [
+    "1",
+    "cuill\u00e8re \u00e0 soupe",
+    "cognac"
+   ],
+   [
+    "50",
+    "g",
+    "beurre"
+   ],
+   [
+    "1/2",
+    "L",
+    "lait"
+   ]
+  ],
+  "Pr\u00e9paration": [
+   "Faire fondre le beurre",
+   "Pr\u00e9parer un r\u00e9cipient avec le lait et y m\u00e9langer le sucre vanill\u00e9",
+   "Dans un saladier faire un puit de farine",
+   "Y ajouter les oeufs et fouetter l'ensemble",
+   "Ajouter le lait petit-\u00e0-petit sans cesser de fouetter afin d'\u00e9viter la formation de grumeaux",
+   "Ajouter le cognac lorsque la p\u00e2te commence \u00e0 devenir liquide",
+   "Laisser reposer 30 min au frais"
+  ]
+ }
 }
