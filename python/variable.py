@@ -6,5 +6,7 @@ def thisFilePath() -> str :
 
 def jsonPath() -> str:    
     jsonFileName = "recettes.json"
-    return Path(thisFilePath(), jsonFileName)
+    return Path(Path(thisFilePath()).parents[0], jsonFileName)
 
+if __name__ == "__main__":
+    print(jsonPath())

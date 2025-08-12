@@ -8,8 +8,9 @@ def read_json()->dict:
     return data
 
 def write_json(data:dict):
+    sorted_data = dict(sorted(data.items()))
     with open(jsonPath(), 'w') as file :
-        json.dump(data,file,indent=3)
+        json.dump(sorted_data,file,indent=1)
 
 def search_recipe(name:str)->dict:
     recipes = read_json()

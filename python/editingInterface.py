@@ -238,12 +238,13 @@ class gestionnaire_BDD():
             answer = askyesnocancel(title="Générateur pdf", message=f"Voulez-vous enregistrer la recette \"{Nom}\" avant de générer le pdf ?")
             if answer == True: self.saving_recipe()
             elif answer == None: return
+        self.recipesData = read_json()
         write_document(self.recipesData)
         showinfo(title="Générateur pdf", message="Le pdf a été généré avec succès.")
 
     def _tableButton_(self, value:str):
         if value == self.listCommandTableButton[0]:
-            self.treeviewIngredients.insert("","end", values=(0,"/","Nom"))
+            self.treeviewIngredients.insert("","end", values=(0,"","Nom"))
         elif value == self.listCommandTableButton[1]:
             selected = self.treeviewIngredients.selection()
             for item in selected:
