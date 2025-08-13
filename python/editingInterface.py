@@ -60,8 +60,8 @@ class gestionnaire_BDD():
         labelframe = tk.LabelFrame(self.root, text="Type de recette :", font=labelframeFont, bg=bgColor, width=frameWidth, height=frameHeight*4, fg=foregroundColor)
         labelframe.grid_propagate(False)
         col = 0
-        for texte in ["Entrée", "Plat", "Dessert", "Apéritif", "Boisson"]:
-            tk.Radiobutton(labelframe, text=texte, font=textFont, variable=self.typeRecipe, value=texte, width=10, bg=bgColor, justify="left", cursor='hand2').grid(column=col, row=0)
+        for texte in ["Entrée", "Plat", "Dessert", "Apéritif", "Boisson", "Sauce", "Pâte"]:
+            tk.Radiobutton(labelframe, text=texte, font=textFont, variable=self.typeRecipe, value=texte, width=9, bg=bgColor, justify="left", cursor='hand2').grid(column=col, row=0)
             col=col+1    
         return labelframe
 
