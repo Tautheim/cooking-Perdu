@@ -1,4 +1,180 @@
 {
+ "Beignet au yaourt": {
+  "Type": "Dessert",
+  "Temps": {
+   "Pr\u00e9paration": [
+    0,
+    ""
+   ],
+   "Cuisson": [
+    0,
+    ""
+   ],
+   "Repos": [
+    0,
+    ""
+   ]
+  },
+  "Ingr\u00e9dients": [
+   [
+    "2",
+    "pot",
+    "yaourt nature"
+   ],
+   [
+    "2",
+    "pot",
+    "farine"
+   ],
+   [
+    "2",
+    "",
+    "oeuf"
+   ],
+   [
+    "2",
+    "cuill\u00e8re \u00e0 caf\u00e9",
+    "levure chimique"
+   ],
+   [
+    "2",
+    "cuill\u00e8re \u00e0 soupe",
+    "sucre vanill\u00e9"
+   ],
+   [
+    "2",
+    "pinc\u00e9e",
+    "sel"
+   ],
+   [
+    "1",
+    "dose",
+    "sucre en poudre"
+   ],
+   [
+    "1",
+    "dose",
+    "canelle"
+   ]
+  ],
+  "Pr\u00e9paration": [
+   "M\u00e9langer les yaourts, les \u0153ufs, le sucre et l\u2019extrait de vanille dans un bol",
+   "Ajouter la farine, la levure et le sel",
+   "M\u00e9langer jusqu\u2019\u00e0 obtention d'une p\u00e2te homog\u00e8ne",
+   "Faire chauffer l\u2019huile dans une casserole",
+   "Former des boules de p\u00e2te et plonger-les dans l\u2019huile chaude",
+   "Laisser dorer, puis \u00e9goutter sur du papier absorbant",
+   "Saupoudrer de sucre et de cannelle en poudre avant de servir"
+  ]
+ },
+ "Bruschetta p\u00eache": {
+  "Type": "Entr\u00e9e",
+  "Temps": {
+   "Pr\u00e9paration": [
+    15,
+    "min"
+   ],
+   "Cuisson": [
+    5,
+    "min"
+   ],
+   "Repos": [
+    0,
+    ""
+   ]
+  },
+  "Ingr\u00e9dients": [
+   [
+    "2",
+    "",
+    "burrata (ou mozzarella)"
+   ],
+   [
+    "2",
+    "",
+    "p\u00eaches jaunes"
+   ],
+   [
+    "1",
+    "",
+    "pain"
+   ],
+   [
+    "1",
+    "cuill\u00e8re \u00e0 soupe",
+    "huile d'olive"
+   ],
+   [
+    "1",
+    "dose",
+    "basilic"
+   ],
+   [
+    "2",
+    "filet",
+    "miel"
+   ]
+  ],
+  "Pr\u00e9paration": [
+   "Dans une po\u00eale, verser l\u2019huile d\u2019olive et faire revenir les p\u00eaches coup\u00e9es en lamelles.",
+   "Faire griller les tranches de pain avec de l\u2019huile dans la po\u00eale\n",
+   "\u00c9taler la burrata sur le pain grill\u00e9",
+   "Mettre les p\u00eaches sur la burrata et verser le miel par-dessus.",
+   "Ajouter les feuilles de basilic coup\u00e9es"
+  ]
+ },
+ "Cr\u00eame patissi\u00e8re": {
+  "Type": "P\u00e2te",
+  "Temps": {
+   "Pr\u00e9paration": [
+    15,
+    "min"
+   ],
+   "Cuisson": [
+    0,
+    ""
+   ],
+   "Repos": [
+    0,
+    ""
+   ]
+  },
+  "Ingr\u00e9dients": [
+   [
+    "4",
+    "",
+    "jaunes d'oeufs"
+   ],
+   [
+    "100",
+    "g",
+    "sucre"
+   ],
+   [
+    "50",
+    "g",
+    "farine"
+   ],
+   [
+    "500",
+    "mL",
+    "lait frais entier"
+   ],
+   [
+    "1",
+    "pinc\u00e9e",
+    "sel"
+   ]
+  ],
+  "Pr\u00e9paration": [
+   "Faire blanchir les jaunes d\u2019\u0153ufs et le sucre",
+   "Ajouter la farine et le sel",
+   "Porter le lait \u00e0 \u00e9bullition",
+   "Sortir la casserole du feu",
+   "Verser le m\u00e9lange dans le lait puis remettre la casserole sur le feu pour faire \u00e9paissir la cr\u00e8me sans arr\u00eater de m\u00e9langer",
+   "Verser la p\u00e2te, dans un saladier, la couvrir d\u2019un film alimentaire et la garder au frais jusqu\u2019\u00e0 son utilisation"
+  ]
+ },
  "Curry \u00e0 la japonaise": {
   "Type": "Plat",
   "Temps": {
@@ -119,6 +295,73 @@
    "Porter \u00e0 \u00e9bullition puis baisser le feu.",
    "Laisser mijoter 30 minutes en remuant r\u00e9guli\u00e8rement.",
    "Pendant ce temps, faire cuire le riz dans une casserole \u00e0 part."
+  ]
+ },
+ "Focaccia": {
+  "Type": "P\u00e2te",
+  "Temps": {
+   "Pr\u00e9paration": [
+    30,
+    "min"
+   ],
+   "Cuisson": [
+    25,
+    "min"
+   ],
+   "Repos": [
+    24,
+    "h"
+   ]
+  },
+  "Ingr\u00e9dients": [
+   [
+    "500",
+    "g",
+    "farine"
+   ],
+   [
+    "8",
+    "g",
+    "levure de boulanger"
+   ],
+   [
+    "400",
+    "g",
+    "eau ti\u00e8de"
+   ],
+   [
+    "80",
+    "g",
+    "huile d'olive"
+   ],
+   [
+    "7",
+    "g",
+    "miel"
+   ],
+   [
+    "5",
+    "g",
+    "sel"
+   ],
+   [
+    "3",
+    "g",
+    "gros sel"
+   ]
+  ],
+  "Pr\u00e9paration": [
+   "Diluer le miel dans l'eau ti\u00e8de puis ajouter la levure pour l'activer (attendre environ 15 minutes)",
+   "Dans un saladier, mettre la farine, 40 grammes d'huile et l'eau",
+   "Dans un saladier, mettre la farine, 40 grammes d'huile et le m\u00e9lange pr\u00e9c\u00e9dent",
+   "M\u00e9langer \u00e0 la spatule puis laisser reposer 20 minutes",
+   "Avec des mains humides r\u00e9aliser 3 fois 4 rabats \u00e0 intervalle de 20 min",
+   "Mettre au frigo pour 18 heures en couvrant herm\u00e9tiquement la p\u00e2te",
+   "Dans un plat recouvert de papier cuisson, verser 15 g d'huile puis y d\u00e9poser la p\u00e2te",
+   "Mettre 10 g d'huile dessus et la couvrir pour 2 heures de repos",
+   "\u00c9taler la p\u00e2te, y faire des empreintes avec les doigts puis y verser 15 grammes d'huile",
+   "Saupoudrer de sel et de romarin",
+   "Enfourner \u00e0 200 \u00b0C pour 23 \u00e0 25 minutes en chaleur tournante"
   ]
  },
  "Fondant au chocolat": {
@@ -415,7 +658,7 @@
   ]
  },
  "P\u00e2te \u00e0 cr\u00eapes": {
-  "Type": "Dessert",
+  "Type": "P\u00e2te",
   "Temps": {
    "Pr\u00e9paration": [
     30,
@@ -470,6 +713,206 @@
    "Ajouter le lait petit-\u00e0-petit sans cesser de fouetter afin d'\u00e9viter la formation de grumeaux",
    "Ajouter le cognac lorsque la p\u00e2te commence \u00e0 devenir liquide",
    "Laisser reposer 30 min au frais"
+  ]
+ },
+ "Tagliatelles de concombre au saumon fum\u00e9": {
+  "Type": "Plat",
+  "Temps": {
+   "Pr\u00e9paration": [
+    0,
+    ""
+   ],
+   "Cuisson": [
+    0,
+    ""
+   ],
+   "Repos": [
+    0,
+    ""
+   ]
+  },
+  "Ingr\u00e9dients": [
+   [
+    "1",
+    "",
+    "concombre"
+   ],
+   [
+    "2",
+    "tranche",
+    "saumon fum\u00e9"
+   ],
+   [
+    "1",
+    "dose",
+    "menthe"
+   ],
+   [
+    "1",
+    "dose",
+    "basilic"
+   ],
+   [
+    "150",
+    "g",
+    "fromage blanc"
+   ],
+   [
+    "1",
+    "dose",
+    "huile d'olive"
+   ],
+   [
+    "1",
+    "pinc\u00e9e",
+    "sel"
+   ],
+   [
+    "1",
+    "gousse",
+    "ail"
+   ]
+  ],
+  "Pr\u00e9paration": [
+   "Tailler des tagliatelles de concombre \u00e0 l'aide d'un \u00e9conome",
+   "Dans un saladier, m\u00e9langer le fromage blanc, la menthe, l\u2019ail, le basilic, le sel et l\u2019huile d\u2019olive",
+   "Couper le poisson en petit morceau",
+   "Couper le poisson en petits morceaux et m\u00e9langer avec le reste."
+  ]
+ },
+ "Tarte courgettes, ricotta et pesto": {
+  "Type": "Plat",
+  "Temps": {
+   "Pr\u00e9paration": [
+    30,
+    "min"
+   ],
+   "Cuisson": [
+    35,
+    "min"
+   ],
+   "Repos": [
+    0,
+    ""
+   ]
+  },
+  "Ingr\u00e9dients": [
+   [
+    "1",
+    "",
+    "p\u00e2te bris\u00e9e"
+   ],
+   [
+    "3",
+    "",
+    "courgettes"
+   ],
+   [
+    "1",
+    "",
+    "oignon rouge"
+   ],
+   [
+    "2",
+    "cuill\u00e8re \u00e0 soupe",
+    "huile d'olive"
+   ],
+   [
+    "1",
+    "cuill\u00e8re \u00e0 soupe",
+    "miel"
+   ],
+   [
+    "200",
+    "g",
+    "ricotta"
+   ],
+   [
+    "2",
+    "cuill\u00e8re \u00e0 soupe",
+    "pesto"
+   ],
+   [
+    "1",
+    "",
+    "Burrata"
+   ],
+   [
+    "1",
+    "poign\u00e9e",
+    "pignons"
+   ],
+   [
+    "1",
+    "poign\u00e9e",
+    "parmesan"
+   ]
+  ],
+  "Pr\u00e9paration": [
+   "Pr\u00e9chauffez le four \u00e0 190\u00b0C.\n",
+   "Pr\u00e9parer des tagliatelles de courgettes \u00e0 l\u2019aide d\u2019un \u00e9conome et les mettre dans un r\u00e9cipient",
+   "Ajouter les lamelles d\u2019oignon rouge",
+   "Ajouter le miel et l\u2019huile d\u2019olive et m\u00e9langer",
+   "Dans un bol, m\u00e9langer la ricotta avec le pesto.",
+   "\u00c9taler le m\u00e9lange ricotta-pesto sur la p\u00e2te bris\u00e9e",
+   "Disposer ensuite les courgettes et les oignons sur la ricotta",
+   "Replier les bords de la p\u00e2te sur la garniture pour former une tarte rustique",
+   "Saupoudrer de parmesan puis enfourner la tarte pendant environ 35 minutes",
+   "\u00c0 la sortie du four, ajouter un peu de burrata, quelques cuiller\u00e9es de pesto et les pignons"
+  ]
+ },
+ "Tomates farcies sans cuisson": {
+  "Type": "Entr\u00e9e",
+  "Temps": {
+   "Pr\u00e9paration": [
+    20,
+    "min"
+   ],
+   "Cuisson": [
+    0,
+    "min"
+   ],
+   "Repos": [
+    0,
+    "min"
+   ]
+  },
+  "Ingr\u00e9dients": [
+   [
+    "2",
+    "",
+    "grosses tomates"
+   ],
+   [
+    "200",
+    "g",
+    "thon"
+   ],
+   [
+    "2",
+    "cuill\u00e8re \u00e0 soupe",
+    "fromage frais"
+   ],
+   [
+    "1",
+    "dose",
+    "Ciboulette"
+   ],
+   [
+    "1",
+    "dose",
+    "sel"
+   ],
+   [
+    "1",
+    "dose",
+    "poivre"
+   ]
+  ],
+  "Pr\u00e9paration": [
+   "Lavez et couper le chapeau des tomates, retirer l\u2019int\u00e9rieur des tomates. Coupez le et r\u00e9server.",
+   "Dans un saladier m\u00e9langer le thon, le fromage frais, la ciboulette, les radis r\u00e2p\u00e9s, le sel et le poivre, et la chair de tomates.",
+   "Remplir les tomates, et servir tr\u00e8s frais"
   ]
  }
 }
