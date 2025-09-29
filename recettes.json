@@ -1,918 +1,971 @@
 {
- "Beignet au yaourt": {
-  "Type": "Dessert",
-  "Temps": {
-   "Pr\u00e9paration": [
-    0,
-    ""
-   ],
-   "Cuisson": [
-    0,
-    ""
-   ],
-   "Repos": [
-    0,
-    ""
-   ]
+  "Beignet au yaourt": {
+    "Type": "Dessert",
+    "Temps": {
+      "Préparation": [10, "min"],
+      "Cuisson": [10, "min"],
+      "Repos": [0, ""]
+    },
+    "Ingrédients": [
+      ["2", "pot", "yaourt nature"],
+      ["2", "pot", "farine"],
+      ["2", "", "oeuf"],
+      ["2", "cuillère à café", "levure chimique"],
+      ["2", "cuillère à soupe", "sucre vanillé"],
+      ["2", "pincée", "sel"],
+      ["1", "dose", "sucre en poudre"],
+      ["1", "dose", "cannelle"]
+    ],
+    "Préparation": [
+      "Mélanger les yaourts, les œufs, le sucre et l’extrait de vanille dans un bol.",
+      "Ajouter la farine, la levure et le sel, puis mélanger jusqu’à obtenir une pâte homogène.",
+      "Faire chauffer l’huile. Forme des boules de pâte et les plonge-les dans l’huile chaude.",
+      "Laisse dorer, puis égoutte sur du papier absorbant.",
+      "Saupoudre de sucre et cannelle en poudre avant de servir."
+    ]
   },
-  "Ingr\u00e9dients": [
-   [
-    "2",
-    "pot",
-    "yaourt nature"
-   ],
-   [
-    "2",
-    "pot",
-    "farine"
-   ],
-   [
-    "2",
-    "",
-    "oeuf"
-   ],
-   [
-    "2",
-    "cuill\u00e8re \u00e0 caf\u00e9",
-    "levure chimique"
-   ],
-   [
-    "2",
-    "cuill\u00e8re \u00e0 soupe",
-    "sucre vanill\u00e9"
-   ],
-   [
-    "2",
-    "pinc\u00e9e",
-    "sel"
-   ],
-   [
-    "1",
-    "dose",
-    "sucre en poudre"
-   ],
-   [
-    "1",
-    "dose",
-    "canelle"
-   ]
-  ],
-  "Pr\u00e9paration": [
-   "M\u00e9langer les yaourts, les \u0153ufs, le sucre et l\u2019extrait de vanille dans un bol",
-   "Ajouter la farine, la levure et le sel",
-   "M\u00e9langer jusqu\u2019\u00e0 obtention d'une p\u00e2te homog\u00e8ne",
-   "Faire chauffer l\u2019huile dans une casserole",
-   "Former des boules de p\u00e2te et plonger-les dans l\u2019huile chaude",
-   "Laisser dorer, puis \u00e9goutter sur du papier absorbant",
-   "Saupoudrer de sucre et de cannelle en poudre avant de servir"
-  ]
- },
- "Bruschetta p\u00eache": {
-  "Type": "Entr\u00e9e",
-  "Temps": {
-   "Pr\u00e9paration": [
-    15,
-    "min"
-   ],
-   "Cuisson": [
-    5,
-    "min"
-   ],
-   "Repos": [
-    0,
-    ""
-   ]
+  "Brioche à la mie filante": {
+    "Type": "Dessert",
+    "Temps": {
+      "Préparation": [30, "min"],
+      "Cuisson": [30, "min"],
+      "Repos": [150, "min"]
+    },
+    "Ingrédients": [
+      ["5", "g", "levure de boulanger déshydratée"],
+      ["130", "g", "lait tiédi"],
+      ["50", "g", "sucre en poudre"],
+      ["1", "", "œuf"],
+      ["280", "g", "farine"],
+      ["1", "càc", "sel"],
+      ["50", "g", "beurre à t° ambiante"],
+      ["1", "dose", "vanille ou fleur d’oranger"]
+    ],
+    "Préparation": [
+      "Dans un saladier, mélanger la farine, la levure, le sucre, le lait et le sel.",
+      "Pétrir 10 minutes.",
+      "Ajouter ensuite le beurre petit à petit et les arômes.",
+      "Pétrir pendant 15 à 20 minutes.",
+      "Laisser reposer 1h30 à 2h.",
+      "Diviser la pâte en 6 pâtons et les répartir dans le moule à cake.",
+      "Couvrir et laisser reposer 1h.",
+      "Badigeonner la pâte d’un mélange d’œuf et d’eau.",
+      "Faire cuire 20 à 30 minutes à 160°C."
+    ]
   },
-  "Ingr\u00e9dients": [
-   [
-    "2",
-    "",
-    "burrata (ou mozzarella)"
-   ],
-   [
-    "2",
-    "",
-    "p\u00eaches jaunes"
-   ],
-   [
-    "1",
-    "",
-    "pain"
-   ],
-   [
-    "1",
-    "cuill\u00e8re \u00e0 soupe",
-    "huile d'olive"
-   ],
-   [
-    "1",
-    "dose",
-    "basilic"
-   ],
-   [
-    "2",
-    "filet",
-    "miel"
-   ]
-  ],
-  "Pr\u00e9paration": [
-   "Dans une po\u00eale, verser l\u2019huile d\u2019olive et faire revenir les p\u00eaches coup\u00e9es en lamelles.",
-   "Faire griller les tranches de pain avec de l\u2019huile dans la po\u00eale\n",
-   "\u00c9taler la burrata sur le pain grill\u00e9",
-   "Mettre les p\u00eaches sur la burrata et verser le miel par-dessus.",
-   "Ajouter les feuilles de basilic coup\u00e9es"
-  ]
- },
- "Cr\u00eame patissi\u00e8re": {
-  "Type": "P\u00e2te",
-  "Temps": {
-   "Pr\u00e9paration": [
-    15,
-    "min"
-   ],
-   "Cuisson": [
-    0,
-    ""
-   ],
-   "Repos": [
-    0,
-    ""
-   ]
+  "Brioche au yaourt": {
+    "Type": "Dessert",
+    "Temps": {
+      "Préparation": [20, "min"],
+      "Cuisson": [35, "min"],
+      "Repos": [150, "min"]
+    },
+    "Ingrédients": [
+      ["500", "g", "farine T45"],
+      ["50", "g", "beurre"],
+      ["18", "g", "levure boulangère fraîche"],
+      ["2", "", "yaourts nature"],
+      ["1", "", "œuf"],
+      ["1", "sachet", "sucre vanillé"],
+      ["80", "g", "sucre"],
+      ["0.5", "cac", "sel"]
+    ],
+    "Préparation": [
+      "Dans la cuve du robot, verser la farine, le sucre, le sel, les yaourts, l’œuf et la levure émiettée.",
+      "Pétrir à vitesse (2) pendant 2 min.",
+      "Ajouter le beurre à température ambiante coupé en morceaux et poursuivre le pétrissage 8 minutes.",
+      "Laisser lever la pâte une heure.",
+      "Diviser la pâte en 12 boules.",
+      "Déposer les boules dans un plat carré ou rectangulaire sans trop les serrer.",
+      "Couvrir d’un linge propre et laisser lever 1h30.",
+      "Badigeonner de lait.",
+      "Enfourner pour 30 à 35 minutes.",
+      "Saupoudrer la surface de sucre glace."
+    ]
   },
-  "Ingr\u00e9dients": [
-   [
-    "4",
-    "",
-    "jaunes d'oeufs"
-   ],
-   [
-    "100",
-    "g",
-    "sucre"
-   ],
-   [
-    "50",
-    "g",
-    "farine"
-   ],
-   [
-    "500",
-    "mL",
-    "lait frais entier"
-   ],
-   [
-    "1",
-    "pinc\u00e9e",
-    "sel"
-   ]
-  ],
-  "Pr\u00e9paration": [
-   "Faire blanchir les jaunes d\u2019\u0153ufs et le sucre",
-   "Ajouter la farine et le sel",
-   "Porter le lait \u00e0 \u00e9bullition",
-   "Sortir la casserole du feu",
-   "Verser le m\u00e9lange dans le lait puis remettre la casserole sur le feu pour faire \u00e9paissir la cr\u00e8me sans arr\u00eater de m\u00e9langer",
-   "Verser la p\u00e2te, dans un saladier, la couvrir d\u2019un film alimentaire et la garder au frais jusqu\u2019\u00e0 son utilisation"
-  ]
- },
- "Curry \u00e0 la japonaise": {
-  "Type": "Plat",
-  "Temps": {
-   "Pr\u00e9paration": [
-    25,
-    "min"
-   ],
-   "Cuisson": [
-    1,
-    "h"
-   ],
-   "Repos": [
-    0,
-    "min"
-   ]
+  "Brioche façon cruffin": {
+    "Type": "Dessert",
+    "Temps": {
+      "Préparation": [40, "min"],
+      "Cuisson": [25, "min"],
+      "Repos": [175, "min"]
+    },
+    "Ingrédients": [
+      ["530", "g", "farine"],
+      ["7", "g", "levure sèche de boulanger"],
+      ["230", "ml", "lait tiède"],
+      ["5", "g", "sel"],
+      ["75", "g", "beurre mou"],
+      ["1", "", "œuf"],
+      ["40", "g", "sucre"],
+      ["1", "càc", "vanille"],
+      ["0.5", "càc", "fleur d’oranger"],
+      ["1", "pot", "Nutella ou confiture"],
+      ["150", "g", "beurre pommade"]
+    ],
+    "Préparation": [
+      "Dans un récipient, verser la farine, faire deux puits. Dans l’un verser la levure et le sucre et dans l’autre le sel, le lait la vanille la fleur d’oranger et l’œuf.",
+      "Mélanger grossièrement le tout au robot.",
+      "Ajouter le beurre mou et pétrir environ 15 minutes jusqu’à obtenir une pâte homogène qui ne colle plus.",
+      "Laisser pousser la pâte 40 minutes à 1 heure.",
+      "Dégazer la pâte et l'étaler au rouleau sur 1 cm d’épaisseur.",
+      "Étaler 100g de beurre pommade puis rabattre les côtés.",
+      "Passer quelques coups de rouleau puis étaler les 50g de beurre restant.",
+      "Ramener la partie basse au centre puis la partie haute.",
+      "Placer la pâte 15 minutes au congélateur.",
+      "Étaler la pâte en forme de grand rectangle sur 1cm d’épaisseur.",
+      "Détailler des bandes de 4cm de largeur et rouler chaque bande.",
+      "Beurrer un moule à muffins et y déposer chaque rouleau.",
+      "Laisser reposer à température ambiante 2 heures.",
+      "Faire un trou au milieu de chaque rouleau avec le pouce.",
+      "Enfourner pour 25 minutes à 180°C.",
+      "Enrober les brioches dans du sucre semoule lorsqu’elles sont encore chaudes.",
+      "Garnir avec de la pâte à tartiner ou de la confiture."
+    ]
   },
-  "Ingr\u00e9dients": [
-   [
-    "1",
-    "",
-    "oignon"
-   ],
-   [
-    "5",
-    "",
-    "gousses d'ail"
-   ],
-   [
-    "30",
-    "g",
-    "gingembre"
-   ],
-   [
-    "2",
-    "cuill\u00e8res \u00e0 soupe",
-    "beurre"
-   ],
-   [
-    "2",
-    "",
-    "petites pommes"
-   ],
-   [
-    "2",
-    "",
-    "carottes"
-   ],
-   [
-    "1",
-    "sachet",
-    "riz japonais"
-   ],
-   [
-    "4",
-    "cuill\u00e8res \u00e0 soupe",
-    "farine"
-   ],
-   [
-    "3",
-    "cuill\u00e8res \u00e0 soupe",
-    "curry en poudre"
-   ],
-   [
-    "200",
-    "g",
-    "tomates concass\u00e9es"
-   ],
-   [
-    "1,2",
-    "L",
-    "bouillon"
-   ],
-   [
-    "2",
-    "cuill\u00e8res \u00e0 soupe",
-    "Ketchup"
-   ],
-   [
-    "3",
-    "cuill\u00e8res \u00e0 soupe",
-    "sauce Worcestershire"
-   ],
-   [
-    "1,5",
-    "cuill\u00e8res \u00e0 soupe",
-    "miel"
-   ],
-   [
-    "3",
-    "cuill\u00e8res \u00e0 soupe",
-    "sauce soja"
-   ],
-   [
-    "1",
-    "cuill\u00e8res \u00e0 caf\u00e9",
-    "self"
-   ],
-   [
-    "1",
-    "",
-    "oeuf mollet"
-   ],
-   [
-    "1",
-    "cuill\u00e8res \u00e0 soupe",
-    "huile"
-   ]
-  ],
-  "Pr\u00e9paration": [
-   "\u00c9mincer l'oignon, l'ail, le gingembre, les pommes, et les carottes",
-   "Faire chauffer l'huile \u00e0 feu doux dans une cocotte.",
-   "Augmenter le feux et y faire revenir l'oignon, l'ail et le gigembre jusqu'\u00e0 ce qu'ils soient dor\u00e9s.",
-   "Baisser le feux.",
-   "Ajouter le beurre, la farine et faire revenir 2 minutes",
-   "Ajouter le curry puis les tomates et cuire pendant 5 minutes",
-   "Verser 240 mL de bouillon et m\u00e9langer.",
-   "Ajouter le reste du bouillon avec le ketchup, la sauce Worcestershire, le miel, la sauce soja, les pommes et les carottes",
-   "Porter \u00e0 \u00e9bullition puis baisser le feu.",
-   "Laisser mijoter 30 minutes en remuant r\u00e9guli\u00e8rement.",
-   "Pendant ce temps, faire cuire le riz dans une casserole \u00e0 part."
-  ]
- },
- "Focaccia": {
-  "Type": "P\u00e2te",
-  "Temps": {
-   "Pr\u00e9paration": [
-    30,
-    "min"
-   ],
-   "Cuisson": [
-    25,
-    "min"
-   ],
-   "Repos": [
-    24,
-    "h"
-   ]
+  "Browkie": {
+    "Type": "Dessert",
+    "Temps": {
+      "Préparation": [25, "min"],
+      "Cuisson": [40, "min"],
+      "Repos": [0, ""]
+    },
+    "Ingrédients": [
+      ["250", "g", "chocolat noir"],
+      ["180", "g", "sucre en poudre"],
+      ["4", "", "œufs"],
+      ["150", "g", "beurre"],
+      ["150", "g", "farine"],
+      ["1", "pincée", "fleur de sel"],
+      ["125", "g", "beurre mou"],
+      ["80", "g", "sucre roux"],
+      ["40", "g", "sucre en poudre"],
+      ["1", "", "œuf"],
+      ["170", "g", "farine"],
+      ["1", "cc", "levure chimique"],
+      ["150", "g", "pépites de chocolat"],
+      ["1", "cc", "arôme vanille"]
+    ],
+    "Préparation": [
+      "Préparer le brownie : faire fondre le chocolat noir avec 150g de beurre. Incorporer 180g de sucre, puis 4 œufs, 150g de farine tamisée et la fleur de sel.",
+      "Préparer le cookie : mélanger 125g de beurre, les sucres, 1 œuf, puis 170g de farine et la levure. Terminer avec les pépites de chocolat.",
+      "Chemiser un moule de 20 cm, verser la préparation du brownie.",
+      "Déposer des morceaux de pâte à cookie dessus jusqu'à tout recouvrir.",
+      "Enfourner à 175°C pendant 35-40 minutes.",
+      "Laisser totalement refroidir avant de démouler et couper."
+    ]
   },
-  "Ingr\u00e9dients": [
-   [
-    "500",
-    "g",
-    "farine"
-   ],
-   [
-    "8",
-    "g",
-    "levure de boulanger"
-   ],
-   [
-    "400",
-    "g",
-    "eau ti\u00e8de"
-   ],
-   [
-    "80",
-    "g",
-    "huile d'olive"
-   ],
-   [
-    "7",
-    "g",
-    "miel"
-   ],
-   [
-    "5",
-    "g",
-    "sel"
-   ],
-   [
-    "3",
-    "g",
-    "gros sel"
-   ]
-  ],
-  "Pr\u00e9paration": [
-   "Diluer le miel dans l'eau ti\u00e8de puis ajouter la levure pour l'activer (attendre environ 15 minutes)",
-   "Dans un saladier, mettre la farine, 40 grammes d'huile et l'eau",
-   "Dans un saladier, mettre la farine, 40 grammes d'huile et le m\u00e9lange pr\u00e9c\u00e9dent",
-   "M\u00e9langer \u00e0 la spatule puis laisser reposer 20 minutes",
-   "Avec des mains humides r\u00e9aliser 3 fois 4 rabats \u00e0 intervalle de 20 min",
-   "Mettre au frigo pour 18 heures en couvrant herm\u00e9tiquement la p\u00e2te",
-   "Dans un plat recouvert de papier cuisson, verser 15 g d'huile puis y d\u00e9poser la p\u00e2te",
-   "Mettre 10 g d'huile dessus et la couvrir pour 2 heures de repos",
-   "\u00c9taler la p\u00e2te, y faire des empreintes avec les doigts puis y verser 15 grammes d'huile",
-   "Saupoudrer de sel et de romarin",
-   "Enfourner \u00e0 200 \u00b0C pour 23 \u00e0 25 minutes en chaleur tournante"
-  ]
- },
- "Fondant au chocolat": {
-  "Type": "Dessert",
-  "Temps": {
-   "Pr\u00e9paration": [
-    30,
-    "min"
-   ],
-   "Cuisson": [
-    1,
-    "h"
-   ],
-   "Repos": [
-    0,
-    ""
-   ]
+  "Bruschetta pêche": {
+    "Type": "Entrée",
+    "Temps": {
+      "Préparation": [15, "min"],
+      "Cuisson": [5, "min"],
+      "Repos": [0, ""]
+    },
+    "Ingrédients": [
+      ["2", "", "burrata"],
+      ["2", "", "pêches jaunes"],
+      ["1", "", "pain type pantoufle"],
+      ["1", "dose", "huile d'olive"],
+      ["1", "dose", "basilic"],
+      ["1", "dose", "miel"]
+    ],
+    "Préparation": [
+      "Dans une poêle, verser l’huile d’olive et faire revenir les pêches coupées en lamelles.",
+      "Faire griller les tranches de pain avec de l’huile.",
+      "Étaler la burrata sur le pain grillé.",
+      "Mettre les pêches sur la burrata et verser le miel par-dessus.",
+      "Ajouter les feuilles de basilic coupées."
+    ]
   },
-  "Ingr\u00e9dients": [
-   [
-    "250",
-    "g",
-    "chocolat"
-   ],
-   [
-    "200",
-    "g",
-    "beurre"
-   ],
-   [
-    "250",
-    "g",
-    "sucre semoule"
-   ],
-   [
-    "75",
-    "g",
-    "farine"
-   ],
-   [
-    "3",
-    "",
-    "oeufs"
-   ],
-   [
-    "1",
-    "dose",
-    "sucre glace"
-   ],
-   [
-    "1/2",
-    "verre",
-    "eau"
-   ]
-  ],
-  "Pr\u00e9paration": [
-   "Couper le chocolat et le beurre en petits morceaux",
-   "Dans une casserole m\u00e9langer l'eau et le sucre",
-   "Faire chauffer en d\u00e9layant \u00e0 la spatule jusqu'\u00e0 \u00e9bullition",
-   "Ajouter le chocolat et le beurre, baisser le feu et m\u00e9langer intimement sur feux doux jusqu'\u00e0 ce que la pr\u00e9paration soit lisse.",
-   "\u00c9teindre le feu",
-   "Verser la farine dans une terrine puis les oeufs 1 par 1 tout en m\u00e9langeant",
-   "Une fois le chocolat ti\u00e9di, y verser ce m\u00e9lange et remuaer vigoureusement jusqu'\u00e0 absorption compl\u00e8te",
-   "Verser la p\u00e2te dans le moule et faire cuire au four au bain-marie pendant 1 heure \u00e0 170\u00b0C",
-   "Sortir du four, laisser refroidir puis d\u00e9mouler",
-   "Poudrer de sucre glace"
-  ]
- },
- "G\u00e2teau au chocolat": {
-  "Type": "Dessert",
-  "Temps": {
-   "Pr\u00e9paration": [
-    20,
-    "min"
-   ],
-   "Cuisson": [
-    30,
-    "min"
-   ],
-   "Repos": [
-    1,
-    "h"
-   ]
+  "Concombre farci à la crème d’œuf": {
+    "Type": "Entrée",
+    "Temps": {
+      "Préparation": [15, "min"],
+      "Cuisson": [10, "min"],
+      "Repos": [0, ""]
+    },
+    "Ingrédients": [
+      ["1", "", "concombre"],
+      ["2", "", "œufs durs"],
+      ["0.25", "", "oignon rouge"],
+      ["125", "g", "yaourt à la grecque"],
+      ["50", "g", "fromage frais"],
+      ["1", "dose", "épices"]
+    ],
+    "Préparation": [
+      "Laver et couper le concombre en 4 parts égales.",
+      "Retirer les pépins avec une cuillère.",
+      "Dans une assiette écraser à la fourchette les œufs, l’oignon rouge, le yaourt grec et le fromage frais.",
+      "Farcir chaque moitié de concombre avec la préparation et ajouter quelques épices."
+    ]
   },
-  "Ingr\u00e9dients": [
-   [
-    "3",
-    "",
-    "oeufs"
-   ],
-   [
-    "125",
-    "g",
-    "beurre"
-   ],
-   [
-    "125",
-    "g",
-    "sucre"
-   ],
-   [
-    "125",
-    "g",
-    "chocolat noir"
-   ],
-   [
-    "50",
-    "g",
-    "farine"
-   ]
-  ],
-  "Pr\u00e9paration": [
-   "Faire fondre le chocolat et le beurre \u00e0 feux doux.",
-   "Ajouter le sucre et la farine tout en m\u00e9langeant hors du feu.",
-   "S\u00e9parer les blancs d'oeuf de leur jaune.",
-   "Monter les blancs en neige.",
-   "Une fois le m\u00e9lange chocolat refroidi, y ajouter les jaunes d'oeufs et m\u00e9langer",
-   "Incorporer le chocolat dans les blanc et m\u00e9langer d\u00e9licatement",
-   "Mettre le tout dans un moule et faire cuire au four \u00e0 170\u00b0C (th. 5-6)",
-   "Pour garder un int\u00e9rieur tendre, ajuster la cuisson pour garder un aspect \"cr\u00eame\""
-  ]
- },
- "Moelleux au chocolat": {
-  "Type": "Dessert",
-  "Temps": {
-   "Pr\u00e9paration": [
-    20,
-    "min"
-   ],
-   "Cuisson": [
-    25,
-    "min"
-   ],
-   "Repos": [
-    0,
-    "min"
-   ]
+  "Crème patissière": {
+    "Type": "Préparation",
+    "Temps": {
+      "Préparation": [10, "min"],
+      "Cuisson": [5, "min"],
+      "Repos": [0, ""]
+    },
+    "Ingrédients": [
+      ["4", "", "jaunes d'oeufs"],
+      ["100", "g", "sucre"],
+      ["50", "g", "farine"],
+      ["500", "mL", "lait frais entier"],
+      ["1", "pincée", "sel"]
+    ],
+    "Préparation": [
+      "Mélanger les jaunes d’œufs et le sucre jusqu’à ce que le mélange blanchisse.",
+      "Ajouter la farine et le sel.",
+      "Porter le lait à ébullition.",
+      "Verser ensuite le lait dans le mélange précédent sans cesser de remuer.",
+      "Remettre sur le feu pour faire épaissir la crème tout en continuant de remuer.",
+      "Verser la crème dans un saladier, la couvrir d’un film alimentaire au contact et la garder au frais."
+    ]
   },
-  "Ingr\u00e9dients": [
-   [
-    "200",
-    "g",
-    "chocolat"
-   ],
-   [
-    "200",
-    "g",
-    "beurre"
-   ],
-   [
-    "150",
-    "g",
-    "sucre"
-   ],
-   [
-    "5",
-    "",
-    "oeufs"
-   ],
-   [
-    "1",
-    "cuill\u00e8re \u00e0 soupe",
-    "farine"
-   ]
-  ],
-  "Pr\u00e9paration": [
-   "Pr\u00e9chauffer le four \u00e0 180\u00b0C",
-   "Faire fondre le chocolat et le beurre au bain-marie",
-   "Ajouter le sucre et m\u00e9langer",
-   "Laisser refroidir le m\u00e9lange",
-   "S\u00e9parer les blancs d'oeuf de leur jaune",
-   "Battre les blancs en neige (pas trop ferme pour faciliter le m\u00e9lange)",
-   "Une le m\u00e9lange de chocolat ti\u00e9di, ajouter les jaunes d'oeufs et m\u00e9langer",
-   "Ajouter la farine tamis\u00e9e",
-   "M\u00e9langer le chocolat aux blancs en neige, d'abord par 2 cuill\u00e9r\u00e9e jusqu'\u00e0 ce que le m\u00e9lange soit homog\u00e8ne, puis le reste.",
-   "M\u00e9langer d\u00e9licatement",
-   "Verser le m\u00e9lange dans le moule et enfourner 20-25 minutes"
-  ]
- },
- "Moelleux aux p\u00e9pites de chocolat": {
-  "Type": "Dessert",
-  "Temps": {
-   "Pr\u00e9paration": [
-    10,
-    "min"
-   ],
-   "Cuisson": [
-    18,
-    "min"
-   ],
-   "Repos": [
-    0,
-    "min"
-   ]
+  "Crumble de légumes au chèvre et au pesto": {
+    "Type": "Plat",
+    "Temps": {
+      "Préparation": [20, "min"],
+      "Cuisson": [50, "min"],
+      "Repos": [0, ""]
+    },
+    "Ingrédients": [
+      ["1", "bûche", "chèvre"],
+      ["1", "", "tomate"],
+      ["2", "", "courgettes"],
+      ["1", "", "aubergine"],
+      ["2", "gousse", "ail"],
+      ["1", "dose", "sel, poivre, paprika"],
+      ["150", "g", "farine"],
+      ["70", "g", "beurre mou"],
+      ["50", "g", "parmesan râpé"],
+      ["2", "cuillère à soupe", "pesto"],
+      ["1", "poignée", "pignons de pin"],
+      ["1", "dose", "feuilles de basilic"]
+    ],
+    "Préparation": [
+      "Préchauffer le four à 190°C.",
+      "Couper la tomate, les courgettes et l’aubergine en petits cubes.",
+      "Faire revenir les légumes dans une poêle avec l’ail émincé et les épices jusqu'à ce qu'ils soient confits.",
+      "Préparer la pâte à crumble : mélanger la farine, le beurre mou, le parmesan râpé et le pesto.",
+      "Incorporer les pignons de pin à la pâte.",
+      "Déposer les légumes confits au fond d’un plat.",
+      "Émietter la pâte à crumble sur le dessus.",
+      "Enfourner pendant 35 minutes à 190°C.",
+      "Décorer avec des feuilles de basilic avant de déguster."
+    ]
   },
-  "Ingr\u00e9dients": [
-   [
-    "3",
-    "",
-    "oeufs"
-   ],
-   [
-    "1",
-    "",
-    "yaourt nature"
-   ],
-   [
-    "120",
-    "g",
-    "p\u00e9pites de chocolat"
-   ],
-   [
-    "1,5",
-    "pot",
-    "farine"
-   ],
-   [
-    "1/2",
-    "pot",
-    "sucre"
-   ],
-   [
-    "1",
-    "sachet",
-    "levure chimique"
-   ],
-   [
-    "1/2",
-    "pot",
-    "huile"
-   ]
-  ],
-  "Pr\u00e9paration": [
-   "Dans un saladier m\u00e9langer tous les ingr\u00e9dients",
-   "Verser le m\u00e9lange dans des moules individuels",
-   "Faire cuire 18 min \u00e0 thermostat 7"
-  ]
- },
- "Mousse au chocolat": {
-  "Type": "Dessert",
-  "Temps": {
-   "Pr\u00e9paration": [
-    30,
-    "min"
-   ],
-   "Cuisson": [
-    0,
-    "min"
-   ],
-   "Repos": [
-    1,
-    "h"
-   ]
+  "Curry à la japonaise": {
+    "Type": "Plat",
+    "Temps": {
+      "Préparation": [25, "min"],
+      "Cuisson": [60, "min"],
+      "Repos": [0, ""]
+    },
+    "Ingrédients": [
+        ["1", "", "oignon"],
+        ["5", "", "gousses d'ail"],
+        ["30", "g", "gingembre"],
+        ["2", "cuillères à soupe", "beurre"],
+        ["2", "", "petites pommes"],
+        ["2", "", "carottes"],
+        ["1", "sachet", "riz japonais"],
+        ["4", "cuillères à soupe", "farine"],
+        ["3", "cuillères à soupe", "curry en poudre"],
+        ["200", "g", "tomates concassées"],
+        ["1.2", "L", "bouillon"],
+        ["2", "cuillères à soupe", "Ketchup"],
+        ["3", "cuillères à soupe", "sauce Worcestershire"],
+        ["1.5", "cuillères à soupe", "miel"],
+        ["3", "cuillères à soupe", "sauce soja"],
+        ["1", "cuillères à café", "sel"],
+        ["1", "", "oeuf mollet"],
+        ["1", "cuillères à soupe", "huile"]
+    ],
+    "Préparation": [
+        "Émincer l'oignon, l'ail, le gingembre, les pommes, et les carottes",
+        "Faire chauffer l'huile à feu doux dans une cocotte.",
+        "Augmenter le feux et y faire revenir l'oignon, l'ail et le gigembre jusqu'à ce qu'ils soient dorés.",
+        "Baisser le feux.",
+        "Ajouter le beurre, la farine et faire revenir 2 minutes",
+        "Ajouter le curry puis les tomates et cuire pendant 5 minutes",
+        "Verser 240 mL de bouillon et mélanger.",
+        "Ajouter le reste du bouillon avec le ketchup, la sauce Worcestershire, le miel, la sauce soja, les pommes et les carottes",
+        "Porter à ébullition puis baisser le feu.",
+        "Laisser mijoter 30 minutes en remuant régulièrement.",
+        "Pendant ce temps, faire cuire le riz dans une casserole à part."
+    ]
   },
-  "Ingr\u00e9dients": [
-   [
-    "3",
-    "",
-    "Blanc d'oeufs"
-   ],
-   [
-    "20",
-    "g",
-    "Sucre"
-   ],
-   [
-    "125",
-    "g",
-    "chocolat"
-   ],
-   [
-    "2",
-    "",
-    "Jaune d'oeuf"
-   ],
-   [
-    "75",
-    "g",
-    "Beurre"
-   ],
-   [
-    "50",
-    "g",
-    "Sucre"
-   ]
-  ],
-  "Pr\u00e9paration": [
-   "Faire fondre le chocolat au bain marie",
-   "Hors du feu ajouter le beurre jusqu'\u00e0 obtenir un m\u00e9lange pommade",
-   "Une fois le m\u00e9lange froid ajouter les jaunes et 50 g de sucre",
-   "Battre les blancs en neige et \u00e0 mi-parcours ajouter le sucre restant",
-   "M\u00e9langer d\u00e9licatement les blancs avec le reste",
-   "Mettre au frais"
-  ]
- },
- "P\u00e2te \u00e0 cr\u00eapes": {
-  "Type": "P\u00e2te",
-  "Temps": {
-   "Pr\u00e9paration": [
-    30,
-    "min"
-   ],
-   "Cuisson": [
-    1,
-    "min"
-   ],
-   "Repos": [
-    30,
-    "min"
-   ]
+  "Finger": {
+    "Type": "Dessert",
+    "Temps": {
+      "Préparation": [20, "min"],
+      "Cuisson": [10, "min"],
+      "Repos": [60, "min"]
+    },
+    "Ingrédients": [
+      ["1", "", "jaune d’œuf"],
+      ["30", "g", "lait"],
+      ["60", "g", "sucre"],
+      ["55", "g", "beurre"],
+      ["125", "g", "farine"],
+      ["1", "dose", "vanille"],
+      ["150", "g", "chocolat au lait"],
+      ["40", "g", "chocolat noir"]
+    ],
+    "Préparation": [
+      "Fouetter ensemble le jaune d'œuf, le sucre, le lait et le beurre fondu.",
+      "Ajouter la farine à la spatule jusqu’à obtenir une pâte homogène.",
+      "Préchauffer le four à 180°C.",
+      "Remplir une poche à douille fine et réaliser des petits boudins de pâte sur une plaque recouverte de papier sulfurisé.",
+      "Enfourner 8-10 minutes.",
+      "Faire fondre les chocolats, tremper les fingers dedans.",
+      "Enlever l’excédent de chocolat.",
+      "Déposer les fingers sur une feuille de sulfurisé et placer au frais au moins 1h."
+    ]
   },
-  "Ingr\u00e9dients": [
-   [
-    "250",
-    "g",
-    "farine"
-   ],
-   [
-    "4",
-    "",
-    "oeufs"
-   ],
-   [
-    "1",
-    "sachet",
-    "sucre vanill\u00e9"
-   ],
-   [
-    "1",
-    "cuill\u00e8re \u00e0 soupe",
-    "cognac"
-   ],
-   [
-    "50",
-    "g",
-    "beurre"
-   ],
-   [
-    "1/2",
-    "L",
-    "lait"
-   ]
-  ],
-  "Pr\u00e9paration": [
-   "Faire fondre le beurre",
-   "Pr\u00e9parer un r\u00e9cipient avec le lait et y m\u00e9langer le sucre vanill\u00e9",
-   "Dans un saladier faire un puit de farine",
-   "Y ajouter les oeufs et fouetter l'ensemble",
-   "Ajouter le lait petit-\u00e0-petit sans cesser de fouetter afin d'\u00e9viter la formation de grumeaux",
-   "Ajouter le cognac lorsque la p\u00e2te commence \u00e0 devenir liquide",
-   "Laisser reposer 30 min au frais"
-  ]
- },
- "Tagliatelles de concombre au saumon fum\u00e9": {
-  "Type": "Plat",
-  "Temps": {
-   "Pr\u00e9paration": [
-    0,
-    ""
-   ],
-   "Cuisson": [
-    0,
-    ""
-   ],
-   "Repos": [
-    0,
-    ""
-   ]
+  "Focaccia": {
+    "Type": "Pâte",
+    "Temps": {
+      "Préparation": [30, "min"],
+      "Cuisson": [25, "min"],
+      "Repos": [1440, "min"]
+    },
+    "Ingrédients": [
+        ["500", "g", "farine"],
+        ["8", "g", "levure de boulanger"],
+        ["400", "g", "eau tiède"],
+        ["80", "g", "huile d'olive"],
+        ["7", "g", "miel"],
+        ["5", "g", "sel"],
+        ["3", "g", "gros sel"]
+    ],
+    "Préparation": [
+        "Diluer le miel dans l'eau tiède puis ajouter la levure pour l'activer (attendre environ 15 minutes)",
+        "Dans un saladier, mettre la farine, 40 grammes d'huile et l'eau",
+        "Mélanger à la spatule puis laisser reposer 20 minutes",
+        "Avec des mains humides réaliser 3 fois 4 rabats à intervalle de 20 min",
+        "Mettre au frigo pour 18 heures en couvrant hermétiquement la pâte",
+        "Dans un plat recouvert de papier cuisson, verser 15 g d'huile puis y déposer la pâte",
+        "Mettre 10 g d'huile dessus et la couvrir pour 2 heures de repos",
+        "Étaler la pâte, y faire des empreintes avec les doigts puis y verser 15 grammes d'huile",
+        "Saupoudrer de sel et de romarin",
+        "Enfourner à 200 °C pour 23 à 25 minutes en chaleur tournante"
+    ]
   },
-  "Ingr\u00e9dients": [
-   [
-    "1",
-    "",
-    "concombre"
-   ],
-   [
-    "2",
-    "tranche",
-    "saumon fum\u00e9"
-   ],
-   [
-    "1",
-    "dose",
-    "menthe"
-   ],
-   [
-    "1",
-    "dose",
-    "basilic"
-   ],
-   [
-    "150",
-    "g",
-    "fromage blanc"
-   ],
-   [
-    "1",
-    "dose",
-    "huile d'olive"
-   ],
-   [
-    "1",
-    "pinc\u00e9e",
-    "sel"
-   ],
-   [
-    "1",
-    "gousse",
-    "ail"
-   ]
-  ],
-  "Pr\u00e9paration": [
-   "Tailler des tagliatelles de concombre \u00e0 l'aide d'un \u00e9conome",
-   "Dans un saladier, m\u00e9langer le fromage blanc, la menthe, l\u2019ail, le basilic, le sel et l\u2019huile d\u2019olive",
-   "Couper le poisson en petit morceau",
-   "Couper le poisson en petits morceaux et m\u00e9langer avec le reste."
-  ]
- },
- "Tarte courgettes, ricotta et pesto": {
-  "Type": "Plat",
-  "Temps": {
-   "Pr\u00e9paration": [
-    30,
-    "min"
-   ],
-   "Cuisson": [
-    35,
-    "min"
-   ],
-   "Repos": [
-    0,
-    ""
-   ]
+  "Fondant au chocolat": {
+    "Type": "Dessert",
+    "Temps": {
+      "Préparation": [20, "min"],
+      "Cuisson": [60, "min"],
+      "Repos": [0, ""]
+    },
+    "Ingrédients": [
+        ["250", "g", "chocolat"],
+        ["200", "g", "beurre"],
+        ["250", "g", "sucre semoule"],
+        ["75", "g", "farine"],
+        ["3", "", "oeufs"],
+        ["1", "dose", "sucre glace"],
+        ["0.5", "verre", "eau"]
+    ],
+    "Préparation": [
+        "Couper le chocolat et le beurre en petits morceaux",
+        "Dans une casserole mélanger l'eau et le sucre",
+        "Faire chauffer en délayant à la spatule jusqu'à ébullition",
+        "Ajouter le chocolat et le beurre, baisser le feu et mélanger intimement sur feux doux jusqu'à ce que la préparation soit lisse.",
+        "Éteindre le feu",
+        "Verser la farine dans une terrine puis les oeufs 1 par 1 tout en mélangeant",
+        "Une fois le chocolat tiédi, y verser ce mélange et remuer vigoureusement jusqu'à absorption complète",
+        "Verser la pâte dans le moule et faire cuire au four au bain-marie pendant 1 heure à 170°C",
+        "Sortir du four, laisser refroidir puis démouler",
+        "Poudrer de sucre glace"
+    ]
   },
-  "Ingr\u00e9dients": [
-   [
-    "1",
-    "",
-    "p\u00e2te bris\u00e9e"
-   ],
-   [
-    "3",
-    "",
-    "courgettes"
-   ],
-   [
-    "1",
-    "",
-    "oignon rouge"
-   ],
-   [
-    "2",
-    "cuill\u00e8re \u00e0 soupe",
-    "huile d'olive"
-   ],
-   [
-    "1",
-    "cuill\u00e8re \u00e0 soupe",
-    "miel"
-   ],
-   [
-    "200",
-    "g",
-    "ricotta"
-   ],
-   [
-    "2",
-    "cuill\u00e8re \u00e0 soupe",
-    "pesto"
-   ],
-   [
-    "1",
-    "",
-    "Burrata"
-   ],
-   [
-    "1",
-    "poign\u00e9e",
-    "pignons"
-   ],
-   [
-    "1",
-    "poign\u00e9e",
-    "parmesan"
-   ]
-  ],
-  "Pr\u00e9paration": [
-   "Pr\u00e9chauffez le four \u00e0 190\u00b0C.\n",
-   "Pr\u00e9parer des tagliatelles de courgettes \u00e0 l\u2019aide d\u2019un \u00e9conome et les mettre dans un r\u00e9cipient",
-   "Ajouter les lamelles d\u2019oignon rouge",
-   "Ajouter le miel et l\u2019huile d\u2019olive et m\u00e9langer",
-   "Dans un bol, m\u00e9langer la ricotta avec le pesto.",
-   "\u00c9taler le m\u00e9lange ricotta-pesto sur la p\u00e2te bris\u00e9e",
-   "Disposer ensuite les courgettes et les oignons sur la ricotta",
-   "Replier les bords de la p\u00e2te sur la garniture pour former une tarte rustique",
-   "Saupoudrer de parmesan puis enfourner la tarte pendant environ 35 minutes",
-   "\u00c0 la sortie du four, ajouter un peu de burrata, quelques cuiller\u00e9es de pesto et les pignons"
-  ]
- },
- "Tomates farcies sans cuisson": {
-  "Type": "Entr\u00e9e",
-  "Temps": {
-   "Pr\u00e9paration": [
-    20,
-    "min"
-   ],
-   "Cuisson": [
-    0,
-    "min"
-   ],
-   "Repos": [
-    0,
-    "min"
-   ]
+  "Gâteau au chocolat": {
+    "Type": "Dessert",
+    "Temps": {
+      "Préparation": [20, "min"],
+      "Cuisson": [30, "min"],
+      "Repos": [60, "min"]
+    },
+    "Ingrédients": [
+        ["3", "", "oeufs"],
+        ["125", "g", "beurre"],
+        ["125", "g", "sucre"],
+        ["125", "g", "chocolat noir"],
+        ["50", "g", "farine"]
+    ],
+    "Préparation": [
+        "Faire fondre le chocolat et le beurre à feux doux.",
+        "Ajouter le sucre et la farine tout en mélangeant hors du feu.",
+        "Séparer les blancs d'oeuf de leur jaune.",
+        "Monter les blancs en neige.",
+        "Une fois le mélange chocolat refroidi, y ajouter les jaunes d'oeufs et mélanger",
+        "Incorporer le chocolat dans les blanc et mélanger délicatement",
+        "Mettre le tout dans un moule et faire cuire au four à 170°C (th. 5-6)",
+        "Pour garder un intérieur tendre, ajuster la cuisson pour garder un aspect \"crème\""
+    ]
   },
-  "Ingr\u00e9dients": [
-   [
-    "2",
-    "",
-    "grosses tomates"
-   ],
-   [
-    "200",
-    "g",
-    "thon"
-   ],
-   [
-    "2",
-    "cuill\u00e8re \u00e0 soupe",
-    "fromage frais"
-   ],
-   [
-    "1",
-    "dose",
-    "Ciboulette"
-   ],
-   [
-    "1",
-    "dose",
-    "sel"
-   ],
-   [
-    "1",
-    "dose",
-    "poivre"
-   ]
-  ],
-  "Pr\u00e9paration": [
-   "Lavez et couper le chapeau des tomates, retirer l\u2019int\u00e9rieur des tomates. Coupez le et r\u00e9server.",
-   "Dans un saladier m\u00e9langer le thon, le fromage frais, la ciboulette, les radis r\u00e2p\u00e9s, le sel et le poivre, et la chair de tomates.",
-   "Remplir les tomates, et servir tr\u00e8s frais"
-  ]
- }
+  "Gâteau aux framboises léger": {
+    "Type": "Dessert",
+    "Temps": {
+      "Préparation": [15, "min"],
+      "Cuisson": [30, "min"],
+      "Repos": [0, ""]
+    },
+    "Ingrédients": [
+      ["4", "", "œufs"],
+      ["200", "g", "sucre"],
+      ["200", "g", "farine"],
+      ["250", "g", "framboises"],
+      ["65", "g", "beurre demi-sel"],
+      ["1", "dose", "sucre glace"]
+    ],
+    "Préparation": [
+      "Dans un saladier, fouetter les œufs et le sucre.",
+      "Ajouter la farine tamisée.",
+      "Verser la pâte dans le moule et répartir les framboises dedans.",
+      "Répartir le beurre en petits morceaux sur la pâte.",
+      "Faire cuire 30 minutes à 180°C."
+    ]
+  },
+  "Gâteau aux miettes de pêche brioché": {
+    "Type": "Dessert",
+    "Temps": {
+      "Préparation": [30, "min"],
+      "Cuisson": [40, "min"],
+      "Repos": [90, "min"]
+    },
+    "Ingrédients": [
+      ["80", "g", "lait entier"],
+      ["1", "càt", "levure sèche active"],
+      ["1", "càs", "sucre granulé"],
+      ["160", "g", "farine"],
+      ["0.5", "càc", "sel"],
+      ["1", "", "œuf"],
+      ["42", "g", "beurre non salé"],
+      ["560", "g", "pêches jaunes"],
+      ["70", "g", "sucre roux"],
+      ["2", "càc", "cannelle moulue"],
+      ["60", "g", "beurre non salé (streusel)"],
+      ["90", "g", "sucre roux (streusel)"],
+      ["120", "g", "farine (streusel)"],
+      ["2", "càc", "cannelle moulue (streusel)"]
+    ],
+    "Préparation": [
+      "Préparer la brioche : activer la levure et le sucre dans le lait tiède 10 minutes.",
+      "Ajouter la farine, le sel, l'œuf et 42g de beurre. Pétrir la pâte.",
+      "Laisser monter la pâte dans un endroit chaud pendant 1 heure.",
+      "Dégazer la pâte et la placer dans un moule à gâteau.",
+      "Laisser lever 30 minutes.",
+      "Préparer les pêches : les rincer, découper et mélanger avec 70g de sucre roux et 2 càc de cannelle.",
+      "Préparer le streusel : mélanger 60g de beurre, 90g de sucre roux, 120g de farine et 2 càc de cannelle.",
+      "Ajouter les pêches sur la pâte levée, puis le streusel par-dessus.",
+      "Cuire à 170°C pendant 40 minutes."
+    ]
+  },
+  "Kannelbullars": {
+    "Type": "Dessert",
+    "Temps": {
+      "Préparation": [30, "min"],
+      "Cuisson": [9, "min"],
+      "Repos": [90, "min"]
+    },
+    "Ingrédients": [
+      ["250", "ml", "lait"],
+      ["7", "g", "levure de boulanger déshydratée"],
+      ["41", "g", "cassonade"],
+      ["400", "g", "farine T45"],
+      ["1", "pincée", "sel"],
+      ["90", "g", "beurre pommade"],
+      ["80", "g", "cassonade (garniture)"],
+      ["2", "càc", "cannelle moulue"],
+      ["1", "càc", "extrait de vanille"],
+      ["60", "ml", "eau"],
+      ["50", "g", "sucre"],
+      ["1", "dose", "sucre perlé"]
+    ],
+    "Préparation": [
+      "Chauffer le lait à 30°C. Ajouter la levure et 1 cuillère à café de cassonade. Laisser reposer 10 minutes.",
+      "Mélanger la farine, la cassonade, le sel et le lait. Pétrir.",
+      "Laisser pousser la pâte 1h.",
+      "Préparer la garniture : mélanger beurre pommade, cassonade, vanille et cannelle.",
+      "Etaler la pâte sur 3mm d'épaisseur et étaler la garniture.",
+      "Formez un rectangle en pliant la pâte en trois.",
+      "Coupez la rectangle en tranches de 2,5 cm de large.",
+      "Etirez et repliez les bandes en 2, puis formez un nœud.",
+      "Laisser pousser 30 minutes.",
+      "Enfourner pour 9 minutes à 220°C.",
+      "Préparer un sirop en faisant bouillir 1 minute l'eau et le sucre.",
+      "Verser le sirop sur les kanelbullars chauds et saupoudrer de sucre perlé."
+    ]
+  },
+  "Lasagnes aux aubergines": {
+    "Type": "Plat",
+    "Temps": {
+      "Préparation": [40, "min"],
+      "Cuisson": [45, "min"],
+      "Repos": [75, "min"]
+    },
+    "Ingrédients": [
+      ["500", "g", "aubergines"],
+      ["300", "g", "ricotta"],
+      ["3", "gousse", "ail"],
+      ["2", "càt", "origan séché"],
+      ["2", "", "gros œufs"],
+      ["500", "g", "sauce tomate"],
+      ["3", "càs", "huile d’olive"],
+      ["100", "g", "parmesan râpé"],
+      ["300", "g", "mozzarella râpée"],
+      ["1", "botte", "basilic frais"],
+      ["1", "dose", "sel et poivre"],
+      ["1", "paquet", "pâtes à lasagnes"]
+    ],
+    "Préparation": [
+      "Couper les aubergines en tranches de 6 mm d’épaisseur dans la longueur.",
+      "Saler, placer dans une passoire pendant 1h. Rincer et sécher.",
+      "Faire dorer les tranches à la poêle avec de l'huile. Égoutter sur du papier absorbant.",
+      "Dans un bol, mélanger la ricotta, le parmesan, les œufs, l’origan, le sel et le poivre.",
+      "Préchauffer le four à 190°C.",
+      "Dans un plat de 23x15 cm, monter les lasagnes : ricotta, nouilles, aubergine, sauce, mozzarella, parmesan.",
+      "Répéter les couches en terminant par les tranches d’aubergine.",
+      "Couvrir de papier aluminium et cuire 30 min. Découvrir et cuire 15 min.",
+      "Laisser reposer 15 à 20 min. Décorer de basilic."
+    ]
+  },
+  "Moelleux au chocolat": {
+    "Type": "Dessert",
+    "Temps": {
+      "Préparation": [20, "min"],
+      "Cuisson": [25, "min"],
+      "Repos": [0, "min"]
+    },
+    "Ingrédients": [
+        ["200", "g", "chocolat"],
+        ["200", "g", "beurre"],
+        ["150", "g", "sucre"],
+        ["5", "", "oeufs"],
+        ["1", "cuillère à soupe", "farine"]
+    ],
+    "Préparation": [
+        "Préchauffer le four à 180°C",
+        "Faire fondre le chocolat et le beurre au bain-marie",
+        "Ajouter le sucre et mélanger",
+        "Laisser refroidir le mélange",
+        "Séparer les blancs d'oeuf de leur jaune",
+        "Battre les blancs en neige (pas trop ferme pour faciliter le mélange)",
+        "Une le mélange de chocolat tiédi, ajouter les jaunes d'oeufs et mélanger",
+        "Ajouter la farine tamisée",
+        "Mélanger le chocolat aux blancs en neige, d'abord par 2 cuillérée jusqu'à ce que le mélange soit homogène, puis le reste.",
+        "Mélanger délicatement",
+        "Verser le mélange dans le moule et enfourner 20-25 minutes"
+    ]
+  },
+  "Moelleux aux pépites de chocolat": {
+    "Type": "Dessert",
+    "Temps": {
+      "Préparation": [10, "min"],
+      "Cuisson": [18, "min"],
+      "Repos": [0, "min"]
+    },
+    "Ingrédients": [
+        ["3", "", "oeufs"],
+        ["1", "", "yaourt nature"],
+        ["120", "g", "pépites de chocolat"],
+        ["1.5", "pot", "farine"],
+        ["0.5", "pot", "sucre"],
+        ["1", "sachet", "levure chimique"],
+        ["0.5", "pot", "huile"]
+    ],
+    "Préparation": [
+        "Dans un saladier mélanger tous les ingrédients",
+        "Verser le mélange dans des moules individuels",
+        "Faire cuire 18 min à thermostat 7"
+    ]
+  },
+  "Moelleux aux pêches caramélisées": {
+    "Type": "Dessert",
+    "Temps": {
+      "Préparation": [15, "min"],
+      "Cuisson": [35, "min"],
+      "Repos": [0, ""]
+    },
+    "Ingrédients": [
+      ["4", "", "pêches"],
+      ["15", "g", "beurre"],
+      ["1", "cac", "cannelle"],
+      ["1", "sachet", "sucre vanillé"],
+      ["150", "g", "farine"],
+      ["3", "", "œufs"],
+      ["1", "", "yaourt nature"],
+      ["60", "g", "sucre"],
+      ["50", "g", "beurre fondu"],
+      ["1", "sachet", "levure"]
+    ],
+    "Préparation": [
+      "Découper des quartiers de pêches et les faire caraméliser 10 minutes à la poêle avec 15g de beurre, le sucre vanillé et la cannelle.",
+      "Préparer la pâte du gâteau.",
+      "Ajouter les pêches caramélisées dans la préparation, bien mélanger et verser dans un moule beurré.",
+      "Disposer des quartiers de pêches crus et coupés finement sur le dessus.",
+      "Faire cuire 30-35 min à 170 degrés."
+    ]
+  },
+  "Mousse au chocolat": {
+    "Type": "Dessert",
+    "Temps": {
+      "Préparation": [20, "min"],
+      "Cuisson": [0, ""],
+      "Repos": [60, "min"]
+    },
+    "Ingrédients": [
+        ["3", "", "Blanc d'oeufs"],
+        ["20", "g", "Sucre"],
+        ["125", "g", "chocolat"],
+        ["2", "", "Jaune d'oeuf"],
+        ["75", "g", "Beurre"],
+        ["50", "g", "Sucre"]
+    ],
+    "Préparation": [
+        "Faire fondre le chocolat au bain marie",
+        "Hors du feu ajouter le beurre jusqu'à obtenir un mélange pommade",
+        "Une fois le mélange froid ajouter les jaunes et 50 g de sucre",
+        "Battre les blancs en neige et à mi-parcours ajouter le sucre restant",
+        "Mélanger délicatement les blancs avec le reste",
+        "Mettre au frais"
+    ]
+  },
+  "Pain au raisin": {
+    "Type": "Dessert",
+    "Temps": {
+      "Préparation": [45, "min"],
+      "Cuisson": [20, "min"],
+      "Repos": [830, "min"]
+    },
+    "Ingrédients": [
+      ["250", "gr", "farine"],
+      ["1.5", "càs", "sucre"],
+      ["1", "càc", "sel"],
+      ["10", "gr", "levure boulangère fraîche"],
+      ["100", "ml", "eau tiède"],
+      ["25", "gr", "beurre"],
+      ["125", "gr", "beurre pour tourage"],
+      ["100", "gr", "raisins"],
+      ["1", "dose", "crème pâtissière"],
+      ["1", "jaune", "œuf pour dorure"]
+    ],
+    "Préparation": [
+      "Dans un saladier, mélanger l’eau, la levure et les œufs.",
+      "Ajouter le beurre, la farine, le sel et le sucre. Pétrir 10 minutes.",
+      "Couvrir et laisser reposer 30 minutes.",
+      "Préparer un carré de beurre de tourage de 13x13cm.",
+      "Réserver la pâte et le beurre de tourage pendant 12H au frigo minimum.",
+      "Etaler la pâte en carré de 16cm, ajouter le beurre au centre et replier en enveloppe.",
+      "Mettre au congélateur pour 10 minutes.",
+      "Etaler la pâte sur 40 cm, faire un tour simple.",
+      "Mettre au congélateur pour 10 minutes.",
+      "Allonger la pâte sur 55 à 60 cm puis faire un tour double (en portefeuille).",
+      "Couvrir et mettre au congélateur pour 40 minutes.",
+      "Réaliser la crème pâtissière et faire tremper les raisins 10 minutes dans de l’eau bouillante.",
+      "Etaler la pâte sur 22cm de large, étaler la crème pâtissière et disposer les raisins.",
+      "Rouler la pate et la mettre au congélateur 30 minutes.",
+      "Couper la pâte en plusieurs parties.",
+      "Laisser pousser pendant 2h à température ambiante.",
+      "Dorer au jaune d'oeuf.",
+      "Enfourner pour 20 minutes à 170°C."
+    ]
+  },
+  "Pâte à crêpes": {
+    "Type": "Pâte",
+    "Temps": {
+      "Préparation": [15, "min"],
+      "Cuisson": [15, "min"],
+      "Repos": [30, "min"]
+    },
+    "Ingrédients": [
+        ["250", "g", "farine"],
+        ["4", "", "oeufs"],
+        ["1", "sachet", "sucre vanillé"],
+        ["1", "cuillère à soupe", "cognac"],
+        ["50", "g", "beurre"],
+        ["0.5", "L", "lait"]
+    ],
+    "Préparation": [
+        "Faire fondre le beurre",
+        "Préparer un récipient avec le lait et y mélanger le sucre vanillé",
+        "Dans un saladier faire un puit de farine",
+        "Y ajouter les oeufs et fouetter l'ensemble",
+        "Ajouter le lait petit-à-petit sans cesser de fouetter afin d'éviter la formation de grumeaux",
+        "Ajouter le cognac lorsque la pâte commence à devenir liquide",
+        "Laisser reposer 30 min au frais"
+    ]
+  },
+  "Rochers coco": {
+    "Type": "Dessert",
+    "Temps": {
+      "Préparation": [10, "min"],
+      "Cuisson": [15, "min"],
+      "Repos": [0, ""]
+    },
+    "Ingrédients": [
+      ["5", "", "blancs d’œufs"],
+      ["150", "g", "sucre"],
+      ["250", "g", "coco râpée"]
+    ],
+    "Préparation": [
+      "Monter les blancs d’œufs en neige.",
+      "Mélanger le sucre et la coco ensemble.",
+      "Ajouter ce mélange délicatement aux blancs en neige.",
+      "Former des boules sur une plaque allant au four.",
+      "Cuire à 200 degrés pendant 15 minutes."
+    ]
+  },
+  "Rollatini de courgettes aux trois fromages": {
+    "Type": "Plat",
+    "Temps": {
+      "Préparation": [25, "min"],
+      "Cuisson": [30, "min"],
+      "Repos": [5, "min"]
+    },
+    "Ingrédients": [
+      ["2", "", "moyennes courgettes"],
+      ["200", "ml", "sauce tomate"],
+      ["180", "g", "fromage ricotta"],
+      ["30", "g", "parmesan"],
+      ["120", "g", "mozzarella râpée"],
+      ["1", "", "œuf"],
+      ["2", "gousse", "ail haché"],
+      ["7", "feuille", "basilic frais"],
+      ["0.25", "cuillère à café", "sel et poivre"]
+    ],
+    "Préparation": [
+      "Préchauffer le four à 220°C.",
+      "Couper les courgettes en tranches sur la longueur.",
+      "Saler les tranches pour éliminer l’excès d’eau pendant 5 minutes.",
+      "Les faire cuire 1 minute au four pour les ramollir, puis les sécher.",
+      "Dans un bol, mélanger la ricotta, le parmesan, le basilic, l'ail, l'œuf, le sel et le poivre.",
+      "Dans un plat, verser une couche de sauce tomate.",
+      "Étaler la garniture de ricotta sur les tranches de courgettes, puis les enrouler.",
+      "Placer les rollatini dans le plat, verser le reste de sauce tomate dessus.",
+      "Ajouter la mozzarella et le parmesan.",
+      "Faire cuire à découvert pendant 20-25 minutes.",
+      "Servir avec du basilic frais."
+    ]
+  },
+  "Roulés d'aubergine farcis au pesto": {
+    "Type": "Plat",
+    "Temps": {
+      "Préparation": [20, "min"],
+      "Cuisson": [35, "min"],
+      "Repos": [0, ""]
+    },
+    "Ingrédients": [
+      ["3", "", "petites aubergines"],
+      ["100", "g", "fromage frais"],
+      ["100", "g", "pesto"],
+      ["400", "g", "pulpe de tomate"],
+      ["30", "g", "parmesan"],
+      ["1", "gousse", "ail"],
+      ["1", "dose", "basilic frais"]
+    ],
+    "Préparation": [
+      "Préchauffer le four à 200°C.",
+      "Couper l’aubergine en tranches épaisses dans la longueur.",
+      "Disposer les tranches sur une plaque, arroser d’huile d’olive, saler, poivrer et enfourner 15 à 20 minutes.",
+      "Mélanger le fromage frais avec le pesto.",
+      "Déposer un peu de farce sur chaque tranche d'aubergine cuite, puis rouler.",
+      "Préparer la sauce tomate en mélangeant la pulpe de tomate, l’huile d’olive, l’ail râpé, sel, poivre et basilic.",
+      "Verser la sauce dans un plat, puis disposer les roulés d'aubergine par-dessus.",
+      "Saupoudrer de parmesan râpé.",
+      "Enfourner à 200°C pendant 15 à 20 minutes."
+    ]
+  },
+  "Salade de pêches grillées avec burrata & jambon serrano": {
+    "Type": "Entrée",
+    "Temps": {
+      "Préparation": [15, "min"],
+      "Cuisson": [5, "min"],
+      "Repos": [0, ""]
+    },
+    "Ingrédients": [
+      ["4", "", "pêches"],
+      ["1", "noix", "beurre"],
+      ["2", "cuillère", "miel"],
+      ["100", "g", "feuille d’épinard"],
+      ["150", "g", "tomates cerises"],
+      ["1", "", "burrata"],
+      ["150", "g", "jambon serrano"],
+      ["30", "g", "pignon de pin"],
+      ["1", "filet", "huile d’olive"],
+      ["1", "filet", "crème de balsamique"],
+      ["1", "dose", "sel et poivre"]
+    ],
+    "Préparation": [
+      "Couper les pêches en tranches et les tomates cerises en deux.",
+      "Faire rôtir les pignons dans une poêle sans huile.",
+      "Dans une poêle, faire fondre le beurre et rôtir les pêches à feu moyen.",
+      "Ajouter le miel et laisser caraméliser pendant 2 minutes.",
+      "Dresser les assiettes : feuilles d'épinards, puis pêches, tomates, burrata, jambon et pignons.",
+      "Assaisonner avec l'huile d'olive, la crème balsamique, le sel et le poivre."
+    ]
+  },
+  "Salade melon concombre": {
+    "Type": "Entrée",
+    "Temps": {
+      "Préparation": [15, "min"],
+      "Cuisson": [0, ""],
+      "Repos": [0, ""]
+    },
+    "Ingrédients": [
+      ["0.5", "", "melon"],
+      ["0.5", "", "concombre"],
+      ["10", "", "tomates cerises"],
+      ["1", "dose", "feuilles de basilic"],
+      ["1", "", "burrata"],
+      ["1", "paquet", "jambon cru"],
+      ["2", "càs", "huile d’olive"],
+      ["1", "càs", "jus de citron"],
+      ["1", "càc", "miel"],
+      ["1", "dose", "sel, poivre"]
+    ],
+    "Préparation": [
+      "Couper le melon, le concombre, les tomates et mélanger le tout dans un saladier.",
+      "Dans un bol, préparer la vinaigrette en mélangeant l’huile d’olive, le jus de citron, le miel, le sel et le poivre.",
+      "Ajouter la sauce, le jambon cru et la burrata au saladier.",
+      "Ajouter les feuilles de basilic."
+    ]
+  },
+  "Tagliatelles de concombre au saumon fumé": {
+    "Type": "Entrée",
+    "Temps": {
+      "Préparation": [10, "min"],
+      "Cuisson": [0, ""],
+      "Repos": [0, ""]
+    },
+    "Ingrédients": [
+      ["1", "", "concombre"],
+      ["2", "tranche", "saumon fumé"],
+      ["1", "dose", "menthe"],
+      ["1", "dose", "basilic"],
+      ["150", "g", "fromage blanc"],
+      ["1", "dose", "huile d'olive"],
+      ["1", "pincée", "sel"],
+      ["1", "gousse", "ail"]
+    ],
+    "Préparation": [
+      "Tailler des tagliatelles de concombre à l'aide d'un économe.",
+      "Dans un saladier, mélanger le fromage blanc, la menthe, l’ail, le basilic, le sel et l’huile d’olive.",
+      "Couper le poisson en petits morceaux.",
+      "Mélanger le tout."
+    ]
+  },
+  "Tarte concombre thon": {
+    "Type": "Plat",
+    "Temps": {
+      "Préparation": [15, "min"],
+      "Cuisson": [20, "min"],
+      "Repos": [0, ""]
+    },
+    "Ingrédients": [
+      ["1", "", "pâte brisée"],
+      ["0.5", "", "concombre"],
+      ["5", "g", "beurre"],
+      ["240", "g", "thon"],
+      ["3", "cas", "St Moret"],
+      ["6", "g", "ciboulette"],
+      ["1", "cas", "miel"],
+      ["1", "cas", "soja salé"],
+      ["1", "cas", "huile d’olive"],
+      ["1", "zeste", "citron"],
+      ["1", "pincée", "sel"]
+    ],
+    "Préparation": [
+      "Faire cuire la pâte 20min à 200 degrés.",
+      "Couper le concombre à l'aide d'une mandoline.",
+      "Dans un bol, mélanger le thon, le saint Moret, la ciboulette, le zeste de citron, le miel, le soja, l'huile et le sel.",
+      "Au fond de la pâte, étalez la moitié de la préparation au thon puis recouvrir de concombre et enfin répéter l’opération.",
+      "Servir Frais."
+    ]
+  },
+  "Tarte courgettes, ricotta et pesto": {
+    "Type": "Plat",
+    "Temps": {
+      "Préparation": [20, "min"],
+      "Cuisson": [35, "min"],
+      "Repos": [0, ""]
+    },
+    "Ingrédients": [
+      ["1", "", "pâte brisée"],
+      ["3", "", "courgettes"],
+      ["1", "", "oignon rouge"],
+      ["2", "cas", "huile d’olive"],
+      ["1", "cas", "miel"],
+      ["200", "g", "ricotta"],
+      ["2", "cas", "pesto"],
+      ["1", "", "burrata"],
+      ["1", "poignée", "pignons"]
+    ],
+    "Préparation": [
+      "Préchauffer le four à 190°C.",
+      "Préparer des tagliatelles de courgettes à l’aide d’un économe.",
+      "Ajouter des lamelles d’oignon rouge, le miel et l’huile d’olive, puis mélanger.",
+      "Mélanger la ricotta avec le pesto.",
+      "Étaler le mélange ricotta-pesto sur la pâte brisée.",
+      "Disposer les courgettes et les oignons sur la ricotta.",
+      "Replier les bords de la pâte pour former une tarte rustique.",
+      "Enfourner pendant environ 35 minutes à 190°C.",
+      "À la sortie du four, ajouter la burrata, quelques cuillerées de pesto et des pignons."
+    ]
+  },
+  "Tomates farcie thon, œuf et son jus de tomates": {
+    "Type": "Entrée",
+    "Temps": {
+      "Préparation": [20, "min"],
+      "Cuisson": [0, ""],
+      "Repos": [0, ""]
+    },
+    "Ingrédients": [
+      ["3", "", "grosses tomates"],
+      ["1", "pincée", "piment d’espelette"],
+      ["1", "cac", "sucre"],
+      ["1", "cas", "huile d’olive"],
+      ["2", "cas", "Saint Morêt"],
+      ["0.5", "", "oignon"],
+      ["1", "boîte", "thon"],
+      ["3", "", "œufs mollets"],
+      ["30", "g", "radis"],
+      ["1", "bouquet", "basilic"],
+      ["1", "filet", "vinaigre balsamique"]
+    ],
+    "Préparation": [
+      "Retirer le pédoncule des tomates et vider l’intérieur.",
+      "Mixer la pulpe des tomates avec du basilic, le piment, le sucre, l’huile d’olive, sel et poivre pour faire un jus.",
+      "Hacher finement le St Morêt, les oignons, le thon, le basilic, les œufs et les radis avec une pincée de sel.",
+      "Garnir les tomates avec la farce.",
+      "Ajouter un filet de vinaigre balsamique et servir avec le jus de tomates bien frais."
+    ]
+  },
+  "Tomates farcies sans cuisson": {
+    "Type": "Entrée",
+    "Temps": {
+      "Préparation": [20, "min"],
+      "Cuisson": [0, "min"],
+      "Repos": [0, "min"]
+    },
+    "Ingrédients": [
+      ["2", "", "grosses tomates"],
+      ["200", "g", "thon"],
+      ["2", "cuillère à soupe", "fromage frais"],
+      ["1", "dose", "radis râpés"],
+      ["1", "dose", "ciboulette"],
+      ["1", "dose", "sel"],
+      ["1", "dose", "poivre"]
+    ],
+    "Préparation": [
+      "Lavez et couper le chapeau des tomates, retirer l’intérieur des tomates. Coupez le et réserver.",
+      "Dans un saladier mélanger le thon, le fromage frais, la ciboulette, les radis râpés, le sel et le poivre, et la chair de tomates.",
+      "Remplir les tomates, et servir très frais"
+    ]
+  }
 }
