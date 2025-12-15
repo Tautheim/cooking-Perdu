@@ -1,4 +1,25 @@
 {
+  "Béchamel": {
+    "Type": "Sauce",
+    "Temps": {
+      "Préparation": [5, "min"],
+      "Cuisson": [5, "min"],
+      "Repos": [0, ""]
+    },
+    "Ingrédients": [
+      ["1", "cuillère à soupe", "farine"],
+      ["30", "à 50 g", "beurre"],
+      ["1", "dose", "lait"],
+      ["1", "pincée", "poivre"],
+      ["1", "pincée", "sel"]
+    ],
+    "Préparation": [
+      "Faire fondre le beurre dans une casserole.",
+      "Ajouter la farine et mélanger pour obtenir un roux.",
+      "Verser le lait petit-à-petit tout en remuant au fouet jusqu'à ce que la sauce épaississe.",
+      "Saler et poivrer."
+    ]
+  },
   "Beignet au yaourt": {
     "Type": "Dessert",
     "Temps": {
@@ -221,6 +242,34 @@
       "Verser ensuite le lait dans le mélange précédent sans cesser de remuer.",
       "Remettre sur le feu pour faire épaissir la crème tout en continuant de remuer.",
       "Verser la crème dans un saladier, la couvrir d’un film alimentaire au contact et la garder au frais."
+    ]
+  },
+  "Crostata": {
+    "Type": "Dessert",
+    "Temps": {
+      "Préparation": [20, "min"],
+      "Cuisson": [30, "min"],
+      "Repos": [120, "min"]
+    },
+    "Ingrédients": [
+      ["2", "", "œufs (1 entier, 1 jaune)"],
+      ["300", "g", "farine T00 (ou T45)"],
+      ["150", "g", "sucre semoule"],
+      ["150", "g", "beurre mou"],
+      ["2", "pincée", "sel"],
+      ["1", "zeste", "citron"],
+      ["250", "g", "confiture d’abricots (ou fraises, myrtilles, oranges...)", "garniture"]
+    ],
+    "Préparation": [
+      "Fouetter les jaunes d'œufs et l'œuf entier avec le sucre jusqu'à ce que le mélange blanchisse.",
+      "Mélanger la farine dans un grand plat avec le beurre, le sel et le zeste de citron.",
+      "Ajouter le mélange d'œufs et de sucre.",
+      "Pétrir la pâte pour former un cercle d’un diamètre supérieur de 3 cm à celui du moule, sur une épaisseur de 3-5 mm.",
+      "Déposer la pâte dans le moule, puis piquer le fond avec une fourchette.",
+      "Verser la confiture et bien l'étaler, couper délicatement au couteau l'excédent de pâte et le réserver au réfrigérateur pendant 2 heures.",
+      "Préchauffer le four à 165 °C, avec le reste de pâte, former une boule puis l'étaler au rouleau sur 3 mm d'épaisseur.",
+      "Réaliser grossièrement un rectangle de 16x8 cm d’épaisseur. Dans ce dernier, avec une roulette crantée, découper avec régularité des rubans de pâte et faire les répartir en croisillons sur la tarte, en finissant par le pourtour du moule.",
+      "Enfourner la crostata 30 à 45 minutes."
     ]
   },
   "Crumble de légumes au chèvre et au pesto": {
@@ -701,6 +750,36 @@
         "Laisser reposer 30 min au frais"
     ]
   },
+  "Quiche paysanne": {
+    "Type": "Plat",
+    "Temps": {
+      "Préparation": [45, "min"],
+      "Cuisson": [50, "min"],
+      "Repos": [0, ""]
+    },
+    "Ingrédients": [
+      ["1", "", "pâte feuilletée prête à l'emploi"],
+      ["500", "g", "pommes de terre"],
+      ["1", "", "oignon"],
+      ["200", "ml", "crème liquide"],
+      ["3", "", "œufs"],
+      ["80", "g", "lardons"],
+      ["50", "g", "gouda fruité râpé"],
+      ["1", "dose", "sel et poivre"]
+    ],
+    "Préparation": [
+      "Éplucher et couper les pommes de terre en rondelles.",
+      "Faites-les précuire 10 minutes au four à micro-ondes, puis laissez-les refroidir.",
+      "Émincer l'oignon.",
+      "Mélangez la crème et les œufs. Salez et poivrez.",
+      "Étalez la pâte feuilletée dans une tourtière de 24 cm de diamètre, en conservant le papier de cuisson.",
+      "Piquez le fond à l'aide d'une fourchette.",
+      "Répartissez la moitié des pommes de terre, puis la moitié de l'oignon et des lardons.",
+      "Couvrez avec la moitié du fromage et recommencez l'opération pour finir par le fromage.",
+      "Versez le mélange crème et œufs sur les pommes de terre.",
+      "Mettez au four 40 minutes à 180 °C (th. 6)."
+    ]
+  },
   "Rochers coco": {
     "Type": "Dessert",
     "Temps": {
@@ -916,6 +995,37 @@
       "Replier les bords de la pâte pour former une tarte rustique.",
       "Enfourner pendant environ 35 minutes à 190°C.",
       "À la sortie du four, ajouter la burrata, quelques cuillerées de pesto et des pignons."
+    ]
+  },
+  "Tiramisu classique": {
+    "Type": "Dessert",
+    "Temps": {
+      "Préparation": [20, "min"],
+      "Cuisson": [0, "min"],
+      "Repos": [120, "min"]
+    },
+    "Ingrédients": [
+      ["4", "", "œufs"],
+      ["1", "sachet", "sucre vanillé"],
+      ["120", "g", "sucre"],
+      ["500", "g", "mascarpone"],
+      ["500", "ml", "café fort et froid"],
+      ["1", "grande tasse", "café fort"],
+      ["2", "cuillère à soupe", "rhum (ou amaretto)"],
+      ["1", "zeste", "citron"],
+      ["20", "biscuits", "cuillères (ou boudoirs)"],
+      ["1", "pincée", "sel"],
+      ["1", "dose", "cacao non sucré (pour la décoration)"]
+    ],
+    "Préparation": [
+      "Fouetter le sucre avec les jaunes d'œufs et les zestes de citron jusqu'à ce que le mélange blanchisse.",
+      "Mélanger au mascarpone avec jusqu'à obtenir une crème souple et légère.",
+      "Monter les blancs en neige ferme avec une pincée de sel.",
+      "Mélanger le café froid et le rhum (ou amaretto) dans un bol.",
+      "Incorporer délicatement la moitié de la préparation aux blancs, puis le reste.",
+      "Tremper rapidement la moitié des biscuits dans le mélange café/rhum, puis couvrir le fond d'un plat avec ces biscuits.",
+      "Verser la moitié de la préparation au mascarpone, puis ajouter une autre couche de biscuits trempés et enfin le reste de la préparation.",
+      "Lisser la surface, saupoudrer de cacao et réserver au frais au moins 2h avant dégustation."
     ]
   },
   "Tomates farcie thon, œuf et son jus de tomates": {
