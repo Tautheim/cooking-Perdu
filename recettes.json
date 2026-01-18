@@ -8,7 +8,7 @@
     },
     "Ingrédients": [
       ["1", "cuillère à soupe", "farine"],
-      ["30", "à 50 g", "beurre"],
+      ["30", "g", "beurre"],
       ["1", "dose", "lait"],
       ["1", "pincée", "poivre"],
       ["1", "pincée", "sel"]
@@ -252,23 +252,27 @@
       "Repos": [120, "min"]
     },
     "Ingrédients": [
-      ["2", "", "œufs (1 entier, 1 jaune)"],
+      ["2", "", "jaunes d'œufs"],
+      ["1","","œufs"],
       ["300", "g", "farine T00 (ou T45)"],
       ["150", "g", "sucre semoule"],
       ["150", "g", "beurre mou"],
-      ["2", "pincée", "sel"],
+      ["1", "pincée", "sel"],
       ["1", "zeste", "citron"],
-      ["250", "g", "confiture d’abricots (ou fraises, myrtilles, oranges...)", "garniture"]
+      ["250", "g", "confiture"]
     ],
     "Préparation": [
-      "Fouetter les jaunes d'œufs et l'œuf entier avec le sucre jusqu'à ce que le mélange blanchisse.",
-      "Mélanger la farine dans un grand plat avec le beurre, le sel et le zeste de citron.",
-      "Ajouter le mélange d'œufs et de sucre.",
-      "Pétrir la pâte pour former un cercle d’un diamètre supérieur de 3 cm à celui du moule, sur une épaisseur de 3-5 mm.",
-      "Déposer la pâte dans le moule, puis piquer le fond avec une fourchette.",
-      "Verser la confiture et bien l'étaler, couper délicatement au couteau l'excédent de pâte et le réserver au réfrigérateur pendant 2 heures.",
-      "Préchauffer le four à 165 °C, avec le reste de pâte, former une boule puis l'étaler au rouleau sur 3 mm d'épaisseur.",
-      "Réaliser grossièrement un rectangle de 16x8 cm d’épaisseur. Dans ce dernier, avec une roulette crantée, découper avec régularité des rubans de pâte et faire les répartir en croisillons sur la tarte, en finissant par le pourtour du moule.",
+      "Sur un plan de travail fariné ou dans un grand saladier, verser la farine, le sucre semoule, le beurre, le sel et le zeste de citron.",
+      "Ajouter les jaunes d’œufs ainsi que l’œuf entier.",
+      "Mélanger à la main jusqu’à obtenir une pâte homogène.",
+      "Former une boule, la filmer et la placer au moins 2 heures au réfrigérateur.",
+      "Étaler la pâte pour former un cercle d’un diamètre supérieur de 3 cm à celui du moule, sur une épaisseur de 2,5 mm.",
+      "Disposer la pâte dans le moule, puis piquer le fond avec une fourchette.",
+      "Verser la confiture et bien la répartir.",
+      "Couper délicatement au couteau l’excédent de pâte et la réserver au réfrigérateur pendant 1 heure.",
+      "Préchauffer le four à 165 °C.",
+      "Avec le reste de pâte, former une boule puis l’étaler au rouleau pour réaliser grossièrement un rectangle de 2 mm d’épaisseur.",
+      "Dans ce dernier, avec une roulette crantée, découper avec régularité des lanières de pâte de façon à les répartir en croisillons sur la tarte, en finissant par le pourtour du moule.",
       "Enfourner la crostata 30 à 45 minutes."
     ]
   },
@@ -758,14 +762,15 @@
       "Repos": [0, ""]
     },
     "Ingrédients": [
-      ["1", "", "pâte feuilletée prête à l'emploi"],
+      ["1", "", "pâte feuilletée"],
       ["500", "g", "pommes de terre"],
       ["1", "", "oignon"],
       ["200", "ml", "crème liquide"],
       ["3", "", "œufs"],
       ["80", "g", "lardons"],
       ["50", "g", "gouda fruité râpé"],
-      ["1", "dose", "sel et poivre"]
+      ["1", "dose", "sel"],
+      ["1", "dose", "poivre"]
     ],
     "Préparation": [
       "Éplucher et couper les pommes de terre en rondelles.",
@@ -1002,30 +1007,27 @@
     "Temps": {
       "Préparation": [20, "min"],
       "Cuisson": [0, "min"],
-      "Repos": [120, "min"]
+      "Repos": [6, "h"]
     },
     "Ingrédients": [
-      ["4", "", "œufs"],
-      ["1", "sachet", "sucre vanillé"],
-      ["120", "g", "sucre"],
-      ["500", "g", "mascarpone"],
-      ["500", "ml", "café fort et froid"],
-      ["1", "grande tasse", "café fort"],
-      ["2", "cuillère à soupe", "rhum (ou amaretto)"],
-      ["1", "zeste", "citron"],
-      ["20", "biscuits", "cuillères (ou boudoirs)"],
-      ["1", "pincée", "sel"],
-      ["1", "dose", "cacao non sucré (pour la décoration)"]
+      ["160","g","beurre"],
+      ["4","","oeufs"],
+      ["1","gousse","vanille"],
+      ["400","g","mascarpone"],
+      ["2","","jus de citron"],
+      ["1","","grande tasse de café fort"],
+      ["2","cuillères à soupe","rhum"],
+      ["20","","biscuit à la cuiller"],
+      ["1","cuillère à soupe","cacao"]
     ],
     "Préparation": [
-      "Fouetter le sucre avec les jaunes d'œufs et les zestes de citron jusqu'à ce que le mélange blanchisse.",
-      "Mélanger au mascarpone avec jusqu'à obtenir une crème souple et légère.",
-      "Monter les blancs en neige ferme avec une pincée de sel.",
-      "Mélanger le café froid et le rhum (ou amaretto) dans un bol.",
-      "Incorporer délicatement la moitié de la préparation aux blancs, puis le reste.",
-      "Tremper rapidement la moitié des biscuits dans le mélange café/rhum, puis couvrir le fond d'un plat avec ces biscuits.",
-      "Verser la moitié de la préparation au mascarpone, puis ajouter une autre couche de biscuits trempés et enfin le reste de la préparation.",
-      "Lisser la surface, saupoudrer de cacao et réserver au frais au moins 2h avant dégustation."
+      "Fouettez le sucre avec les jaunes d’œufs et les graines de la gousse de vanille dans un grand bol jusqu’à ce que le mélange blanchisse.",
+      "Mélangez le mascarpone avec le jus de citron dans un autre récipient puis ajoutez-les au mélange précédent.",
+      "Montez les blancs en neige bien ferme, mélangez-les délicatement à la préparation avec une spatule en bois.",
+      "Mélangez le café froid et le rhum. Trempez rapidement la moitié des biscuits dedans, tapissez le fond d’un plat avec ces biscuits.",
+      "Versez la moitié de la préparation sur les biscuits. Imbibez de café l’autre moitié de biscuits, disposez-les dans le plat puis versez le reste de la préparation.",
+      "Lissez la surface, poudrez de cacao et réservez au moins 6 h au frais avant de déguster.",
+      "CONSEIL : Vous pouvez également réaliser ce tiramisu dans une terrine et le démouler afin de le servir en tranches. Dans ce cas, ajoutez 2 feuilles de gélatine préalablement ramollies dans l'eau froide, chauffées et mélangées au jus de citron."
     ]
   },
   "Tomates farcie thon, œuf et son jus de tomates": {
