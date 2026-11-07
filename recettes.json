@@ -16,7 +16,7 @@
     "Préparation": [
       "Faire fondre le beurre dans une casserole.",
       "Ajouter la farine et mélanger pour obtenir un roux.",
-      "Verser le lait petit-à-petit tout en remuant au fouet jusqu'à ce que la sauce épaississe.",
+      "Verser le lait petit à petit tout en remuant au fouet jusqu'à ce que la sauce épaississe.",
       "Saler et poivrer."
     ]
   },
@@ -30,7 +30,7 @@
     "Ingrédients": [
       ["2", "pot", "yaourt nature"],
       ["2", "pot", "farine"],
-      ["2", "", "oeuf"],
+      ["2", "", "œuf"],
       ["2", "cuillère à café", "levure chimique"],
       ["2", "cuillère à soupe", "sucre vanillé"],
       ["2", "pincée", "sel"],
@@ -40,9 +40,9 @@
     "Préparation": [
       "Mélanger les yaourts, les œufs, le sucre et l’extrait de vanille dans un bol.",
       "Ajouter la farine, la levure et le sel, puis mélanger jusqu’à obtenir une pâte homogène.",
-      "Faire chauffer l’huile. Forme des boules de pâte et les plonge-les dans l’huile chaude.",
-      "Laisse dorer, puis égoutte sur du papier absorbant.",
-      "Saupoudre de sucre et cannelle en poudre avant de servir."
+      "Faire chauffer l’huile. Former des boules de pâte et les plonger dans l’huile chaude.",
+      "Laisser dorer, puis égoutter sur du papier absorbant.",
+      "Saupoudrer de sucre et de cannelle en poudre avant de servir."
     ]
   },
   "Brioche à la mie filante": {
@@ -93,7 +93,7 @@
     ],
     "Préparation": [
       "Dans la cuve du robot, verser la farine, le sucre, le sel, les yaourts, l’œuf et la levure émiettée.",
-      "Pétrir à vitesse (2) pendant 2 min.",
+      "Pétrir à vitesse 2 pendant 2 min.",
       "Ajouter le beurre à température ambiante coupé en morceaux et poursuivre le pétrissage 8 minutes.",
       "Laisser lever la pâte une heure.",
       "Diviser la pâte en 12 boules.",
@@ -125,7 +125,7 @@
       ["150", "g", "beurre pommade"]
     ],
     "Préparation": [
-      "Dans un récipient, verser la farine, faire deux puits. Dans l’un verser la levure et le sucre et dans l’autre le sel, le lait la vanille la fleur d’oranger et l’œuf.",
+      "Dans un récipient, verser la farine, faire deux puits. Dans l’un verser la levure et le sucre et dans l’autre le sel, le lait, la vanille, la fleur d’oranger et l’œuf.",
       "Mélanger grossièrement le tout au robot.",
       "Ajouter le beurre mou et pétrir environ 15 minutes jusqu’à obtenir une pâte homogène qui ne colle plus.",
       "Laisser pousser la pâte 40 minutes à 1 heure.",
@@ -134,8 +134,8 @@
       "Passer quelques coups de rouleau puis étaler les 50g de beurre restant.",
       "Ramener la partie basse au centre puis la partie haute.",
       "Placer la pâte 15 minutes au congélateur.",
-      "Étaler la pâte en forme de grand rectangle sur 1cm d’épaisseur.",
-      "Détailler des bandes de 4cm de largeur et rouler chaque bande.",
+      "Étaler la pâte en forme de grand rectangle sur 1 cm d’épaisseur.",
+      "Détailler des bandes de 4 cm de largeur et rouler chaque bande.",
       "Beurrer un moule à muffins et y déposer chaque rouleau.",
       "Laisser reposer à température ambiante 2 heures.",
       "Faire un trou au milieu de chaque rouleau avec le pouce.",
@@ -217,11 +217,11 @@
     "Préparation": [
       "Laver et couper le concombre en 4 parts égales.",
       "Retirer les pépins avec une cuillère.",
-      "Dans une assiette écraser à la fourchette les œufs, l’oignon rouge, le yaourt grec et le fromage frais.",
+      "Dans une assiette, écraser à la fourchette les œufs, l’oignon rouge, le yaourt grec et le fromage frais.",
       "Farcir chaque moitié de concombre avec la préparation et ajouter quelques épices."
     ]
   },
-  "Crème patissière": {
+  "Crème pâtissière": {
     "Type": "Préparation",
     "Temps": {
       "Préparation": [10, "min"],
@@ -229,7 +229,7 @@
       "Repos": [0, ""]
     },
     "Ingrédients": [
-      ["4", "", "jaunes d'oeufs"],
+      ["4", "", "jaunes d'œufs"],
       ["100", "g", "sucre"],
       ["50", "g", "farine"],
       ["500", "mL", "lait frais entier"],
@@ -253,7 +253,7 @@
     },
     "Ingrédients": [
       ["2", "", "jaunes d'œufs"],
-      ["1","","œufs"],
+      ["1", "", "œufs"],
       ["300", "g", "farine T00 (ou T45)"],
       ["150", "g", "sucre semoule"],
       ["150", "g", "beurre mou"],
@@ -317,37 +317,37 @@
       "Repos": [0, ""]
     },
     "Ingrédients": [
-        ["1", "", "oignon"],
-        ["5", "", "gousses d'ail"],
-        ["30", "g", "gingembre"],
-        ["2", "cuillères à soupe", "beurre"],
-        ["2", "", "petites pommes"],
-        ["2", "", "carottes"],
-        ["1", "sachet", "riz japonais"],
-        ["4", "cuillères à soupe", "farine"],
-        ["3", "cuillères à soupe", "curry en poudre"],
-        ["200", "g", "tomates concassées"],
-        ["1.2", "L", "bouillon"],
-        ["2", "cuillères à soupe", "Ketchup"],
-        ["3", "cuillères à soupe", "sauce Worcestershire"],
-        ["1.5", "cuillères à soupe", "miel"],
-        ["3", "cuillères à soupe", "sauce soja"],
-        ["1", "cuillères à café", "sel"],
-        ["1", "", "oeuf mollet"],
-        ["1", "cuillères à soupe", "huile"]
+      ["1", "", "oignon"],
+      ["5", "", "gousses d'ail"],
+      ["30", "g", "gingembre"],
+      ["2", "cuillères à soupe", "beurre"],
+      ["2", "", "petites pommes"],
+      ["2", "", "carottes"],
+      ["1", "sachet", "riz japonais"],
+      ["4", "cuillères à soupe", "farine"],
+      ["3", "cuillères à soupe", "curry en poudre"],
+      ["200", "g", "tomates concassées"],
+      ["1.2", "L", "bouillon"],
+      ["2", "cuillères à soupe", "Ketchup"],
+      ["3", "cuillères à soupe", "sauce Worcestershire"],
+      ["1.5", "cuillères à soupe", "miel"],
+      ["3", "cuillères à soupe", "sauce soja"],
+      ["1", "cuillère à café", "sel"],
+      ["1", "", "œuf mollet"],
+      ["1", "cuillère à soupe", "huile"]
     ],
     "Préparation": [
-        "Émincer l'oignon, l'ail, le gingembre, les pommes, et les carottes",
-        "Faire chauffer l'huile à feu doux dans une cocotte.",
-        "Augmenter le feux et y faire revenir l'oignon, l'ail et le gigembre jusqu'à ce qu'ils soient dorés.",
-        "Baisser le feux.",
-        "Ajouter le beurre, la farine et faire revenir 2 minutes",
-        "Ajouter le curry puis les tomates et cuire pendant 5 minutes",
-        "Verser 240 mL de bouillon et mélanger.",
-        "Ajouter le reste du bouillon avec le ketchup, la sauce Worcestershire, le miel, la sauce soja, les pommes et les carottes",
-        "Porter à ébullition puis baisser le feu.",
-        "Laisser mijoter 30 minutes en remuant régulièrement.",
-        "Pendant ce temps, faire cuire le riz dans une casserole à part."
+      "Émincer l'oignon, l'ail, le gingembre, les pommes, et les carottes.",
+      "Faire chauffer l'huile à feu doux dans une cocotte.",
+      "Augmenter le feu et y faire revenir l'oignon, l'ail et le gingembre jusqu'à ce qu'ils soient dorés.",
+      "Baisser le feu.",
+      "Ajouter le beurre, la farine et faire revenir 2 minutes.",
+      "Ajouter le curry puis les tomates et cuire pendant 5 minutes.",
+      "Verser 240 mL de bouillon et mélanger.",
+      "Ajouter le reste du bouillon avec le ketchup, la sauce Worcestershire, le miel, la sauce soja, les pommes et les carottes.",
+      "Porter à ébullition puis baisser le feu.",
+      "Laisser mijoter 30 minutes en remuant régulièrement.",
+      "Pendant ce temps, faire cuire le riz dans une casserole à part."
     ]
   },
   "Finger": {
@@ -375,7 +375,7 @@
       "Enfourner 8-10 minutes.",
       "Faire fondre les chocolats, tremper les fingers dedans.",
       "Enlever l’excédent de chocolat.",
-      "Déposer les fingers sur une feuille de sulfurisé et placer au frais au moins 1h."
+      "Déposer les fingers sur une feuille de papier sulfurisé et placer au frais au moins 1h."
     ]
   },
   "Focaccia": {
@@ -386,25 +386,25 @@
       "Repos": [1440, "min"]
     },
     "Ingrédients": [
-        ["500", "g", "farine"],
-        ["8", "g", "levure de boulanger"],
-        ["400", "g", "eau tiède"],
-        ["80", "g", "huile d'olive"],
-        ["7", "g", "miel"],
-        ["5", "g", "sel"],
-        ["3", "g", "gros sel"]
+      ["500", "g", "farine"],
+      ["8", "g", "levure de boulanger"],
+      ["400", "g", "eau tiède"],
+      ["80", "g", "huile d'olive"],
+      ["7", "g", "miel"],
+      ["5", "g", "sel"],
+      ["3", "g", "gros sel"]
     ],
     "Préparation": [
-        "Diluer le miel dans l'eau tiède puis ajouter la levure pour l'activer (attendre environ 15 minutes)",
-        "Dans un saladier, mettre la farine, 40 grammes d'huile et l'eau",
-        "Mélanger à la spatule puis laisser reposer 20 minutes",
-        "Avec des mains humides réaliser 3 fois 4 rabats à intervalle de 20 min",
-        "Mettre au frigo pour 18 heures en couvrant hermétiquement la pâte",
-        "Dans un plat recouvert de papier cuisson, verser 15 g d'huile puis y déposer la pâte",
-        "Mettre 10 g d'huile dessus et la couvrir pour 2 heures de repos",
-        "Étaler la pâte, y faire des empreintes avec les doigts puis y verser 15 grammes d'huile",
-        "Saupoudrer de sel et de romarin",
-        "Enfourner à 200 °C pour 23 à 25 minutes en chaleur tournante"
+      "Diluer le miel dans l'eau tiède puis ajouter la levure pour l'activer (attendre environ 15 minutes).",
+      "Dans un saladier, mettre la farine, 40 grammes d'huile et l'eau.",
+      "Mélanger à la spatule puis laisser reposer 20 minutes.",
+      "Avec des mains humides, réaliser 3 fois 4 rabats à intervalle de 20 min.",
+      "Mettre au frigo pour 18 heures en couvrant hermétiquement la pâte.",
+      "Dans un plat recouvert de papier cuisson, verser 15 g d'huile puis y déposer la pâte.",
+      "Mettre 10 g d'huile dessus et la couvrir pour 2 heures de repos.",
+      "Étaler la pâte, y faire des empreintes avec les doigts puis y verser 15 grammes d'huile.",
+      "Saupoudrer de sel et de romarin.",
+      "Enfourner à 200 °C pour 23 à 25 minutes en chaleur tournante."
     ]
   },
   "Fondant au chocolat": {
@@ -415,25 +415,25 @@
       "Repos": [0, ""]
     },
     "Ingrédients": [
-        ["250", "g", "chocolat"],
-        ["200", "g", "beurre"],
-        ["250", "g", "sucre semoule"],
-        ["75", "g", "farine"],
-        ["3", "", "oeufs"],
-        ["1", "dose", "sucre glace"],
-        ["0.5", "verre", "eau"]
+      ["250", "g", "chocolat"],
+      ["200", "g", "beurre"],
+      ["250", "g", "sucre semoule"],
+      ["75", "g", "farine"],
+      ["3", "", "œufs"],
+      ["1", "dose", "sucre glace"],
+      ["0.5", "verre", "eau"]
     ],
     "Préparation": [
-        "Couper le chocolat et le beurre en petits morceaux",
-        "Dans une casserole mélanger l'eau et le sucre",
-        "Faire chauffer en délayant à la spatule jusqu'à ébullition",
-        "Ajouter le chocolat et le beurre, baisser le feu et mélanger intimement sur feux doux jusqu'à ce que la préparation soit lisse.",
-        "Éteindre le feu",
-        "Verser la farine dans une terrine puis les oeufs 1 par 1 tout en mélangeant",
-        "Une fois le chocolat tiédi, y verser ce mélange et remuer vigoureusement jusqu'à absorption complète",
-        "Verser la pâte dans le moule et faire cuire au four au bain-marie pendant 1 heure à 170°C",
-        "Sortir du four, laisser refroidir puis démouler",
-        "Poudrer de sucre glace"
+      "Couper le chocolat et le beurre en petits morceaux.",
+      "Dans une casserole, mélanger l'eau et le sucre.",
+      "Faire chauffer en délayant à la spatule jusqu'à ébullition.",
+      "Ajouter le chocolat et le beurre, baisser le feu et mélanger intimement sur feu doux jusqu'à ce que la préparation soit lisse.",
+      "Éteindre le feu.",
+      "Verser la farine dans une terrine puis les œufs 1 par 1 tout en mélangeant.",
+      "Une fois le chocolat tiédi, y verser ce mélange et remuer vigoureusement jusqu'à absorption complète.",
+      "Verser la pâte dans le moule et faire cuire au four au bain-marie pendant 1 heure à 170°C.",
+      "Sortir du four, laisser refroidir puis démouler.",
+      "Poudrer de sucre glace."
     ]
   },
   "Gâteau au chocolat": {
@@ -444,21 +444,21 @@
       "Repos": [60, "min"]
     },
     "Ingrédients": [
-        ["3", "", "oeufs"],
-        ["125", "g", "beurre"],
-        ["125", "g", "sucre"],
-        ["125", "g", "chocolat noir"],
-        ["50", "g", "farine"]
+      ["3", "", "œufs"],
+      ["125", "g", "beurre"],
+      ["125", "g", "sucre"],
+      ["125", "g", "chocolat noir"],
+      ["50", "g", "farine"]
     ],
     "Préparation": [
-        "Faire fondre le chocolat et le beurre à feux doux.",
-        "Ajouter le sucre et la farine tout en mélangeant hors du feu.",
-        "Séparer les blancs d'oeuf de leur jaune.",
-        "Monter les blancs en neige.",
-        "Une fois le mélange chocolat refroidi, y ajouter les jaunes d'oeufs et mélanger",
-        "Incorporer le chocolat dans les blanc et mélanger délicatement",
-        "Mettre le tout dans un moule et faire cuire au four à 170°C (th. 5-6)",
-        "Pour garder un intérieur tendre, ajuster la cuisson pour garder un aspect \"crème\""
+      "Faire fondre le chocolat et le beurre à feu doux.",
+      "Ajouter le sucre et la farine tout en mélangeant hors du feu.",
+      "Séparer les blancs d'œufs de leur jaune.",
+      "Monter les blancs en neige.",
+      "Une fois le mélange chocolat refroidi, y ajouter les jaunes d'œufs et mélanger.",
+      "Incorporer le chocolat dans les blancs et mélanger délicatement.",
+      "Mettre le tout dans un moule et faire cuire au four à 170°C (th. 5-6).",
+      "Pour garder un intérieur tendre, ajuster la cuisson pour garder un aspect \"crème\"."
     ]
   },
   "Gâteau aux framboises léger": {
@@ -522,7 +522,7 @@
   "Kannelbullars": {
     "Type": "Dessert",
     "Temps": {
-      "Préparation": [30, "min"],
+      "Préparation": [40, "min"],
       "Cuisson": [9, "min"],
       "Repos": [90, "min"]
     },
@@ -545,10 +545,10 @@
       "Mélanger la farine, la cassonade, le sel et le lait. Pétrir.",
       "Laisser pousser la pâte 1h.",
       "Préparer la garniture : mélanger beurre pommade, cassonade, vanille et cannelle.",
-      "Etaler la pâte sur 3mm d'épaisseur et étaler la garniture.",
-      "Formez un rectangle en pliant la pâte en trois.",
-      "Coupez la rectangle en tranches de 2,5 cm de large.",
-      "Etirez et repliez les bandes en 2, puis formez un nœud.",
+      "Étaler la pâte sur 3 mm d'épaisseur et étaler la garniture.",
+      "Former un rectangle en pliant la pâte en trois.",
+      "Couper le rectangle en tranches de 2,5 cm de large.",
+      "Étirer et replier les bandes en 2, puis former un nœud.",
       "Laisser pousser 30 minutes.",
       "Enfourner pour 9 minutes à 220°C.",
       "Préparer un sirop en faisant bouillir 1 minute l'eau et le sucre.",
@@ -596,52 +596,52 @@
       "Repos": [0, "min"]
     },
     "Ingrédients": [
-        ["200", "g", "chocolat"],
-        ["200", "g", "beurre"],
-        ["150", "g", "sucre"],
-        ["5", "", "oeufs"],
-        ["1", "cuillère à soupe", "farine"]
+      ["200", "g", "chocolat"],
+      ["200", "g", "beurre"],
+      ["150", "g", "sucre"],
+      ["5", "", "œufs"],
+      ["1", "cuillère à soupe", "farine"]
     ],
     "Préparation": [
-        "Préchauffer le four à 180°C",
-        "Faire fondre le chocolat et le beurre au bain-marie",
-        "Ajouter le sucre et mélanger",
-        "Laisser refroidir le mélange",
-        "Séparer les blancs d'oeuf de leur jaune",
-        "Battre les blancs en neige (pas trop ferme pour faciliter le mélange)",
-        "Une le mélange de chocolat tiédi, ajouter les jaunes d'oeufs et mélanger",
-        "Ajouter la farine tamisée",
-        "Mélanger le chocolat aux blancs en neige, d'abord par 2 cuillérée jusqu'à ce que le mélange soit homogène, puis le reste.",
-        "Mélanger délicatement",
-        "Verser le mélange dans le moule et enfourner 20-25 minutes"
+      "Préchauffer le four à 180°C.",
+      "Faire fondre le chocolat et le beurre au bain-marie.",
+      "Ajouter le sucre et mélanger.",
+      "Laisser refroidir le mélange.",
+      "Séparer les blancs d'œufs de leur jaune.",
+      "Battre les blancs en neige (pas trop ferme pour faciliter le mélange).",
+      "Une fois le mélange de chocolat tiédi, ajouter les jaunes d'œufs et mélanger.",
+      "Ajouter la farine tamisée.",
+      "Mélanger le chocolat aux blancs en neige, d'abord par 2 cuillérées jusqu'à ce que le mélange soit homogène, puis le reste.",
+      "Mélanger délicatement.",
+      "Verser le mélange dans le moule et enfourner 20-25 minutes."
     ]
   },
   "Moelleux aux pépites de chocolat": {
     "Type": "Dessert",
     "Temps": {
-      "Préparation": [10, "min"],
+      "Préparation": [15, "min"],
       "Cuisson": [18, "min"],
       "Repos": [0, "min"]
     },
     "Ingrédients": [
-        ["3", "", "oeufs"],
-        ["1", "", "yaourt nature"],
-        ["120", "g", "pépites de chocolat"],
-        ["1.5", "pot", "farine"],
-        ["0.5", "pot", "sucre"],
-        ["1", "sachet", "levure chimique"],
-        ["0.5", "pot", "huile"]
+      ["3", "", "œufs"],
+      ["1", "", "yaourt nature"],
+      ["120", "g", "pépites de chocolat"],
+      ["1.5", "pot", "farine"],
+      ["0.5", "pot", "sucre"],
+      ["1", "sachet", "levure chimique"],
+      ["0.5", "pot", "huile"]
     ],
     "Préparation": [
-        "Dans un saladier mélanger tous les ingrédients",
-        "Verser le mélange dans des moules individuels",
-        "Faire cuire 18 min à thermostat 7"
+      "Dans un saladier, mélanger tous les ingrédients.",
+      "Verser le mélange dans des moules individuels.",
+      "Faire cuire 18 min à thermostat 7."
     ]
   },
   "Moelleux aux pêches caramélisées": {
     "Type": "Dessert",
     "Temps": {
-      "Préparation": [15, "min"],
+      "Préparation": [20, "min"],
       "Cuisson": [35, "min"],
       "Repos": [0, ""]
     },
@@ -673,20 +673,20 @@
       "Repos": [60, "min"]
     },
     "Ingrédients": [
-        ["3", "", "Blanc d'oeufs"],
-        ["20", "g", "Sucre"],
-        ["125", "g", "chocolat"],
-        ["2", "", "Jaune d'oeuf"],
-        ["75", "g", "Beurre"],
-        ["50", "g", "Sucre"]
+      ["3", "", "Blancs d'œufs"],
+      ["20", "g", "Sucre"],
+      ["125", "g", "chocolat"],
+      ["2", "", "Jaune d'œuf"],
+      ["75", "g", "Beurre"],
+      ["50", "g", "Sucre"]
     ],
     "Préparation": [
-        "Faire fondre le chocolat au bain marie",
-        "Hors du feu ajouter le beurre jusqu'à obtenir un mélange pommade",
-        "Une fois le mélange froid ajouter les jaunes et 50 g de sucre",
-        "Battre les blancs en neige et à mi-parcours ajouter le sucre restant",
-        "Mélanger délicatement les blancs avec le reste",
-        "Mettre au frais"
+      "Faire fondre le chocolat au bain-marie.",
+      "Hors du feu, ajouter le beurre jusqu'à obtenir un mélange pommade.",
+      "Une fois le mélange froid, ajouter les jaunes et 50 g de sucre.",
+      "Battre les blancs en neige et à mi-parcours ajouter le sucre restant.",
+      "Mélanger délicatement les blancs avec le reste.",
+      "Mettre au frais."
     ]
   },
   "Pain au raisin": {
@@ -714,18 +714,18 @@
       "Couvrir et laisser reposer 30 minutes.",
       "Préparer un carré de beurre de tourage de 13x13cm.",
       "Réserver la pâte et le beurre de tourage pendant 12H au frigo minimum.",
-      "Etaler la pâte en carré de 16cm, ajouter le beurre au centre et replier en enveloppe.",
+      "Étaler la pâte en carré de 16cm, ajouter le beurre au centre et replier en enveloppe.",
       "Mettre au congélateur pour 10 minutes.",
-      "Etaler la pâte sur 40 cm, faire un tour simple.",
+      "Étaler la pâte sur 40 cm, faire un tour simple.",
       "Mettre au congélateur pour 10 minutes.",
       "Allonger la pâte sur 55 à 60 cm puis faire un tour double (en portefeuille).",
       "Couvrir et mettre au congélateur pour 40 minutes.",
       "Réaliser la crème pâtissière et faire tremper les raisins 10 minutes dans de l’eau bouillante.",
-      "Etaler la pâte sur 22cm de large, étaler la crème pâtissière et disposer les raisins.",
-      "Rouler la pate et la mettre au congélateur 30 minutes.",
+      "Étaler la pâte sur 22cm de large, étaler la crème pâtissière et disposer les raisins.",
+      "Rouler la pâte et la mettre au congélateur 30 minutes.",
       "Couper la pâte en plusieurs parties.",
       "Laisser pousser pendant 2h à température ambiante.",
-      "Dorer au jaune d'oeuf.",
+      "Dorer au jaune d'œuf.",
       "Enfourner pour 20 minutes à 170°C."
     ]
   },
@@ -737,21 +737,21 @@
       "Repos": [30, "min"]
     },
     "Ingrédients": [
-        ["250", "g", "farine"],
-        ["4", "", "oeufs"],
-        ["1", "sachet", "sucre vanillé"],
-        ["1", "cuillère à soupe", "cognac"],
-        ["50", "g", "beurre"],
-        ["0.5", "L", "lait"]
+      ["250", "g", "farine"],
+      ["4", "", "œufs"],
+      ["1", "sachet", "sucre vanillé"],
+      ["1", "cuillère à soupe", "cognac"],
+      ["50", "g", "beurre"],
+      ["0.5", "L", "lait"]
     ],
     "Préparation": [
-        "Faire fondre le beurre",
-        "Préparer un récipient avec le lait et y mélanger le sucre vanillé",
-        "Dans un saladier faire un puit de farine",
-        "Y ajouter les oeufs et fouetter l'ensemble",
-        "Ajouter le lait petit-à-petit sans cesser de fouetter afin d'éviter la formation de grumeaux",
-        "Ajouter le cognac lorsque la pâte commence à devenir liquide",
-        "Laisser reposer 30 min au frais"
+      "Faire fondre le beurre.",
+      "Préparer un récipient avec le lait et y mélanger le sucre vanillé.",
+      "Dans un saladier, faire un puits de farine.",
+      "Y ajouter les œufs et fouetter l'ensemble.",
+      "Ajouter le lait petit à petit sans cesser de fouetter afin d'éviter la formation de grumeaux.",
+      "Ajouter le cognac lorsque la pâte commence à devenir liquide.",
+      "Laisser reposer 30 min au frais."
     ]
   },
   "Quiche paysanne": {
@@ -967,9 +967,9 @@
     "Préparation": [
       "Faire cuire la pâte 20min à 200 degrés.",
       "Couper le concombre à l'aide d'une mandoline.",
-      "Dans un bol, mélanger le thon, le saint Moret, la ciboulette, le zeste de citron, le miel, le soja, l'huile et le sel.",
-      "Au fond de la pâte, étalez la moitié de la préparation au thon puis recouvrir de concombre et enfin répéter l’opération.",
-      "Servir Frais."
+      "Dans un bol, mélanger le thon, le Saint Môret, la ciboulette, le zeste de citron, le miel, le soja, l'huile et le sel.",
+      "Au fond de la pâte, étaler la moitié de la préparation au thon puis recouvrir de concombre et enfin répéter l’opération.",
+      "Servir frais."
     ]
   },
   "Tarte courgettes, ricotta et pesto": {
@@ -1010,24 +1010,24 @@
       "Repos": [6, "h"]
     },
     "Ingrédients": [
-      ["160","g","beurre"],
-      ["4","","oeufs"],
-      ["1","gousse","vanille"],
-      ["400","g","mascarpone"],
-      ["2","","jus de citron"],
-      ["1","","grande tasse de café fort"],
-      ["2","cuillères à soupe","rhum"],
-      ["20","","biscuit à la cuiller"],
-      ["1","cuillère à soupe","cacao"]
+      ["160", "g", "beurre"],
+      ["4", "", "œufs"],
+      ["1", "gousse", "vanille"],
+      ["400", "g", "mascarpone"],
+      ["2", "", "jus de citron"],
+      ["1", "", "grande tasse de café fort"],
+      ["2", "cuillères à soupe", "rhum"],
+      ["20", "", "biscuit à la cuiller"],
+      ["1", "cuillère à soupe", "cacao"]
     ],
     "Préparation": [
-      "Fouettez le sucre avec les jaunes d’œufs et les graines de la gousse de vanille dans un grand bol jusqu’à ce que le mélange blanchisse.",
-      "Mélangez le mascarpone avec le jus de citron dans un autre récipient puis ajoutez-les au mélange précédent.",
-      "Montez les blancs en neige bien ferme, mélangez-les délicatement à la préparation avec une spatule en bois.",
-      "Mélangez le café froid et le rhum. Trempez rapidement la moitié des biscuits dedans, tapissez le fond d’un plat avec ces biscuits.",
-      "Versez la moitié de la préparation sur les biscuits. Imbibez de café l’autre moitié de biscuits, disposez-les dans le plat puis versez le reste de la préparation.",
-      "Lissez la surface, poudrez de cacao et réservez au moins 6 h au frais avant de déguster.",
-      "CONSEIL : Vous pouvez également réaliser ce tiramisu dans une terrine et le démouler afin de le servir en tranches. Dans ce cas, ajoutez 2 feuilles de gélatine préalablement ramollies dans l'eau froide, chauffées et mélangées au jus de citron."
+      "Fouetter le sucre avec les jaunes d’œufs et les graines de la gousse de vanille dans un grand bol jusqu’à ce que le mélange blanchisse.",
+      "Mélanger le mascarpone avec le jus de citron dans un autre récipient puis l'ajouter au mélange précédent.",
+      "Monter les blancs en neige bien ferme, les mélanger délicatement à la préparation avec une spatule en bois.",
+      "Mélanger le café froid et le rhum. Tremper rapidement la moitié des biscuits dedans, tapisser le fond d’un plat avec ces biscuits.",
+      "Verser la moitié de la préparation sur les biscuits. Imbiber de café l’autre moitié de biscuits, les disposer dans le plat puis verser le reste de la préparation.",
+      "Lisser la surface, poudrer de cacao et réserver au moins 6 h au frais avant de déguster.",
+      "CONSEIL : Vous pouvez également réaliser ce tiramisu dans une terrine et le démouler afin de le servir en tranches. Dans ce cas, ajouter 2 feuilles de gélatine préalablement ramollies dans l'eau froide, chauffées et mélangées au jus de citron."
     ]
   },
   "Tomates farcie thon, œuf et son jus de tomates": {
@@ -1052,8 +1052,8 @@
     ],
     "Préparation": [
       "Retirer le pédoncule des tomates et vider l’intérieur.",
-      "Mixer la pulpe des tomates avec du basilic, le piment, le sucre, l’huile d’olive, sel et poivre pour faire un jus.",
-      "Hacher finement le St Morêt, les oignons, le thon, le basilic, les œufs et les radis avec une pincée de sel.",
+      "Mixer la pulpe des tomates avec du basilic, le piment, le sucre, l’huile d’olive, le sel et le poivre pour faire un jus.",
+      "Hacher finement le Saint Morêt, les oignons, le thon, le basilic, les œufs et les radis avec une pincée de sel.",
       "Garnir les tomates avec la farce.",
       "Ajouter un filet de vinaigre balsamique et servir avec le jus de tomates bien frais."
     ]
@@ -1075,9 +1075,1858 @@
       ["1", "dose", "poivre"]
     ],
     "Préparation": [
-      "Lavez et couper le chapeau des tomates, retirer l’intérieur des tomates. Coupez le et réserver.",
-      "Dans un saladier mélanger le thon, le fromage frais, la ciboulette, les radis râpés, le sel et le poivre, et la chair de tomates.",
-      "Remplir les tomates, et servir très frais"
+      "Laver et couper le chapeau des tomates, retirer l’intérieur des tomates. Le couper et réserver.",
+      "Dans un saladier, mélanger le thon, le fromage frais, la ciboulette, les radis râpés, le sel, le poivre et la chair de tomates.",
+      "Remplir les tomates et servir très frais."
+    ]
+  },
+  "Poêlée de champignons et d'oignons": {
+    "Type": "Plat",
+    "Temps": {
+      "Préparation": [10, "min"],
+      "Cuisson": [10, "min"],
+      "Repos": [0, ""]
+    },
+    "Ingrédients": [
+      ["1", "kg", "champignons de Paris"],
+      ["4", "", "oignons"],
+      ["1", "gousse", "ail"],
+      ["3", "cuillères à soupe", "huile d'olive"],
+      ["1", "cuillère à café", "cumin"],
+      ["2", "pincées", "muscade"],
+      ["1", "dose", "sel"],
+      ["1", "dose", "poivre"]
+    ],
+    "Préparation": [
+      "Éplucher puis découper finement les oignons. Nettoyer et découper les champignons.",
+      "Verser 3 ou 4 cuillères à soupe d'huile d'olive dans une grande poêle non adhésive.",
+      "Laisser bien chauffer l'huile puis ajouter les oignons et les laisser cuire jusqu'à ce qu'ils soient légèrement dorés.",
+      "Ajouter les champignons, 1 c. à café de cumin, 2 pincées de muscade, du sel et du poivre.",
+      "Laisser mijoter environ 5 min et servir chaud."
+    ]
+  },
+  "Salade de pois chiches": {
+    "Type": "Entrée",
+    "Temps": {
+      "Préparation": [15, "min"],
+      "Cuisson": [0, ""],
+      "Repos": [0, ""]
+    },
+    "Ingrédients": [
+      ["400", "g", "pois chiches"],
+      ["1", "", "poivron rouge"],
+      ["1", "", "concombre"],
+      ["2", "gousses", "ail"],
+      ["0.5", "", "citron"],
+      ["1", "dose", "huile d'olive"],
+      ["1", "dose", "coriandre fraîche"],
+      ["1", "dose", "sel"],
+      ["1", "dose", "poivre"]
+    ],
+    "Préparation": [
+      "Égoutter les pois chiches et les rincer. Ensuite, couper le poivron en petits dés et le mélanger aux pois chiches.",
+      "Assaisonner avec le citron, l'huile, l'ail écrasé, le sel et le poivre.",
+      "Ajouter la coriandre fraîche et le concombre coupé en petits dés."
+    ]
+  },
+  "Galettes de courgettes râpées": {
+    "Type": "Plat",
+    "Temps": {
+      "Préparation": [15, "min"],
+      "Cuisson": [10, "min"],
+      "Repos": [60, "min"]
+    },
+    "Ingrédients": [
+      ["2", "", "courgettes"],
+      ["2", "", "œufs"],
+      ["1", "gousse", "ail"],
+      ["1", "tasse", "farine"],
+      ["3", "cuillères à soupe", "fines herbes"],
+      ["4", "cuillères à soupe", "huile d'olive"],
+      ["1", "dose", "sel"],
+      ["1", "dose", "poivre"]
+    ],
+    "Préparation": [
+      "Peler et râper les courgettes avant de les mettre dans une passoire. Saupoudrer de sel et laisser dégorger 1h.",
+      "Rincer et sécher les courgettes dans un torchon en serrant fort. Mettre dans un saladier, ajouter la farine, les œufs, les herbes, l'ail haché, le poivre et le sel. Bien mélanger et ajouter de la farine si la consistance est très liquide.",
+      "Verser 4 cuillères à soupe d'huile d'olive dans une poêle. Quand elle est chaude, y verser la préparation en petits paquets de 1 cuillère à soupe. Laisser dorer 3 min puis retourner régulièrement jusqu'à ce que les galettes soient dorées. Ajouter quelques cuillères d'eau dans la poêle si besoin."
+    ]
+  },
+  "Salade bekkoula": {
+    "Type": "Entrée",
+    "Temps": {
+      "Préparation": [20, "min"],
+      "Cuisson": [25, "min"],
+      "Repos": [0, ""]
+    },
+    "Ingrédients": [
+      ["1", "gros bouquet", "mauve sylvestre (bekkoula)"],
+      ["3", "gousses", "ail en purée"],
+      ["1", "grosse poignée", "feuilles de coriandre ciselées"],
+      ["1", "bouquet", "persil plat ciselé"],
+      ["1", "cuillère à café", "cumin moulu"],
+      ["1", "cuillère à café", "piment doux"],
+      ["1", "pincée", "piment fort"],
+      ["0.5", "", "citron confit"],
+      ["1", "dose", "jus d'un citron"],
+      ["1", "dose", "huile d'olive"],
+      ["1", "dose", "olives violettes"],
+      ["1", "dose", "sel"]
+    ],
+    "Préparation": [
+      "Laver à grande eau la mauve sylvestre, la hacher au couteau et la passer à la vapeur dans un couscoussier ou un autre cuit-vapeur pendant 15 min.",
+      "Chauffer un filet d'huile d'olive dans une poêle. Faire rapidement revenir l'ail en purée, le cumin moulu, le piment doux et la pincée de piment fort. Ajouter la mauve cuite et le bouquet de persil plat ciselé, saler et faire sauter pendant 10 min.",
+      "Hors du feu, incorporer l'écorce hachée d'un demi-citron confit et la coriandre ciselée. Arroser du jus d'un citron et d'huile d'olive.",
+      "Décorer de lamelles de citron confit et d'olives violettes.",
+      "Servir froid, avec du pain et d'autres salades marocaines, comme pour un grand mezzé de la rive sud."
+    ]
+  },
+  "Roulé au Nutella ou à la confiture": {
+    "Type": "Dessert",
+    "Temps": {
+      "Préparation": [20, "min"],
+      "Cuisson": [15, "min"],
+      "Repos": [60, "min"]
+    },
+    "Ingrédients": [
+      ["4", "", "œufs"],
+      ["120", "g", "sucre"],
+      ["90", "g", "farine"],
+      ["1", "cuillère à café", "levure chimique"],
+      ["1", "dose", "Nutella / confiture"],
+      ["100", "ml", "eau"],
+      ["50", "g", "sucre"]
+    ],
+    "Préparation": [
+      "Séparer les blancs et les jaunes des œufs.",
+      "Mélanger les 120 g de sucre, la farine et la levure chimique avec les jaunes d'œufs.",
+      "Battre les blancs en neige.",
+      "Ajouter les blancs en neige à la préparation en mélangeant délicatement.",
+      "Étaler la pâte sur une plaque et enfourner pour 15 minutes à 180°C.",
+      "Après cuisson, enrouler la génoise dans un torchon mouillé et laisser reposer 1h.",
+      "Dans une casserole, faire cuire l'eau et le reste du sucre à feu doux.",
+      "Une fois la pâte reposée, étaler l'ingrédient choisi puis rouler la génoise.",
+      "Verser le sirop sur la génoise et laisser reposer."
+    ]
+  },
+  "Gâteau moelleux aux pêches": {
+    "Type": "Dessert",
+    "Temps": {
+      "Préparation": [20, "min"],
+      "Cuisson": [25, "min"],
+      "Repos": [0, ""]
+    },
+    "Ingrédients": [
+      ["4", "", "pêches"],
+      ["3", "", "œufs"],
+      ["180", "g", "beurre mou"],
+      ["180", "g", "sucre"],
+      ["180", "g", "farine"],
+      ["1", "sachet", "levure chimique"]
+    ],
+    "Préparation": [
+      "Mélanger le beurre et le sucre jusqu’à obtenir un mélange onctueux.",
+      "Séparer les blancs et les jaunes des œufs.",
+      "Ajouter les jaunes au mélange précédent et incorporer aussi la farine et la levure.",
+      "Battre les blancs en neige puis les mélanger délicatement au reste de la préparation.",
+      "Peler et couper les pêches pour ensuite les ajouter à la préparation.",
+      "Verser la pâte dans le moule préalablement beurré.",
+      "Faire cuire pendant 25 minutes à 160°C."
+    ]
+  },
+  "Crêpes": {
+    "Type": "Dessert",
+    "Temps": {
+      "Préparation": [15, "min"],
+      "Cuisson": [15, "min"],
+      "Repos": [30, "min"]
+    },
+    "Ingrédients": [
+      ["250", "g", "farine"],
+      ["4", "", "œufs"],
+      ["1", "sachet", "sucre vanillé"],
+      ["50", "g", "beurre"],
+      ["0.5", "L", "lait"],
+      ["1", "cuillère à soupe", "cognac"]
+    ],
+    "Préparation": [
+      "Faire fondre le beurre.",
+      "Mélanger la farine, le sucre vanillé et les œufs.",
+      "Ajouter le lait petit à petit afin d’éviter les grumeaux.",
+      "Verser ensuite le beurre et le cognac.",
+      "Laisser reposer la pâte.",
+      "Faire cuire les crêpes."
+    ]
+  },
+  "Les financiers": {
+    "Type": "Dessert",
+    "Temps": {
+      "Préparation": [20, "min"],
+      "Cuisson": [15, "min"],
+      "Repos": [0, ""]
+    },
+    "Ingrédients": [
+      ["200", "g", "beurre"],
+      ["6", "", "blancs d'œufs"],
+      ["200", "g", "sucre glace"],
+      ["80", "g", "amande en poudre"],
+      ["80", "g", "farine"],
+      ["1", "dose", "arôme de vanille"]
+    ],
+    "Préparation": [
+      "Faire fondre le beurre dans une casserole.",
+      "Fouetter les blancs en neige jusqu'à ce qu'ils deviennent mousseux.",
+      "Ajouter ensuite progressivement le sucre glace, l'amande en poudre, la farine et l'arôme.",
+      "Verser le beurre et mélanger jusqu'à obtenir une pâte lisse.",
+      "Verser la pâte dans les moules et enfourner pendant 15 minutes à 180°C."
+    ]
+  },
+  "Chouquette": {
+    "Type": "Dessert",
+    "Temps": {
+      "Préparation": [20, "min"],
+      "Cuisson": [15, "min"],
+      "Repos": [0, ""]
+    },
+    "Ingrédients": [
+      ["125", "ml", "eau"],
+      ["125", "ml", "lait"],
+      ["110", "g", "beurre"],
+      ["0.5", "cuillère à café", "sel"],
+      ["1", "cuillère à café", "sucre"],
+      ["140", "g", "farine"],
+      ["5", "", "œufs"],
+      ["1", "dose", "perle de sucre"]
+    ],
+    "Préparation": [
+      "Dans une casserole, mettre l'eau, le lait, le beurre, le sel et le sucre puis faire chauffer jusqu'à ce que le beurre soit fondu.",
+      "Hors du feu, ajouter la farine tamisée.",
+      "Une fois la farine mélangée, remettre la casserole sur le feu pour sécher la pâte.",
+      "Hors du feu, ajouter les œufs un par un.",
+      "À l'aide d'une petite cuillère, faire des petites boules et ajouter sur celles-ci les perles de sucre.",
+      "Faire cuire 15 min à 180°C."
+    ]
+  },
+  "Carrés abricots-mascarpone": {
+    "Type": "Dessert",
+    "Temps": {
+      "Préparation": [25, "min"],
+      "Cuisson": [30, "min"],
+      "Repos": [60, "min"]
+    },
+    "Ingrédients": [
+      ["4", "", "œufs"],
+      ["1", "pot", "yaourt nature"],
+      ["1.5", "pot", "sucre"],
+      ["2", "pots", "farine"],
+      ["1", "sachet", "levure chimique"],
+      ["0.5", "pot", "huile"],
+      ["8", "", "abricots"],
+      ["250", "g", "mascarpone"],
+      ["50", "g", "sucre glace"],
+      ["1", "sachet", "sucre vanillé"]
+    ],
+    "Préparation": [
+      "Préchauffer le four à 180°C.",
+      "Fouetter les œufs et le sucre jusqu'à ce que le mélange blanchisse et gonfle.",
+      "Ajouter le yaourt, la farine, la levure et l'huile.",
+      "Verser la pâte dans le moule préalablement beurré et fariné.",
+      "Enfourner pour 30 minutes.",
+      "Pendant la cuisson, faire cuire les abricots dénoyautés et coupés en quatre avec le sucre vanillé et 1 cuillère à soupe d'eau pendant 10 minutes.",
+      "Une fois les abricots froids, les mixer et les mélanger avec le mascarpone et le sucre glace.",
+      "Une fois le gâteau refroidi, le couper en deux.",
+      "Sur la partie inférieure du gâteau, mettre le mascarpone puis le recouvrir avec l'autre partie du gâteau."
+    ]
+  },
+  "Cinnamon rolls": {
+    "Type": "Dessert",
+    "Temps": {
+      "Préparation": [40, "min"],
+      "Cuisson": [15, "min"],
+      "Repos": [120, "min"]
+    },
+    "Ingrédients": [
+      ["75", "g", "beurre (pâte)"],
+      ["1", "", "œuf"],
+      ["600", "g", "farine"],
+      ["100", "g", "sucre"],
+      ["1", "sachet", "levure de boulanger"],
+      ["230", "g", "lait"],
+      ["75", "g", "beurre (garniture)"],
+      ["200", "g", "cassonade"],
+      ["3", "cuillères à café", "cannelle"],
+      ["90", "g", "saint môret"],
+      ["80", "g", "sucre glace"],
+      ["1", "cuillère à soupe", "lait"]
+    ],
+    "Préparation": [
+      "Faire tiédir le lait, y ajouter la levure et laisser reposer 10 minutes.",
+      "Une fois la levure réhydratée, ajouter le reste des ingrédients et pétrir la pâte.",
+      "Laisser reposer la pâte 1h30.",
+      "Une fois la pâte reposée, l'étaler sous forme rectangulaire.",
+      "Étaler sur la pâte le beurre fondu mélangé avec la cassonade et la cannelle.",
+      "Rouler la pâte pour obtenir un boudin.",
+      "Couper des rondelles de 2-3 cm et laisser pousser 30 min.",
+      "Faire cuire 15 minutes à 200°C.",
+      "Pour le glaçage, mélanger le saint môret, le sucre glace et le lait.",
+      "Après cuisson, attendre un peu avant de mettre le glaçage."
+    ]
+  },
+  "Biscuit de Noël": {
+    "Type": "Dessert",
+    "Temps": {
+      "Préparation": [25, "min"],
+      "Cuisson": [15, "min"],
+      "Repos": [60, "min"]
+    },
+    "Ingrédients": [
+      ["250", "g", "farine"],
+      ["125", "g", "beurre bien froid"],
+      ["120", "g", "sucre glace"],
+      ["3", "pincées", "sel"],
+      ["1", "", "œuf entier"],
+      ["2", "", "jaunes d'œufs"]
+    ],
+    "Préparation": [
+      "Mélanger la farine, le beurre et le sel.",
+      "Ajouter le sucre glace et mélanger.",
+      "Ajouter les œufs et mélanger jusqu'à obtenir une pâte.",
+      "Envelopper la pâte dans du papier alimentaire et laisser reposer 1h au réfrigérateur.",
+      "Une fois reposée, étaler la pâte sur un plan de travail fariné et sur une épaisseur de 5 mm.",
+      "Mettre les formes réalisées avec les emporte-pièces sur les plaques et les enfourner pour 15 minutes à 200°C."
+    ]
+  },
+  "Flan (Can)": {
+    "Type": "Dessert",
+    "Temps": {
+      "Préparation": [20, "min"],
+      "Cuisson": [60, "min"],
+      "Repos": [0, ""]
+    },
+    "Ingrédients": [
+      ["1", "L", "lait"],
+      ["4", "", "jaunes d'œuf"],
+      ["100", "g", "beurre"],
+      ["500", "g", "sucre"],
+      ["300", "g", "farine"],
+      ["1", "cuillère à soupe", "rhum"]
+    ],
+    "Préparation": [
+      "Faire bouillir 250 ml de lait avec le beurre.",
+      "Dans un saladier, mélanger le reste du lait avec les jaunes d'œufs.",
+      "Ajouter ensuite le lait avec le beurre fondu.",
+      "Verser ensuite le sucre et le rhum.",
+      "Ajouter la farine petit à petit afin d'éviter les grumeaux.",
+      "Verser la pâte dans les moules et enfourner pour 1h à 180°C."
+    ]
+  },
+  "Tarte aux nectarines": {
+    "Type": "Dessert",
+    "Temps": {
+      "Préparation": [20, "min"],
+      "Cuisson": [35, "min"],
+      "Repos": [0, ""]
+    },
+    "Ingrédients": [
+      ["6", "", "nectarines"],
+      ["150", "g", "sucre"],
+      ["200", "g", "farine"],
+      ["1", "sachet", "sucre vanillé"],
+      ["150", "g", "beurre mou"],
+      ["1", "", "œuf"],
+      ["40", "g", "crème liquide"],
+      ["1", "cuillère à soupe", "miel"]
+    ],
+    "Préparation": [
+      "Laver et couper en quartiers les nectarines.",
+      "Mélanger l'œuf, le sucre, le sucre vanillé, la crème liquide et le beurre.",
+      "Ajouter petit à petit la farine puis ajouter le miel.",
+      "Verser la pâte dans le moule et mettre sur le dessus les quartiers de nectarines.",
+      "Mettre le miel sur les nectarines.",
+      "Enfourner pour 30 à 40 minutes à 180°C."
+    ]
+  },
+  "Pancakes aux pommes": {
+    "Type": "Dessert",
+    "Temps": {
+      "Préparation": [20, "min"],
+      "Cuisson": [10, "min"],
+      "Repos": [0, ""]
+    },
+    "Ingrédients": [
+      ["3", "", "pommes"],
+      ["30", "cl", "lait demi-écrémé"],
+      ["250", "g", "farine"],
+      ["65", "g", "beurre doux"],
+      ["30", "g", "sucre"],
+      ["1", "pincée", "sel"],
+      ["2", "", "œufs entiers"],
+      ["1", "sachet", "levure"],
+      ["50", "g", "sucre vanillé"]
+    ],
+    "Préparation": [
+      "Dans un bol, mélanger la farine, la levure, le sucre et le sel.",
+      "Ajouter les œufs et faire fondre le beurre afin de le rajouter à la préparation.",
+      "Incorporer le lait petit à petit jusqu’à obtenir une préparation lisse et homogène.",
+      "Éplucher et couper les pommes en rondelles en retirant le centre.",
+      "Placer les rondelles dans la pâte et les sortir complètement recouvertes.",
+      "Faire cuire pendant 5 à 10 minutes, dans une poêle légèrement huilée, à feu moyen. Laisser cuire jusqu'à ce que les 2 côtés soient bien dorés."
+    ]
+  },
+  "Gaufres": {
+    "Type": "Dessert",
+    "Temps": {
+      "Préparation": [20, "min"],
+      "Cuisson": [15, "min"],
+      "Repos": [30, "min"]
+    },
+    "Ingrédients": [
+      ["500", "g", "farine"],
+      ["1", "sachet", "levure chimique"],
+      ["750", "ml", "lait"],
+      ["1", "pincée", "sel"],
+      ["125", "g", "beurre"],
+      ["30", "g", "sucre"],
+      ["2", "sachets", "sucre vanillé"],
+      ["4", "", "œufs"],
+      ["1", "dose", "parfum au choix (vanille, rhum)"]
+    ],
+    "Préparation": [
+      "Faire fondre le beurre et laisser tiédir.",
+      "Dans un saladier, mélanger la farine, le sel, le sucre et les œufs.",
+      "Dissoudre la levure dans le lait et ajouter le lait, petit à petit, dans le saladier.",
+      "Ajouter le beurre et le parfum de votre choix.",
+      "Laisser reposer minimum 30 minutes."
+    ]
+  },
+  "Coulants au chocolat": {
+    "Type": "Dessert",
+    "Temps": {
+      "Préparation": [15, "min"],
+      "Cuisson": [7, "min"],
+      "Repos": [2, "min"]
+    },
+    "Ingrédients": [
+      ["200", "g", "chocolat"],
+      ["70", "g", "beurre"],
+      ["4", "", "œufs"],
+      ["70", "g", "sucre"],
+      ["50", "g", "farine"]
+    ],
+    "Préparation": [
+      "Faire fondre le chocolat et le beurre.",
+      "Fouetter les œufs et le sucre jusqu'à ce que le mélange blanchisse et devienne mousseux.",
+      "Ajouter le chocolat fondu.",
+      "Mettre ensuite la farine tamisée.",
+      "Verser la pâte dans les moules beurrés et farinés.",
+      "Enfourner pour 7 minutes à 200°C.",
+      "Une fois cuit, laisser reposer 2 min avant de démouler."
+    ]
+  },
+  "Invisible poire chocolat": {
+    "Type": "Dessert",
+    "Temps": {
+      "Préparation": [25, "min"],
+      "Cuisson": [45, "min"],
+      "Repos": [0, ""]
+    },
+    "Ingrédients": [
+      ["50", "g", "beurre fondu"],
+      ["70", "g", "chocolat pâtissier"],
+      ["60", "g", "sucre vergeoise"],
+      ["2", "", "œufs"],
+      ["2", "cs", "rhum (facultatif)"],
+      ["70", "g", "farine"],
+      ["20", "g", "cacao en poudre"],
+      ["1", "cc", "levure chimique"],
+      ["1", "pincée", "sel"],
+      ["1", "kg", "poires"],
+      ["20", "g", "cassonade"],
+      ["100", "g", "crème liquide 30% (sauce)"],
+      ["70", "g", "chocolat 52% (sauce)"]
+    ],
+    "Préparation": [
+      "Dans un saladier, mélanger le sucre vergeoise, les œufs et le rhum.",
+      "Faire fondre le chocolat et le beurre puis l'ajouter au mélange précédent.",
+      "Dans un saladier, mélanger la levure, le cacao, la farine et le sel.",
+      "Mélanger les deux préparations ensemble.",
+      "Éplucher les poires et les couper en tranches très très fines.",
+      "Mélanger les poires avec la pâte.",
+      "Verser la préparation dans le moule et saupoudrer le gâteau de cassonade.",
+      "Faire cuire pendant 40 à 45 minutes à 200°C."
+    ]
+  },
+  "Gâteau pommes et mascarpone": {
+    "Type": "Dessert",
+    "Temps": {
+      "Préparation": [25, "min"],
+      "Cuisson": [50, "min"],
+      "Repos": [20, "min"]
+    },
+    "Ingrédients": [
+      ["4", "", "pommes"],
+      ["20", "g", "beurre"],
+      ["30", "g", "sucre"],
+      ["4", "", "œufs"],
+      ["150", "g", "sucre"],
+      ["250", "g", "mascarpone"],
+      ["200", "g", "farine"],
+      ["1.5", "sachet", "levure (16g)"],
+      ["0.5", "cuillère à café", "cannelle"],
+      ["1", "pincée", "fleur de sel"],
+      ["2", "cuillères à soupe", "cassonade"],
+      ["2", "cuillères à café", "sucre glace"]
+    ],
+    "Préparation": [
+      "Éplucher 2 pommes et les couper en cubes.",
+      "Faire fondre le beurre dans une poêle et ajouter 30 g de sucre.",
+      "Ajouter les pommes et les faire cuire pendant 10 minutes à feu moyen en remuant de temps en temps.",
+      "Préchauffer votre four à 170°C.",
+      "Battre les 4 œufs puis ajouter 150 g de sucre.",
+      "Quand le mélange devient mousseux, ajouter le mascarpone.",
+      "Ajouter ensuite la farine et la levure.",
+      "Pour finir, ajouter la fleur de sel et la cannelle, mélanger à peine.",
+      "Éplucher les 2 pommes restantes et les couper en fines tranches.",
+      "Verser les cubes de pommes caramélisés dans la préparation, puis verser le tout dans votre moule préalablement beurré.",
+      "Disposer les tranches de pommes en rosace. Saupoudrer de cassonade.",
+      "Cuire 45-50 minutes.",
+      "Une fois cuit, attendre au moins 20 minutes avant de saupoudrer de sucre glace."
+    ]
+  },
+  "Invisible aux pommes": {
+    "Type": "Dessert",
+    "Temps": {
+      "Préparation": [20, "min"],
+      "Cuisson": [40, "min"],
+      "Repos": [0, ""]
+    },
+    "Ingrédients": [
+      ["2", "", "œufs"],
+      ["50", "g", "sucre vergeoise"],
+      ["50", "g", "beurre fondu"],
+      ["2", "cuillères à soupe", "rhum"],
+      ["80", "g", "farine"],
+      ["1", "sachet", "levure chimique"],
+      ["1", "cuillère à café", "cannelle moulue"],
+      ["1", "kg", "pommes"],
+      ["20", "g", "cassonade"]
+    ],
+    "Préparation": [
+      "Dans un saladier, mélanger la vergeoise, le rhum, le beurre fondu et les œufs.",
+      "Dans un bol, mélanger la farine, la cannelle et la levure chimique.",
+      "Mélanger les 2 préparations ensemble.",
+      "Éplucher et couper les pommes en fines lamelles.",
+      "Ajouter les pommes à la préparation et mélanger.",
+      "Verser la pâte dans le moule et saupoudrer de cassonade.",
+      "Faire cuire à 200°C pendant 30 à 40 minutes."
+    ]
+  },
+  "Churros": {
+    "Type": "Dessert",
+    "Temps": {
+      "Préparation": [20, "min"],
+      "Cuisson": [10, "min"],
+      "Repos": [15, "min"]
+    },
+    "Ingrédients": [
+      ["250", "g", "eau"],
+      ["250", "g", "farine"],
+      ["1", "pincée", "sel"],
+      ["1", "dose", "huile de friture"],
+      ["1", "dose", "sucre"]
+    ],
+    "Préparation": [
+      "Dans une casserole, verser l'eau avec la pincée de sel et porter le tout à ébullition. Ajouter la farine en une seule fois et travailler le tout avec une maryse ou une cuillère en bois jusqu'à ce que la pâte soit bien homogène.",
+      "Laisser redescendre la pâte en température pendant 15 minutes avant de la placer dans une poche munie d'une douille cannelée.",
+      "Pocher les churros sur des petits carrés de papier cuisson.",
+      "Les plonger dans l'huile bouillante (180°C) jusqu'à ce qu'ils soient bien dorés. Les déposer sur du papier absorbant puis les enrober généreusement de sucre."
+    ]
+  },
+  "Tarte au sucre": {
+    "Type": "Dessert",
+    "Temps": {
+      "Préparation": [35, "min"],
+      "Cuisson": [30, "min"],
+      "Repos": [150, "min"]
+    },
+    "Ingrédients": [
+      ["80", "ml", "lait entier"],
+      ["10", "g", "levure de boulanger sèche"],
+      ["300", "g", "farine"],
+      ["5", "g", "sel"],
+      ["10", "g", "sucre"],
+      ["2", "", "œufs"],
+      ["150", "g", "beurre"],
+      ["1", "", "œuf (dorure)"],
+      ["100", "ml", "crème liquide entière"],
+      ["120", "g", "vergeoise"],
+      ["50", "g", "beurre"]
+    ],
+    "Préparation": [
+      "Dans une casserole, faire tiédir le lait et, une fois hors du feu, ajouter la levure.",
+      "Dans un saladier, mélanger la farine, le sel et le sucre.",
+      "Ajouter ensuite le lait et les œufs.",
+      "Pétrir la pâte pendant 15 minutes en ajoutant au bout de 5 minutes le beurre.",
+      "Une fois que la pâte se décolle des bords, recouvrir le saladier et laisser reposer la pâte dans un endroit chaud pendant 1h30.",
+      "Dégazer la pâte avant de l'étaler de manière circulaire, à l'aide d'un rouleau à pâtisserie, de 1 à 1,5 cm d'épaisseur sur une plaque de cuisson, puis laisser pousser 1h.",
+      "Dégazer la pâte en laissant des empreintes.",
+      "Dans un saladier, mélanger la crème et l'œuf puis verser le mélange sur la pâte.",
+      "Saupoudrer ensuite la pâte avec la vergeoise et ajouter le beurre en morceaux sur l'ensemble de la pâte.",
+      "Enfourner pour 25 à 30 minutes à 190°C."
+    ]
+  },
+  "Cookies kinder maxi": {
+    "Type": "Dessert",
+    "Temps": {
+      "Préparation": [20, "min"],
+      "Cuisson": [10, "min"],
+      "Repos": [60, "min"]
+    },
+    "Ingrédients": [
+      ["180", "g", "beurre mou"],
+      ["60", "g", "sucre blond"],
+      ["20", "g", "cassonade"],
+      ["1", "", "œuf à température ambiante"],
+      ["1", "càc", "extrait de vanille liquide"],
+      ["240", "g", "farine"],
+      ["1", "càc", "levure chimique"],
+      ["1", "càs", "fécule de maïs"],
+      ["1", "pincée", "sel"],
+      ["200", "g", "Kinder Maxi"]
+    ],
+    "Préparation": [
+      "Avec un fouet à main ou un fouet électrique, mélanger ensemble le beurre mou et les sucres.",
+      "Ajouter l'œuf et l'extrait de vanille liquide, et mélanger avec le fouet.",
+      "Dans un autre récipient, tamiser ensemble la farine, la levure, la fécule de maïs et le sel. Ajouter le tout à la préparation.",
+      "Couper les Kinder Maxi en morceaux et les ajouter à la préparation. Vous pouvez en garder quelques-uns pour disposer sur le dessus de vos cookies.",
+      "Avec une cuillère à glace, former des boules et les disposer sur une plaque perforée, recouverte de papier cuisson.",
+      "Disposer les morceaux de Kinder gardés de côté sur le dessus des cookies.",
+      "Placer 1 h au réfrigérateur.",
+      "Préchauffer le four à 175°C. Enfourner 10 minutes, puis laisser les cookies finir de cuire sur la plaque, hors du four."
+    ]
+  },
+  "Gâteau madeleine aux pommes": {
+    "Type": "Dessert",
+    "Temps": {
+      "Préparation": [20, "min"],
+      "Cuisson": [45, "min"],
+      "Repos": [0, "min"]
+    },
+    "Ingrédients": [
+      ["500", "g", "pommes golden"],
+      ["150", "g", "farine"],
+      ["0.5", "sachet", "levure chimique"],
+      ["120", "g", "beurre mou"],
+      ["100", "g", "sucre blond"],
+      ["1", "c. à soupe", "miel"],
+      ["1", "pincée", "sel"],
+      ["4", "", "œufs"],
+      ["1", "", "citron bio"],
+      ["1", "c. à café", "vanille"]
+    ],
+    "Préparation": [
+      "Dans un saladier, mélanger le sucre, le beurre, les œufs et le miel.",
+      "Ajouter ensuite la farine, la vanille et la levure chimique.",
+      "Éplucher et couper les pommes en petits morceaux puis les ajouter à la préparation.",
+      "Verser dans le moule beurré et cuire 45 min à 180°C.",
+      "Laisser refroidir avant de déguster."
+    ]
+  },
+  "Moelleux aux pommes caramélisées": {
+    "Type": "Dessert",
+    "Temps": {
+      "Préparation": [20, "min"],
+      "Cuisson": [35, "min"],
+      "Repos": [0, ""]
+    },
+    "Ingrédients": [
+      ["2.5", "", "pommes"],
+      ["15", "g", "beurre"],
+      ["1", "cac", "cannelle"],
+      ["2", "sachets", "sucre vanillé"],
+      ["140", "g", "farine"],
+      ["3", "", "œufs"],
+      ["160", "g", "yaourt nature"],
+      ["50", "g", "sucre"],
+      ["50", "g", "beurre fondu"],
+      ["1", "sachet", "levure"],
+      ["1", "bouchon", "rhum (facultatif)"],
+      ["1", "pincée", "vanille"]
+    ],
+    "Préparation": [
+      "Découper des quartiers de pommes finement et les faire caraméliser une dizaine de minutes à la poêle avec du beurre, le sucre vanillé et la cannelle.",
+      "Dans un saladier, mélanger les œufs, le yaourt, le sucre, le beurre, la levure et la farine.",
+      "Une fois la préparation bien mélangée, ajouter le rhum, la vanille et les pommes caramélisées, mélanger à nouveau et tout verser dans un moule bien beurré.",
+      "Disposer des quartiers de pommes crus et coupés finement sur le dessus pour faire une jolie rose.",
+      "Faire cuire 30 à 35 min à 170°C."
+    ]
+  },
+  "Ourson au chocolat sans sucre": {
+    "Type": "Dessert",
+    "Temps": {
+      "Préparation": [15, "min"],
+      "Cuisson": [25, "min"],
+      "Repos": [0, ""]
+    },
+    "Ingrédients": [
+      ["2", "", "œufs"],
+      ["200", "g", "compote"],
+      ["130", "g", "farine"],
+      ["1", "sachet", "levure"],
+      ["100", "g", "chocolat noir fondu"],
+      ["100", "g", "pépites de chocolat"]
+    ],
+    "Préparation": [
+      "Dans un saladier, mélanger les œufs, la compote, la farine et la levure.",
+      "Ajouter ensuite le chocolat fondu et les pépites de chocolat.",
+      "Verser dans les moules et enfourner pour 25 minutes à 180°C."
+    ]
+  },
+  "Cake cinnamone rolls": {
+    "Type": "Dessert",
+    "Temps": {
+      "Préparation": [30, "min"],
+      "Cuisson": [40, "min"],
+      "Repos": [0, ""]
+    },
+    "Ingrédients": [
+      ["3", "", "œufs"],
+      ["75", "g", "sucre"],
+      ["150", "g", "beurre fondu"],
+      ["75", "ml", "lait"],
+      ["1", "c. à café", "extrait de vanille"],
+      ["250", "g", "farine"],
+      ["1", "sachet", "levure chimique"],
+      ["60", "g", "beurre mou"],
+      ["40", "g", "sucre roux ou vergeoise"],
+      ["1", "c. à soupe", "cannelle"],
+      ["1", "pincée", "sel"],
+      ["90", "g", "saint môret"],
+      ["80", "g", "sucre glace"],
+      ["1", "cas", "lait"]
+    ],
+    "Préparation": [
+      "Battre les œufs avec le sucre jusqu'à ce que le mélange devienne pâle et moelleux.",
+      "Ajouter le beurre fondu, le lait et l'extrait de vanille, puis fouetter à nouveau.",
+      "Tamiser la farine avec la levure chimique et incorporer progressivement à la pâte jusqu'à consistance lisse et sans grumeaux. Mettre de côté.",
+      "Dans un autre bol, mélanger le beurre mou avec la cassonade ou vergeoise, la cannelle et le sel jusqu'à l'obtention d'une consistance homogène.",
+      "Dans un moule à cake, verser le tiers de la pâte à gâteau. Ajouter 3 cuillerées de garniture à la cannelle, puis utiliser une brochette pour faire tourbillonner et créer un effet marbré. Recommencer 2 fois.",
+      "Cuire au four préchauffé à 180°C pendant environ 40 minutes.",
+      "Pour le glaçage, mélanger le fromage, le sucre semoule et le lait, puis pocher sur le cake froid."
+    ]
+  },
+  "Petits pains au lait avec chutes de chocolat et garniture au Nutella": {
+    "Type": "Dessert",
+    "Temps": {
+      "Préparation": [30, "min"],
+      "Cuisson": [20, "min"],
+      "Repos": [90, "min"]
+    },
+    "Ingrédients": [
+      ["500", "g", "farine de blé"],
+      ["200", "ml", "lait tiède"],
+      ["7", "g", "levure sèche"],
+      ["45", "g", "sucre"],
+      ["4", "g", "sel"],
+      ["50", "g", "beurre mou"],
+      ["10", "g", "huile de tournesol"],
+      ["2", "", "œufs"],
+      ["140", "g", "pépites de chocolat"],
+      ["1", "dose", "Nutella ou nougat de noix"]
+    ],
+    "Préparation": [
+      "Mettre le lait, la levure et le sucre dans un bol, mélanger et laisser reposer 5 à 10 minutes.",
+      "Ajouter les œufs, le beurre mou, l'huile et le sel, puis bien mélanger.",
+      "Incorporer progressivement la farine en pétrissant pour obtenir une pâte lisse et souple.",
+      "Couvrir la pâte et la laisser lever 45 à 60 minutes dans un endroit chaud.",
+      "Pétrir rapidement les pépites de chocolat.",
+      "Diviser la pâte en portions égales.",
+      "Aplatir légèrement chaque portion et mettre 1 à 2 cuillères à café de Nutella au centre.",
+      "Bien fermer les bords et former des petits pains ronds, couture dessous.",
+      "Placer sur une plaque de cuisson et laisser lever encore 20 à 30 minutes.",
+      "Badigeonner de lait.",
+      "Cuire au four à 180 °C, chaleur haut et bas, sur une grille du milieu, jusqu'à ce qu'ils soient dorés.",
+      "Après cuisson, ajouter du Nutella dessus et saupoudrer de sucre glace."
+    ]
+  },
+  "La Brioche au Chocolat de mon enfance": {
+    "Type": "Dessert",
+    "Temps": {
+      "Préparation": [30, "min"],
+      "Cuisson": [30, "min"],
+      "Repos": [120, "min"]
+    },
+    "Ingrédients": [
+      ["130", "g", "lait tiède"],
+      ["10", "g", "levure boulangère sèche"],
+      ["1", "càc", "sucre en poudre"],
+      ["300", "g", "farine"],
+      ["30", "g", "sucre en poudre"],
+      ["1", "càc", "sel"],
+      ["60", "g", "beurre"],
+      ["1", "", "œuf gros"],
+      ["200", "g", "pépites de chocolat"],
+      ["50", "g", "sucre blanc (sirop)"],
+      ["50", "g", "eau (sirop)"]
+    ],
+    "Préparation": [
+      "Faire gonfler la levure dans le lait tiède et 1 càc de sucre pendant 10 minutes.",
+      "Dans un bol, verser la farine, le sucre, le sel et mélanger. Former un puits, casser l'œuf et verser le mélange levure-lait. Pétrir pendant 5 minutes.",
+      "Ajouter ensuite petit à petit le beurre coupé en morceaux en pétrissant pendant 10-15 minutes jusqu'à ce que la pâte soit homogène, lisse et élastique. Laisser pousser à 28°C pendant 1h30/2h.",
+      "Dégazer la pâte et la déposer sur un plan de travail fariné.",
+      "Incorporer les pépites de chocolat puis étaler la pâte en rectangle. Former des petites entailles sur le bord inférieur et rouler le pâton du haut vers les entailles.",
+      "Disposer dans un moule beurré et enfourner pour 25-30 minutes à 180°C.",
+      "À la sortie du four, badigeonner de sirop (eau et sucre portés à frémissement) avec un pinceau."
+    ]
+  },
+  "Fluffy pancakes": {
+    "Type": "Dessert",
+    "Temps": {
+      "Préparation": [20, "min"],
+      "Cuisson": [10, "min"],
+      "Repos": [15, "min"]
+    },
+    "Ingrédients": [
+      ["4", "", "œufs"],
+      ["45", "ml", "lait"],
+      ["1", "c-à-c", "extrait de vanille"],
+      ["60", "g", "farine"],
+      ["4", "g", "levure"],
+      ["50", "g", "sucre"],
+      ["2", "c-à-s", "huile"],
+      ["60", "ml", "eau"]
+    ],
+    "Préparation": [
+      "Séparer les blancs et les jaunes d'œufs.",
+      "Mettre le bol avec les blancs d'œufs au congélateur pendant 15 min.",
+      "Ajouter le lait et la vanille aux jaunes d'œuf. Fouetter jusqu'à obtenir une consistance mousseuse.",
+      "Incorporer la farine et la levure délicatement.",
+      "Battre les blancs d'œufs sortis du congélateur en neige ferme en ajoutant le sucre petit à petit.",
+      "Chauffer une poêle antiadhésive huilée.",
+      "Incorporer délicatement les blancs d'œufs dans la pâte.",
+      "Former des boules de pâte sur la poêle, ajouter un peu d'eau et couvrir avec un couvercle.",
+      "Au bout de 5 min, retourner et cuire encore 2-3 min."
+    ]
+  },
+  "Rock 'N Choc": {
+    "Type": "Dessert",
+    "Temps": {
+      "Préparation": [30, "min"],
+      "Cuisson": [15, "min"],
+      "Repos": [60, "min"]
+    },
+    "Ingrédients": [
+      ["180", "g", "sucre roux"],
+      ["125", "g", "beurre doux"],
+      ["30", "g", "œuf entier"],
+      ["190", "g", "farine T55"],
+      ["2", "g", "levure chimique"],
+      ["50", "g", "chocolat noir"],
+      ["190", "g", "sucre semoule"],
+      ["70", "g", "farine T45"],
+      ["270", "g", "œufs entiers"],
+      ["165", "g", "beurre doux"],
+      ["165", "g", "chocolat noir 70%"]
+    ],
+    "Préparation": [
+      "Cookie : Mélanger le beurre et le sucre roux au batteur. Ajouter la farine, la levure et le sel. Incorporer les œufs, puis laisser reposer au réfrigérateur. Étaler la pâte sur 1 cm d'épaisseur et détailler des palets de 5 cm de diamètre.",
+      "Coulant : Faire fondre le beurre avec le chocolat. Ajouter les œufs petit à petit. Incorporer le sucre semoule et la farine, puis mélanger.",
+      "Montage et cuisson : Cuire les cookies à 175°C pendant 8 minutes dans des emporte-pièces. Placer les cookies dans des cercles beurrés et farinés (8 x 4,5 cm), pocher le coulant au chocolat jusqu'aux ¾ de hauteur. Le cœur doit rester coulant."
+    ]
+  },
+  "Brookies": {
+    "Type": "Dessert",
+    "Temps": {
+      "Préparation": [15, "min"],
+      "Cuisson": [15, "min"],
+      "Repos": [0, ""]
+    },
+    "Ingrédients": [
+      ["120", "g", "chocolat noir 75%"],
+      ["50", "g", "sucre roux"],
+      ["10", "g", "sucre blanc"],
+      ["40", "g", "farine"],
+      ["1", "", "œuf"],
+      ["20", "g", "huile de graine"],
+      ["0.5", " cuillère à café", "levure chimique"],
+      ["1", "pincée", "sel"]
+    ],
+    "Préparation": [
+      "Dans un bol, mélanger l'œuf et le sucre.",
+      "Ajouter le chocolat fondu et mélanger.",
+      "Incorporer l'huile, la levure, la farine et une pincée de sel, puis mélanger jusqu'à obtenir un composé lisse.",
+      "Former des portions et les placer sur une poêle recouverte de papier cuisson.",
+      "Cuire dans un four préchauffé à 180°C pendant environ 15 minutes."
+    ]
+  },
+  "Spritz": {
+    "Type": "Dessert",
+    "Temps": {
+      "Préparation": [20, "min"],
+      "Cuisson": [15, "min"],
+      "Repos": [60, "min"]
+    },
+    "Ingrédients": [
+      ["200", "g", "farine"],
+      ["170", "g", "beurre"],
+      ["70", "g", "sucre glace"],
+      ["1", "", "blanc d'œuf"],
+      ["1", "pincée", "sel"],
+      ["1", "càc", "arôme de vanille"],
+      ["150", "g", "chocolat fondu"]
+    ],
+    "Préparation": [
+      "Préchauffer le four à 160°C.",
+      "Réaliser un beurre pommade en le laissant ramollir 1h à température ambiante.",
+      "Dans un bol, fouetter le beurre mou, le sucre glace, l'arôme de vanille et le sel.",
+      "Ajouter le blanc d'œuf et fouetter énergiquement.",
+      "Incorporer la farine tamisée à l'aide d'une maryse.",
+      "Dresser les biscuits à l'aide d'une poche munie d'une douille étoile sur une plaque de cuisson.",
+      "Enfourner pendant 15 minutes.",
+      "Laisser refroidir avant de tremper la moitié des biscuits dans le chocolat fondu."
+    ]
+  },
+  "Cake à l'orange": {
+    "Type": "Dessert",
+    "Temps": {
+      "Préparation": [20, "min"],
+      "Cuisson": [40, "min"],
+      "Repos": [0, ""]
+    },
+    "Ingrédients": [
+      ["2", "", "oranges"],
+      ["150", "g", "sucre"],
+      ["4", "", "œufs"],
+      ["175", "g", "beurre fondu"],
+      ["175", "g", "farine"],
+      ["1", "sachet", "levure chimique"],
+      ["1", "dose", "jus d'orange pressé"]
+    ],
+    "Préparation": [
+      "Préchauffer le four à 180°C.",
+      "Découper les oranges en morceaux sans les éplucher.",
+      "Mixer les morceaux d'orange avec 150g de sucre et 4 œufs.",
+      "Ajouter le beurre, la farine et la levure chimique. Bien mélanger.",
+      "Verser dans un moule à cake chemisé et enfourner 40 minutes à 180°C.",
+      "Chauffer un peu de jus d'orange et le verser chaud sur le gâteau."
+    ]
+  },
+  "Moelleux figues amandes et pistaches": {
+    "Type": "Dessert",
+    "Temps": {
+      "Préparation": [25, "min"],
+      "Cuisson": [55, "min"],
+      "Repos": [15, "min"]
+    },
+    "Ingrédients": [
+      ["100", "g", "sucre"],
+      ["130", "g", "beurre"],
+      ["2", "", "œufs"],
+      ["1", "dose", "graines d'une gousse de vanille"],
+      ["120", "g", "amandes en poudre"],
+      ["70", "g", "farine"],
+      ["0.5", "c. à café", "cannelle"],
+      ["1", "pincée", "sel"],
+      ["0.5", "c. à café", "levure chimique"],
+      ["70", "g", "yaourt grec"],
+      ["9", "", "figues"],
+      ["1", "dose", "pistaches concassées"],
+      ["1", "dose", "miel"]
+    ],
+    "Préparation": [
+      "Préchauffer le four à 200°C.",
+      "Crémer le sucre et le beurre mou. Ajouter les œufs un par un.",
+      "Incorporer la vanille, la cannelle, la poudre d'amande, la farine, la levure et le sel.",
+      "Ajouter le yaourt et mélanger.",
+      "Verser dans un moule beurré de 20cm.",
+      "Disposer les figues coupées en quartiers sur la pâte.",
+      "Enfourner 15 minutes à 200°C, puis baisser à 170°C pour 40 minutes.",
+      "Laisser refroidir, parsemer de pistaches et arroser de miel avant de servir."
+    ]
+  },
+  "Tarte figue noisette": {
+    "Type": "Dessert",
+    "Temps": {
+      "Préparation": [30, "min"],
+      "Cuisson": [40, "min"],
+      "Repos": [75, "min"]
+    },
+    "Ingrédients": [
+      ["125", "g", "beurre pommade"],
+      ["100", "g", "sucre glace"],
+      ["1", "", "œuf"],
+      ["50", "g", "poudre de noisette"],
+      ["1", "pincée", "fleur de sel"],
+      ["250", "g", "farine T55"],
+      ["2", "", "œufs"],
+      ["90", "g", "beurre pommade"],
+      ["70", "g", "sucre en poudre"],
+      ["90", "g", "poudre de noisette"],
+      ["800", "g", "figues fraîches"],
+      ["1", "dose", "noisettes concassées"]
+    ],
+    "Préparation": [
+      "Mélanger le sucre glace, l'œuf, la poudre de noisette, la fleur de sel et la farine. Ajouter le beurre.",
+      "Étaler la pâte, la placer dans le moule et laisser reposer 1h au frais. Cuire 15 minutes à 180°C.",
+      "Mélanger le sucre, le beurre pommade, la poudre de noisette et les œufs pour la garniture.",
+      "Verser sur la pâte cuite, disposer les figues coupées et parsemer de noisettes.",
+      "Enfourner pour 25 minutes à 170°C."
+    ]
+  },
+  "Fondant Baulois": {
+    "Type": "Dessert",
+    "Temps": {
+      "Préparation": [20, "min"],
+      "Cuisson": [45, "min"],
+      "Repos": [720, "min"]
+    },
+    "Ingrédients": [
+      ["5", "", "œufs"],
+      ["180", "g", "beurre"],
+      ["200", "g", "chocolat noir pâtissier"],
+      ["150", "g", "sucre"],
+      ["1", "cuillère à soupe", "caramel beurre salé"],
+      ["40", "g", "farine"],
+      ["1", "cuillère à café", "extrait de vanille"]
+    ],
+    "Préparation": [
+      "Fouetter les œufs, le sucre et la vanille pour obtenir un mélange mousseux.",
+      "Fondre le beurre et le chocolat, puis les incorporer au mélange.",
+      "Ajouter le caramel et la farine.",
+      "Verser dans un moule beurré et laisser reposer 1 heure au réfrigérateur.",
+      "Cuire 5 minutes à 200°C, puis baisser à 120°C pendant 40 minutes.",
+      "Laisser reposer une nuit au réfrigérateur avant de servir."
+    ]
+  },
+  "Doowap": {
+    "Type": "Dessert",
+    "Temps": {
+      "Préparation": [30, "min"],
+      "Cuisson": [16, "min"],
+      "Repos": [135, "min"]
+    },
+    "Ingrédients": [
+      ["500", "g", "farine"],
+      ["15", "g", "levure fraîche"],
+      ["70", "g", "sucre"],
+      ["1", "sachet", "sucre vanillé"],
+      ["4", "g", "sel"],
+      ["1", "", "œuf"],
+      ["230", "g", "lait"],
+      ["70", "g", "beurre mou"],
+      ["100", "g", "chocolat"],
+      ["1", "dose", "lait (dorure)"]
+    ],
+    "Préparation": [
+      "Diluer la levure dans le lait tiède.",
+      "Ajouter la farine, les sucres, le sel, l'œuf et pétrir 5 minutes.",
+      "Ajouter le beurre et pétrir 5 min.",
+      "Laisser lever 1 heure.",
+      "Mettre la pâte 15 min au frigo, puis incorporer les pépites de chocolat.",
+      "Former des boules de 80 g, laisser lever 1 heure.",
+      "Badigeonner de lait, ajouter des pépites et cuire 16 minutes à 180°C."
+    ]
+  },
+  "Gargouilleau": {
+    "Type": "Dessert",
+    "Temps": {
+      "Préparation": [20, "min"],
+      "Cuisson": [30, "min"],
+      "Repos": [10, "min"]
+    },
+    "Ingrédients": [
+      ["5", "", "poires"],
+      ["70", "g", "sucre"],
+      ["2", "cuillères à soupe", "cognac"],
+      ["80", "g", "farine"],
+      ["2", "", "œufs"],
+      ["150", "ml", "lait"],
+      ["50", "ml", "crème liquide"],
+      ["1", "pincée", "fleur de sel"],
+      ["1", "dose", "beurre"]
+    ],
+    "Préparation": [
+      "Éplucher et couper les poires. Les faire macérer 10 min avec 20 g de sucre et le cognac.",
+      "Mélanger la farine, le lait, les œufs, 50 g de sucre, la crème et la fleur de sel.",
+      "Disposer les poires dans un plat beurré et verser la pâte.",
+      "Cuire 30 min à 200°C."
+    ]
+  },
+  "Gaufre de liège": {
+    "Type": "Dessert",
+    "Temps": {
+      "Préparation": [25, "min"],
+      "Cuisson": [10, "min"],
+      "Repos": [60, "min"]
+    },
+    "Ingrédients": [
+      ["250", "g", "farine"],
+      ["20", "g", "sucre"],
+      ["1", "", "œuf"],
+      ["100", "ml", "lait entier"],
+      ["20", "g", "levure boulangère"],
+      ["5", "g", "sel"],
+      ["1", "dose", "vanille"],
+      ["130", "g", "beurre"],
+      ["150", "g", "sucre perlé"]
+    ],
+    "Préparation": [
+      "Mélanger la farine, le sucre et la levure.",
+      "Ajouter l'œuf et le lait.",
+      "Ajouter le beurre et pétrir.",
+      "Laisser reposer 1 heure.",
+      "Ajouter les perles de sucre avant de façonner et cuire."
+    ]
+  },
+  "Gâteau de Crêpes au Chocolat": {
+    "Type": "Dessert",
+    "Temps": {
+      "Préparation": [45, "min"],
+      "Cuisson": [20, "min"],
+      "Repos": [75, "min"]
+    },
+    "Ingrédients": [
+      ["4", "", "œufs"],
+      ["40", "g", "beurre fondu"],
+      ["3", "c. à soupe", "sucre"],
+      ["1", "c. à café", "vanille"],
+      ["700", "g", "lait entier"],
+      ["330", "g", "farine"],
+      ["1", "pincée", "sel"],
+      ["200", "g", "chocolat noir"],
+      ["550", "g", "crème fleurette"],
+      ["70", "g", "chocolat au lait"],
+      ["60", "g", "chocolat noir"]
+    ],
+    "Préparation": [
+      "Préparer la pâte à crêpes, laisser reposer 30 minutes et cuire les crêpes.",
+      "Réaliser la mousse au chocolat avec la ganache et la crème fouettée.",
+      "Préparer la ganache chocolat.",
+      "Monter le gâteau en alternant crêpes et mousse au chocolat.",
+      "Laisser reposer au frais au moins 45 min avant de servir."
+    ]
+  },
+  "Les galettes aux pommes": {
+    "Type": "Dessert",
+    "Temps": {
+      "Préparation": [20, "min"],
+      "Cuisson": [25, "min"],
+      "Repos": [0, ""]
+    },
+    "Ingrédients": [
+      ["2", "", "œufs"],
+      ["80", "g", "sucre"],
+      ["1", "sachet", "sucre vanillé"],
+      ["1", "càc", "cannelle"],
+      ["230", "g", "farine de blé"],
+      ["40", "g", "farine de sarrasin"],
+      ["300", "ml", "lait entier"],
+      ["5", "", "pommes"],
+      ["1", "dose", "beurre demi-sel"]
+    ],
+    "Préparation": [
+      "Mélanger les œufs, le sucre, le sucre vanillé, la cannelle, les farines et le lait.",
+      "Éplucher et râper les pommes.",
+      "Mélanger les pommes à la préparation.",
+      "Faire cuire 6 minutes à la poêle en retournant de temps en temps."
+    ]
+  },
+  "Kinder Country": {
+    "Type": "Dessert",
+    "Temps": {
+      "Préparation": [20, "min"],
+      "Cuisson": [10, "min"],
+      "Repos": [150, "min"]
+    },
+    "Ingrédients": [
+      ["250", "g", "chocolat au lait"],
+      ["250", "g", "chocolat blanc"],
+      ["30", "g", "lait concentré sucré"],
+      ["80", "g", "céréales Kellogg's"]
+    ],
+    "Préparation": [
+      "Faire fondre le chocolat au lait et badigeonner les empreintes du moule. Mettre 30 min au frigo.",
+      "Faire cuire les céréales 10 min à 180°C sur une toile de cuisson.",
+      "Faire fondre le chocolat blanc, le mélanger avec le lait concentré et ajouter les céréales.",
+      "Ajouter cette préparation par-dessus le chocolat au lait figé dans le moule.",
+      "Mettre au frigo pendant 2 heures."
+    ]
+  },
+  "Guimauve aux pommes maison": {
+    "Type": "Dessert",
+    "Temps": {
+      "Préparation": [30, "min"],
+      "Cuisson": [15, "min"],
+      "Repos": [180, "min"]
+    },
+    "Ingrédients": [
+      ["600", "g", "pommes"],
+      ["100", "ml", "eau"],
+      ["40", "g", "gélatine"]
+    ],
+    "Préparation": [
+      "Éplucher et couper les pommes.",
+      "Cuire 10-15 min dans l'eau jusqu'à tendreté.",
+      "Mixer en purée lisse et ajouter la gélatine.",
+      "Fouetter au batteur 20 minutes à vitesse haute jusqu'à triplement du volume.",
+      "Verser dans un moule et réfrigérer 2-3h avant de découper."
+    ]
+  },
+  "Brioche à la pâte à tartiner": {
+    "Type": "Dessert",
+    "Temps": {
+      "Préparation": [30, "min"],
+      "Cuisson": [30, "min"],
+      "Repos": [90, "min"]
+    },
+    "Ingrédients": [
+      ["300", "g", "farine"],
+      ["110", "ml", "lait"],
+      ["1", "", "œuf"],
+      ["60", "g", "sucre"],
+      ["60", "g", "beurre mou"],
+      ["1", "sachet", "levure boulangère"],
+      ["1", "dose", "pâte à tartiner et noisettes grillées"]
+    ],
+    "Préparation": [
+      "Mélanger le lait tiède avec la levure et laisser reposer 10 minutes.",
+      "Ajouter la farine, le sucre, l'œuf, le lait et pétrir en incorporant le beurre.",
+      "Laisser poser 1h30.",
+      "Étaler la pâte, étaler la pâte à tartiner, rouler et faire des encoches.",
+      "Badigeonner d'un mélange de jaune d'œuf et de lait.",
+      "Enfourner 25-30 minutes à 180°C."
+    ]
+  },
+  "Steak de pois chiche": {
+    "Type": "Plat",
+    "Temps": {
+      "Préparation": [20, "min"],
+      "Cuisson": [30, "min"],
+      "Repos": [0, ""]
+    },
+    "Ingrédients": [
+      ["2", "", "œufs"],
+      ["2", "", "oignons rouges"],
+      ["2", "gousses", "d'ail"],
+      ["6", "cuillères à soupe", "huile d'olive"],
+      ["600", "g", "pois chiches"]
+    ],
+    "Préparation": [
+      "Couper l'ail et les oignons très finement.",
+      "Écraser les pois chiches.",
+      "Mélanger l'ensemble des ingrédients.",
+      "Étalez la pâte et former des steak avec un emporte pièce.",
+      "Faire cuire à 180°C pendant 30 minutes en le retournant à mi-cuisson."
+    ]
+  },
+  "Pesto": {
+    "Type": "Sauce",
+    "Temps": {
+      "Préparation": [15, "min"],
+      "Cuisson": [0, ""],
+      "Repos": [0, ""]
+    },
+    "Ingrédients": [
+      ["60 à 70", "g", "feuilles de basilic"],
+      ["30", "g", "pignons de fins"],
+      ["45 à 60", "g", "parmesan"],
+      ["20 à 40", "g", "pecorino"],
+      ["1", "gousse", "d'ail"],
+      ["40 ml à 60", "ml", "d'huile"]
+    ],
+    "Préparation": [
+      "Laver les feuilles de basilic et les laisser sécher sur un torchon sans les froisser.",
+      "Broyer l'ail et les pignons dans un mortier.",
+      "Une fois les deux ingrédients réduits en crème, ajouter le sel et le basilic et les écraser avec un léger mouvement de rotation du pilon contre les parois.",
+      "Quand le balesic laisse sortir son liquide vert ajouter les fromages.",
+      "Verser ensuite l'huile en filet tout en mélangeant pour que la pâte devienne plus crémeuse."
+    ]
+  },
+  "Courgette farcie": {
+    "Type": "Plat",
+    "Temps": {
+      "Préparation": [20, "min"],
+      "Cuisson": [50, "min"],
+      "Repos": [0, ""]
+    },
+    "Ingrédients": [
+      ["3", "", "courgettes"],
+      ["1", "", "oignon"],
+      ["2", "cuillère à soupe", "d'huile d'olive"],
+      ["200", "g", "coulis de tomates"],
+      ["140", "g", "de thon"],
+      ["1", "dose", "sel, poivre"]
+    ],
+    "Préparation": [
+      "Couper les courgettes en deux et les vider.",
+      "Couper l'oignon en petit morceau.",
+      "Dans une poêle, faire revenir les oignons puis ajouter l'interieur des courgettes puis le thon et enfin le coulis de tomates.",
+      "Versez la préparation dans les courgettes évidé.",
+      "Faire cuire 50 minutes à 180°C.",
+      "Parsemer de parmesan."
+    ]
+  },
+  "Carbonara": {
+    "Type": "Plat",
+    "Temps": {
+      "Préparation": [20, "min"],
+      "Cuisson": [15, "min"],
+      "Repos": [0, ""]
+    },
+    "Ingrédients": [
+      ["400", "g", "de spaghettoni"],
+      ["250", "g", "de guanciale"],
+      ["1", "œuf + 3", "jaunes d'œuf"],
+      ["210", "g", "de pecorino romano"],
+      ["40", "g", "de parmesan"],
+      ["20", "g", "de poivre noir"]
+    ],
+    "Préparation": [
+      "Couper le guanciale en tranche d'1 cm puis en cube de 1 cm.",
+      "Faire griller à feu vif, une fois le 1er gras fondu remuer jusqu'à ce que le gras soit dissous puis laisser confire 20 minutes à feu doux.",
+      "Faire cuire les pâtes.",
+      "Raper les fromages.",
+      "Dans un saladier, battre les œufs, ajouter le fromage et le poivre.",
+      "Une fois les pâtes cuites, garder de l'eau de cuisson pour la sauce et mettre les pâtes égoutter dans le saladier, mélanger puis laissez poser 1 minute.",
+      "Ajouter ensuite le guanciale et une cuillère de gras fondu et mélanger de manière circulaires et de haut en bas.",
+      "Ajouter ensuite l'eau de cuisson et servir immédiatement."
+    ]
+  },
+  "A matriciana": {
+    "Type": "Plat",
+    "Temps": {
+      "Préparation": [20, "min"],
+      "Cuisson": [15, "min"],
+      "Repos": [0, ""]
+    },
+    "Ingrédients": [
+      ["400", "g", "de pates"],
+      ["120", "g", "de guanciale"],
+      ["6", "tomates", "san marzano"],
+      ["80 à 100", "g", "de pecorino"],
+      ["1", "cuillère à soupe", "d'huile d'olive"],
+      ["40", "g", "de vin blanc"],
+      ["1", "petit morceau", "de piment"],
+      ["1", "dose", "sel"]
+    ],
+    "Préparation": [
+      "Faire revenir le guanciale avec l'huile dans une poele à feu moyen jusqu'à ce que le gras deviennent transparent et légèrement coloré, etjouter le vin blanc et laisser évaporer et débarraser.",
+      "Effilocher les tomates et les ajouter à la poele chaude. Rajouter le piment.",
+      "Laisser reduire pendant 10 minutes en ecrasant les morceaux de tomates puis ajouter le guanciale.",
+      "Faire cuire les pâtes al dente et prelever un verre d'eau de cuisson.",
+      "Une fois les pâtes, egoutter, les verser directement dans la sauce.",
+      "allonger la sauce si necessaire avec l'eau de cuisson et ajouter le pecorino"
+    ]
+  },
+  "Risotto": {
+    "Type": "Plat",
+    "Temps": {
+      "Préparation": [20, "min"],
+      "Cuisson": [20, "min"],
+      "Repos": [0, ""]
+    },
+    "Ingrédients": [
+      ["400", "g", "de riz à risotto"],
+      ["1", "petit", "oignon"],
+      ["100", "g", "de beurre"],
+      ["1 à 1,5", "litres", "de bouillon"],
+      ["1/2", "verre", "de vin blanc"]
+    ],
+    "Préparation": [
+      "Faire fondre l'oignon haché dans la moitié du beurre pendant 15 minutes.",
+      "Ajouter le riz pour le faire frire et legerement griller environ 3 minutes, jusqu'à ce qu'il devienne brillant.",
+      "Verser le vin et melanger jusqu'à évaporation.",
+      "Ajouter progressivement le bouillon, en attendant à chaque fois qu'il soit bien absorber. Compter entre 16 et 19 minutes.",
+      "Hors du feu, ajouter le reste du beurre."
+    ]
+  },
+  "Panzanella": {
+    "Type": "Entrée",
+    "Temps": {
+      "Préparation": [15, "min"],
+      "Cuisson": [0, ""],
+      "Repos": [0, ""]
+    },
+    "Ingrédients": [
+      ["500", "g", "de pain rassis"],
+      ["500", "g", "de tomates bien mure"],
+      ["1", "oignon", "rouge"],
+      ["6", "cuillère à soupe", "d'huile d'olive"],
+      ["3", "cuillère à soupe", "de vinaigre"],
+      ["1", "dose", "Basilic"],
+      ["1", "dose", "sel"]
+    ],
+    "Préparation": [
+      "Couper les tomates en dés, les assaisonner avec l'huile, le vinaigre, le sel et les laisser dégorger.",
+      "Couper le pain en petit morceau et les ajouter aux tomates.",
+      "Laisser reposer au frigo le temps que le pain ramolise.",
+      "Couper l'oignon en fine lamelle et l'ajouter au reste.",
+      "Ajouter le basilic ciselé et rectifier l'assaisonnement si besoin."
+    ]
+  },
+  "Pain à Burger": {
+    "Type": "Pâte",
+    "Temps": {
+      "Préparation": [30, "min"],
+      "Cuisson": [15, "min"],
+      "Repos": [150, "min"]
+    },
+    "Ingrédients": [
+      ["340", "g", "de farine"],
+      ["9", "cl", "de lait"],
+      ["7", "cl", "d'eau"],
+      ["30", "g", "de beurre"],
+      ["2", "œufs"],
+      ["1", "sachet", "de levure de boulanger"],
+      ["1", "cuillère à soupe", "de sucre"],
+      ["1", "cuillère à café", "de sel"]
+    ],
+    "Préparation": [
+      "Dans un bol, melanger la farine, le sucre, le sel et la levure.",
+      "Dans un casserole, faire fondre le beurre avec l'eau puis ajouter le lait pour obtenir un liquide tiède.",
+      "Mélanger le liquide tiède avec le melange sec.",
+      "Petrire la pate et ajouter les jaunes d'œuf un par un.",
+      "Laisser reposer la pâte 1h30 sous un couvercle.",
+      "Separer la pâte en quatre et façonner les patons en forme de pain à burger aplati.",
+      "Laisser reposer 1h sur la plaque recouverte de papier sulfuise.",
+      "Avant d'enfourner pour 15 min à 180°C, badigeonner de lait et ajouter des graines de sesame."
+    ]
+  },
+  "Polpette": {
+    "Type": "Plat",
+    "Temps": {
+      "Préparation": [25, "min"],
+      "Cuisson": [20, "min"],
+      "Repos": [0, ""]
+    },
+    "Ingrédients": [
+      ["600", "g", "de viande haché"],
+      ["150", "g", "de pain de mie"],
+      ["1", "verre", "de lait"],
+      ["100", "g", "de parmesan"],
+      ["2", "œufs"],
+      ["1", "dose", "du persil"],
+      ["1", "dose", "Farine"],
+      ["1", "dose", "Huile de friture"],
+      ["1", "dose", "Coulis de tomate"],
+      ["1", "dose", "Huile d'olive"]
+    ],
+    "Préparation": [
+      "Faire tremper le pain de mie dans le lait afin de le ramollir et de l'émietter.",
+      "Melanger la viande, le parmesan, les oeufs, le persil et le pain mie.",
+      "Former les boulettes avec les mains.",
+      "Enrober les boulettes avec la farine et les faire frire dans une poele avec de l'huile de friture.",
+      "Dans une poele, verser de l'huile d'olive et ajouter le coulis de tomate avec le persil. Mettre les polpettes et les laisser mijoter."
+    ]
+  },
+  "Tartines italiennes": {
+    "Type": "Plat",
+    "Temps": {
+      "Préparation": [25, "min"],
+      "Cuisson": [60, "min"],
+      "Repos": [0, ""]
+    },
+    "Ingrédients": [
+      ["6", "pains", "type focaccia"],
+      ["4", "tomates", ""],
+      ["250", "g", "ricotta"],
+      ["2", "oignons", "rouge"],
+      ["200", "g", "de prosciutto"],
+      ["250", "g", "de mozzarella"],
+      ["1", "dose", "huile d'olive"],
+      ["1", "dose", "origan"],
+      ["1", "dose", "basilic"]
+    ],
+    "Préparation": [
+      "Coupez les tomates en rondelle et les mettre sur une place de cuisson.",
+      "Saupoudrer les tomates d'origan et ajouter de l'huile dessus.",
+      "Enfourner pendant 1h à thermostat 3-4 pour les confire.",
+      "Couper les oignon et les mélanger avec la ricotta et 10 feuilles de basilic coupé.",
+      "Couper les pains en 2 et les faire griller.",
+      "Étaler une couche de ricotta sur les pains, ajouter ensuite les tomates, le proscuitto et la mozzarella.",
+      "Faire cuire les tartines 5 minutes à 150°C.",
+      "Avant de servir ajouter quelques feuilles de basilic et un filet d'huile d'olive."
+    ]
+  },
+  "La tarte chou rouge confit & chèvre": {
+    "Type": "Plat",
+    "Temps": {
+      "Préparation": [20, "min"],
+      "Cuisson": [35, "min"],
+      "Repos": [0, ""]
+    },
+    "Ingrédients": [
+      ["1", "", "pate brisée"],
+      ["0.5", "", "chou rouge (petit)"],
+      ["1", "", "oignon rouge"],
+      ["6", "cas", "d'huile d'olive"],
+      ["3", "cas", "de soja salé"],
+      ["2", "cas", "de sirop d'érable"],
+      ["1", "cas", "d'ail"],
+      ["70", "g", "de St moret (ou philadelphia)"],
+      ["2", "cas", "de moutarde"],
+      ["50", "g", "de parmesan"],
+      ["6", "rondelles", "de chèvre"]
+    ],
+    "Préparation": [
+      "Couper finement le chou et l'oignon rouge.",
+      "Les mettre dans un saladier avec l'huile, le soja, l'ail et le sirop d'érable. Bien mélanger et laisser mariner.",
+      "Étaler sur la pâte brisée une bonne couche de fromage frais, de moutarde et une bonne dose de parmesan.",
+      "Ajouter le chou mariné au centre de la pâte et rabattre les bords.",
+      "Faire cuire 30-35 min à 180 degrés et 15 minutes avant la fin de cuisson ajouter le chèvre.",
+      "Apres cuisson, ajouter quelques pignons de pins grillés, un peu de persil et un filet de miel."
+    ]
+  },
+  "Pâtes aux légumes rôtis et à la feta": {
+    "Type": "Plat",
+    "Temps": {
+      "Préparation": [15, "min"],
+      "Cuisson": [40, "min"],
+      "Repos": [0, ""]
+    },
+    "Ingrédients": [
+      ["1", "", "poivron jaune"],
+      ["1", "", "poivron rouge"],
+      ["1", "", "courgette"],
+      ["1", "", "oignon rouge"],
+      ["1", "gousse", "d'ail"],
+      ["1", "dose", "huile d'olive"],
+      ["1", "dose", "sauce soja salée"],
+      ["1", "dose", "miel"],
+      ["1", "dose", "sel"],
+      ["1", "dose", "poivre"],
+      ["1", "dose", "Zaatar"],
+      ["1", "bloc", "de feta"],
+      ["1", "dose", "pâtes cuites"]
+    ],
+    "Préparation": [
+      "Couper les légumes en petits morceaux et les mettre dans un plat allant au four.",
+      "Ajouter l'huile, le soja, le miel, le sel, le poivre et le zaatar, bien mélanger.",
+      "Enfourner pendant 30 minutes à 180°.",
+      "Ajouter la feta et enfourner à nouveau pendant 10 minutes.",
+      "Retirer le plat du four, mélanger avec les pâtes préalablement cuites."
+    ]
+  },
+  "Salade legume et sardine": {
+    "Type": "Entrée",
+    "Temps": {
+      "Préparation": [15, "min"],
+      "Cuisson": [5, "min"],
+      "Repos": [0, ""]
+    },
+    "Ingrédients": [
+      ["75", "g", "de tomates cerises"],
+      ["1", "", "oignon rouge"],
+      ["1", "filet", "d'huile d'olive"],
+      ["1", "cas", "de câpres"],
+      ["1", "cas", "d'olives vertes"],
+      ["1", "tranche", "de pain aux 4 céréales"],
+      ["0.5", "cac", "d'origan"],
+      ["1", "pincée", "de paillettes de piment"],
+      ["1", "", "poivron rouge grillé"],
+      ["1", "poignée", "de persil frais ciselé"],
+      ["1", "boîte", "de sardines à l'huile d'olive"],
+      ["1", "dose", "Quelques feuilles de basilic"]
+    ],
+    "Préparation": [
+      "Dans un plat, mettre le tomate cerise coupe en deux, les olives couper en morceau, les capres, l'oignon couper en morceau et l'huile d'olive.",
+      "Faire cuire à 200°C pendant 5 minutes.",
+      "Verser le tout dans un saladier et ajouter le poivron, le pain de couper en tranche, l'origan, le piment, le persil, les sardines, le basilic et de l'huile."
+    ]
+  },
+  "Coquillettes jambon aux herbes, crème aux champis de paris, comté": {
+    "Type": "Plat",
+    "Temps": {
+      "Préparation": [15, "min"],
+      "Cuisson": [15, "min"],
+      "Repos": [0, ""]
+    },
+    "Ingrédients": [
+      ["250", "g", "de coquillettes"],
+      ["200", "g", "de champignons de Paris bruns (ou ceux que tu préfères)"],
+      ["1", "", "échalote ciselée"],
+      ["1 ou 2", "gousses", "d'ail hachées"],
+      ["15", "cl", "de fond de veau dilué (ou bouillon de légumes pour une version VG)"],
+      ["20", "cl", "de crème liquide entière"],
+      ["1", "louche", "d'eau de cuisson des pâtes"],
+      ["100", "g", "de comté"],
+      ["1", "dose", "Chiffonade de jambon blanc"],
+      ["1", "dose", "Ciboulette fraîche ciselée"],
+      ["1", "dose", "Sel, poivre, huile d'olive"]
+    ],
+    "Préparation": [
+      "Faire revenir l'échalote dans l'huile d'olive à feu assez vif. Quand elle est translucide on ajoute nos champis qu'on laisse revenir également, puis l'ail haché !",
+      "Toujours à feu vif on déglace avec notre fond de veau, on fait réduire le tout, on baisse le feu et on ajoute la crème. Porte de nouveau le tout à ébullition pour que la crème épaisse puis on laisse sur feu tout doux :)",
+      "J'ai assaisonné à ce moment avec sel & poivre.",
+      "La petite louche d'eau de cuisson.",
+      "On balance nos coquillettes cuites.",
+      "Puis la tonne de comté râpé !! On mélange sur feu doux pour qu'il fonde tranquillou.",
+      "Et plus qu'à dresser avec la chiffonnade de jambon, un peu de comté râpé par dessus et de la ciboulette fraîche."
+    ]
+  },
+  "Pâte brisée": {
+    "Type": "Pâte",
+    "Temps": {
+      "Préparation": [15, "min"],
+      "Cuisson": [0, ""],
+      "Repos": [60, "min"]
+    },
+    "Ingrédients": [
+      ["300", "g", "farine"],
+      ["125", "g", "de beurre"],
+      ["1", "", "oeuf"],
+      ["1/2", "verre", "d'eau si necessaire"]
+    ],
+    "Préparation": [
+      "Mélanger le beurre, le sel et l'oeuf.",
+      "Ajouter la farine et petrir jusqu'à obtenir une pâte lisse ajouter de l'eau si besoin.",
+      "Laisser poser au minimum 1h au frigo.",
+      "Etaler la pâte."
+    ]
+  },
+  "Rose des sables": {
+    "Type": "Dessert",
+    "Temps": {
+      "Préparation": [15, "min"],
+      "Cuisson": [5, "min"],
+      "Repos": [60, "min"]
+    },
+    "Ingrédients": [
+      ["100", "g", "de cornflakes"],
+      ["150", "g", "de chocolat"]
+    ],
+    "Préparation": [
+      "Faire fondre le chocolat au bain marie.",
+      "Verser le chocolat sur les cornflakes et melanger.",
+      "Sur du papier cuisson, faire des petits tas à l'aide d'une cuillère.",
+      "Mettre au frais au moins 1h puis deguster."
+    ]
+  },
+  "Coulants coeur caramel": {
+    "Type": "Dessert",
+    "Temps": {
+      "Préparation": [20, "min"],
+      "Cuisson": [9, "min"],
+      "Repos": [2, "min"]
+    },
+    "Ingrédients": [
+      ["200", "g", "de chocolat"],
+      ["70", "g", "de beurre"],
+      ["4", "oeufs", ""],
+      ["70", "g", "de sucre"],
+      ["50", "g", "de farine"],
+      ["1", "dose", "caramels beurre salé"]
+    ],
+    "Préparation": [
+      "Faire fondre le chocolat et le beurre.",
+      "Fouetter les oeufs et le sucre jusqu'à ce que le mélange blanchisse et devienne mousseux.",
+      "Ajouter le chocolat fondu.",
+      "Mettre ensuite la farine tamisée.",
+      "Versez la moitié de la pâte dans les moules à moitié beurrer et fariné, mettre le caramel au centre et recouvrir de pâte.",
+      "Enfourner pour 9 minutes à 200°C.",
+      "Une fois sortis du four, laisser reposer 2 minutes puis demouler."
+    ]
+  },
+  "Baba au rhum": {
+    "Type": "Dessert",
+    "Temps": {
+      "Préparation": [25, "min"],
+      "Cuisson": [25, "min"],
+      "Repos": [0, ""]
+    },
+    "Ingrédients": [
+      ["120", "g", "de farine"],
+      ["50", "g", "de beurre"],
+      ["150", "g", "de sucre"],
+      ["1", "sachet", "de levure chimique"],
+      ["3", "oeufs", ""],
+      ["3", "cuilliere à soupe", "de lait"],
+      ["100", "ml", "de rhum ambré"],
+      ["250", "ml", "d'eau"],
+      ["250", "ml", "de sirop de sucre de canne"]
+    ],
+    "Préparation": [
+      "Separez les blanc des jaunes.",
+      "Fouetter les jaunes avec le sucre jusqu'à ce que le mélange blanchisse.",
+      "Faire chauffer le lait et fondre le beurre.",
+      "Ajouter le lait et le beurre aux jaunes.",
+      "Ajouter ensuite la farine et la levure.",
+      "Battre les blancs en neige.",
+      "Melanger delicatemel les blancs avec la pâte.",
+      "Beurrer le moule à Baba et verser la pâte dans celui-ci.",
+      "Faire cuire 25 minutes à 180°C et demouler dès sa sortie du four.",
+      "Pendant sa cuisson, faire l'eau, le rhum et le sirop.",
+      "Arroser le baba jusqu'à absorption complete du sirop.",
+      "Servir frais."
+    ]
+  },
+  "Flan à la noix de coco": {
+    "Type": "Dessert",
+    "Temps": {
+      "Préparation": [15, "min"],
+      "Cuisson": [45, "min"],
+      "Repos": [0, ""]
+    },
+    "Ingrédients": [
+      ["2", "oeufs", ""],
+      ["375", "g", "de lait concentré sucré"],
+      ["500", "ml", "de lait"],
+      ["1/2", "sachet", "de noix de coco"],
+      ["1", "dose", "caramel"]
+    ],
+    "Préparation": [
+      "Faire bouillir le lait.",
+      "Dans un saladier, battre les oeufs avec le lait concentré.",
+      "Ajouter le lait et la noix de coco.",
+      "Napper le fond du moule avec le caramel.",
+      "Versez la préparation dans le moule.",
+      "Faire cuire au bain marie, 45 minutes à 90-120°C."
+    ]
+  },
+  "Gâteau marbré": {
+    "Type": "Dessert",
+    "Temps": {
+      "Préparation": [20, "min"],
+      "Cuisson": [40, "min"],
+      "Repos": [0, ""]
+    },
+    "Ingrédients": [
+      ["3", "oeufs", ""],
+      ["175", "g", "de sucre"],
+      ["175", "g", "de beurre ramolli"],
+      ["3", "pincées", "de sel"],
+      ["100", "ml", "de lait"],
+      ["250", "g", "de farine"],
+      ["1", "sachet", "de levure chimique"]
+    ],
+    "Préparation": [
+      "Séparez les blancs et les jaunes.",
+      "Ajouter le sucre et le beurre aux jaunes et mélangez à la cuillère en bois jusqu'à ce que le mélange blanchisse.",
+      "En remuant toujours ajouter le lait, la farine et la levure chimique.",
+      "Beurrez le moule et sucrez-le.",
+      "Montez les blancs en neige.",
+      "Ajoutez les petit à petit à la préparation.",
+      "Séparez la pâte en deux.",
+      "Ajouter à l'une des pate 2 cuillère à soupe de cacao.",
+      "Mettez alternativement dans le moule 1 cuillière à soupe de chaque pate.",
+      "Faire cuire à 180°C."
+    ]
+  },
+  "Blondie": {
+    "Type": "Dessert",
+    "Temps": {
+      "Préparation": [15, "min"],
+      "Cuisson": [25, "min"],
+      "Repos": [0, ""]
+    },
+    "Ingrédients": [
+      ["150", "g", "de beurre fondu"],
+      ["75", "g", "de sucre roux"],
+      ["75", "g", "de sucre"],
+      ["175", "g", "de farine"],
+      ["2", "oeufs", ""],
+      ["150", "g", "de pepites de chocolat"]
+    ],
+    "Préparation": [
+      "Melanger le beurre fondu et les sucres dans un saladier.",
+      "Ajouter les oeufs puis la farine et enfin le chocolat.",
+      "Verser la pâte dans un moule à cake.",
+      "Faire cuire 20 à 25 minutes dans un four pré chauffer à 180°C."
+    ]
+  },
+  "Crème caramel": {
+    "Type": "Dessert",
+    "Temps": {
+      "Préparation": [15, "min"],
+      "Cuisson": [30, "min"],
+      "Repos": [120, "min"]
+    },
+    "Ingrédients": [
+      ["500", "ml", "de lait"],
+      ["3", "oeufs", ""],
+      ["80", "g", "de sucre"],
+      ["1/3", "gousse", "de vanille"],
+      ["1", "dose", "caramel"]
+    ],
+    "Préparation": [
+      "Faire bouillir le lait avec la vanille.",
+      "Battre 1 minutes, dans un saladier, les oeufs et le sucre.",
+      "Ajouter ensuite le lait bouillant tout en continuant à mélanger au fouet.",
+      "Laisser reposer pour que la mousse puisse être écumer.",
+      "Napper le fond du moule avec le caramel.",
+      "Verser la pâte, ecumer au préalable, dans le moule.",
+      "Faire cuire, au bain marie d'eau chaude, pendant 25 à 30 minutes.",
+      "Demouler une fois la creme bien froide."
+    ]
+  },
+  "Gâteau Carambar Chamallow": {
+    "Type": "Dessert",
+    "Temps": {
+      "Préparation": [10, "min"],
+      "Cuisson": [5, "min"],
+      "Repos": [30, "min"]
+    },
+    "Ingrédients": [
+      ["20", "carambar", ""],
+      ["20", "chamallow", ""],
+      ["125", "g", "de beurre"],
+      ["1/2", "paquet", "de riz soufflet au chocolat"]
+    ],
+    "Préparation": [
+      "Faire fondre le beurre, le carambar et les chamallow.",
+      "Une fois le tout fondu, verser sur le riz soufflé, prealablement mis dans un saladier.",
+      "Melanger rapidement et etaler rapidement dans le moule, le melange prend vite.",
+      "Mettre au frigo."
+    ]
+  },
+  "Cookie de Remy": {
+    "Type": "Dessert",
+    "Temps": {
+      "Préparation": [15, "min"],
+      "Cuisson": [10, "min"],
+      "Repos": [0, ""]
+    },
+    "Ingrédients": [
+      ["150", "g", "de pepite de chocolat"],
+      ["125", "g", "de beurre demi-sel mou"],
+      ["150", "g", "de sucre roux"],
+      ["1", "oeuf", ""],
+      ["180", "g", "farine"],
+      ["1/2", "sachet", "levure chimique"]
+    ],
+    "Préparation": [
+      "Mélanger l'oeuf et le sucre puis ajouter le beurre mou.",
+      "Mélanger la farine et la levure puis ajouter les au reste de la preparation et jouter les pepites de chocolat.",
+      "Mélanger le tout puis former des petites boules de pates à poser sur la plaque de cuisson.",
+      "Enfourner pendant 10 minutes dans un four prechauffer à 180°c."
+    ]
+  },
+  "Les aumônières aux pommes": {
+    "Type": "Dessert",
+    "Temps": {
+      "Préparation": [25, "min"],
+      "Cuisson": [15, "min"],
+      "Repos": [60, "min"]
+    },
+    "Ingrédients": [
+      ["125", "g", "de farine tamisée"],
+      ["1", "oeuf + 1", "jaune d'oeuf"],
+      ["250", "ml", "de lait"],
+      ["1", "pincée", "de sel"],
+      ["6", "pommes", ""],
+      ["2", "cuillière à soupe", "de sucre"],
+      ["6", "cuillère à café", "d'amande effilées"]
+    ],
+    "Préparation": [
+      "Dans un saladier, melanger la farine, les oeufs et le sel.",
+      "Ajouter petit à petit le lait puis couvrir la pâte et la laisser reposer 1h au frais.",
+      "Eplucher et couper les pommes en petit des.",
+      "Dans une poele, faire fondre le beurre et faire cuire les pommes à feu doux avec 2 ou 3 cuillière à soupe d'eau.",
+      "Une fois les pommes cuites, ajouter le sucre et cuire à feu vif pendant 3 à 4 min.",
+      "Faire dorer 4 minutes les amandes effilées dans la poele.",
+      "Faire les crepes.",
+      "Garnir chaque crepes d'amandes effilées et de pommes.",
+      "Refermer avec des cure dent."
     ]
   }
 }
