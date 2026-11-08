@@ -1014,7 +1014,6 @@
       ["4", "", "œufs"],
       ["1", "gousse", "vanille"],
       ["400", "g", "mascarpone"],
-      ["2", "", "jus de citron"],
       ["1", "", "grande tasse de café fort"],
       ["2", "cuillères à soupe", "rhum"],
       ["20", "", "biscuit à la cuiller"],
@@ -1022,12 +1021,12 @@
     ],
     "Préparation": [
       "Fouetter le sucre avec les jaunes d’œufs et les graines de la gousse de vanille dans un grand bol jusqu’à ce que le mélange blanchisse.",
-      "Mélanger le mascarpone avec le jus de citron dans un autre récipient puis l'ajouter au mélange précédent.",
+      "Mélanger le mascarpone dans un autre récipient puis l'ajouter au mélange précédent.",
       "Monter les blancs en neige bien ferme, les mélanger délicatement à la préparation avec une spatule en bois.",
       "Mélanger le café froid et le rhum. Tremper rapidement la moitié des biscuits dedans, tapisser le fond d’un plat avec ces biscuits.",
       "Verser la moitié de la préparation sur les biscuits. Imbiber de café l’autre moitié de biscuits, les disposer dans le plat puis verser le reste de la préparation.",
       "Lisser la surface, poudrer de cacao et réserver au moins 6 h au frais avant de déguster.",
-      "CONSEIL : Vous pouvez également réaliser ce tiramisu dans une terrine et le démouler afin de le servir en tranches. Dans ce cas, ajouter 2 feuilles de gélatine préalablement ramollies dans l'eau froide, chauffées et mélangées au jus de citron."
+      "CONSEIL : Vous pouvez également réaliser ce tiramisu dans une terrine et le démouler afin de le servir en tranches. Dans ce cas, ajouter 2 feuilles de gélatine préalablement ramollies dans l'eau froide et chauffées."
     ]
   },
   "Tomates farcie thon, œuf et son jus de tomates": {
@@ -2928,5 +2927,826 @@
       "Garnir chaque crepes d'amandes effilées et de pommes.",
       "Refermer avec des cure dent."
     ]
+  },
+  "Salade de pâtes croustillantes": {
+    "Type": "Plat",
+    "Temps": {
+      "Préparation": [15, "min"],
+      "Cuisson": [25, "min"],
+      "Repos": [0, ""]
+    },
+    "Ingrédients": [
+      ["150", "g", "macaronis"],
+      ["1", "dose", "Sel"],
+      ["1", "cuillère à café", "paprika fumé"],
+      ["1", "cuillère à soupe", "huile d'olive"],
+      ["200", "g", "jeune chou"],
+      ["1", "", "tomate"],
+      ["1", "", "oignon rouge"],
+      ["2", "cuillère à soupe", "crème"],
+      ["1", "", "mayonnaise"],
+      ["1", "cuillère à café", "moutarde à grains"],
+      ["1", "cuillère à soupe", "sauce soja"]
+    ],
+    "Préparation": [
+      "Faites cuire les pâtes comme indiqué sur le paquet.",
+      "Mettre les pâtes cuites dans un plat, arroser d'huile, saupoudrer de paprika fumé et mettre à cuire au four jusqu'à obtenir une croûte croustillante, en remuant de temps en temps. Cuire 25 minutes à une température de 200 degrés.",
+      "Couper l’oignon en morceau, râpé le chou et coupé la tomate.",
+      "Mettre le tout dans un saladier et ajouter les pates.",
+      "Dans un bol, mélanger la crème la mayonnaise, la moutarde et la sauce soja.",
+      "Ajouter la sauce et mélanger."
+    ]
+  },
+  "Salade tomates, pêches, mozzarella": {
+    "Type": "Entrée",
+    "Temps": {
+      "Préparation": [15, "min"],
+      "Cuisson": [0, ""],
+      "Repos": [0, ""]
+    },
+    "Ingrédients": [
+      ["2", "", "petites pêches"],
+      ["2", "", "belles tomates à l’ancienne"],
+      ["1", "dose", "Mozzarella"],
+      ["1", "dose", "Pain pour les croûtons"],
+      ["1", "dose", "Huile d’olive"],
+      ["1", "dose", "Ail"],
+      ["1", "dose", "Feuilles de basilic"],
+      ["5", "cuillère à soupe", "huile d’olive"],
+      ["1", "cuillère à soupe", "oignon rouge ciselé"],
+      ["1", "cuillère à soupe", "miel"],
+      ["1", "cuillère à café", "moutarde"],
+      ["2", "cuillère à soupe", "vinaigre"]
+    ],
+    "Préparation": [
+      "Inciser en forme de croix l’arrière des tomates et des pêches. Les faire bouillir quelques minutes dans de l’eau bouillante. Les pêches devront cuire plus longtemps que les tomates.",
+      "Une fois la peau commence à se détacher, plonger les fruits dans de l’eau glacée pour les refroidir. Peler les tomates et les pêches, puis les couper en morceaux.",
+      "Préparer les croûtons en coupant des morceaux de pain et les faire revenir dans une poêle avec de l’huile d’olive et de l’ail jusqu’à ce qu’ils soient croustillants.",
+      "Préparer la vinaigrette en mélangeant l’huile d’olive, l’oignon rouge, le miel, la moutarde et le vinaigre.",
+      "Dans un saladier, mélanger les morceaux de pêches et de tomates les ajouter la mozzarella coupée en quartier morceaux, les feuilles de basilic ciselées, les croûtons et verser la vinaigrette.",
+      "Bien mélanger tous les ingrédients pour enrober la salade de vinaigrette."
+    ]
+  },
+  "Roulés feuilletés figues, chèvre frais, miel, thym, romarin & noix": {
+    "Type": "Plat",
+    "Temps": {
+      "Préparation": [20, "min"],
+      "Cuisson": [35, "min"],
+      "Repos": [0, ""]
+    },
+    "Ingrédients": [
+      ["1", "", "pâte feuilletée rectangulaire"],
+      ["6", "", "figues moyennes"],
+      ["1", "", "chèvre frais"],
+      ["1", "belle càs", "miel"],
+      ["1", "bonne càc", "thym"],
+      ["1", "bonne càc", "romarin"],
+      ["50", "g", "cerneaux de noix concassés"],
+      ["1", "", "jaune d’œuf"],
+      ["1", "càs", "lait classique ou végétal"]
+    ],
+    "Préparation": [
+      "Préchauffer le four à 180°C.",
+      "Tailler les figues en lamelles assez fines.",
+      "Concasser les cerneaux de noix.",
+      "Mélanger le chèvre frais, le miel, les herbes séchées et les noix concassées.",
+      "Sortir la pâte feuilletée et étaler la préparation dessus.",
+      "Disposer les lamelles de figues en les rangeant verticalement de façon régulière et laisser 1 bon cm libre en bas.",
+      "Détailler des bandes de même largeur. Ici il y a 10 bandes. Enrouler les bandes sur elles-mêmes et disposer les roulés sur une plaque chemisée de papier cuisson. Sceller",
+      "Mélanger le jaune et la cuillère de lait et dorer les roulés en les scellant.",
+      "Enfourner pour 30 à 35 min. D’un four à l’autre ça peut varier.",
+      "Ajouter un trait de miel et déguster."
+    ]
+  },
+  "Focaccia, figue, chèvre & romarin": {
+    "Type": "Plat",
+    "Temps": {
+      "Préparation": [30, "min"],
+      "Cuisson": [30, "min"],
+      "Repos": [210, "min"]
+    },
+    "Ingrédients": [
+      ["500", "g", "farine"],
+      ["10", "g", "sel"],
+      ["420", "ml", "eau tiède"],
+      ["1", "sachet", "levure boulangère sèche"],
+      ["1", "càs", "miel"],
+      ["50", "ml", "huile d’olive"],
+      ["1", "dose", "Figues fraiches"],
+      ["1", "dose", "Chèvre sainte maure de Touraine"],
+      ["1", "dose", "Romarin frais"],
+      ["1", "dose", "Miel"]
+    ],
+    "Préparation": [
+      "Réhydratez la levure avec l’eau tiède et le miel pendant 10 minutes.",
+      "Mélangez la farine avec le sel puis ajoutez le mélange eau/levure/miel et mélangez à nouveau pour bien incorporer les ingrédients. Laissez reposer 30 minutes à couvert.",
+      "Au bout de 30 minutes, ajoutez la moitié de l’huile d’olive et rabattez la pâte plusieurs fois avant de la laisser reposer encore 2h à couvert.",
+      "Dégazez la pâte puis huilez un plat allant au four. Ajoutez la pâte puis, étalez-la puis ajoutez encore dans l’huile d’olive. Recouvrez-la d’un film plastique ou d’un torchon puis laissez reposer encore 1h.",
+      "Ajoutez le reste de l’huile d’olive et faites des petits trous dans la pâte à l’aide de vos doigts.",
+      "Ajoutez les figues coupées en quartiers, le chèvre, le romarin, le miel et assaisonnez de sel, de poivre et d’un filet d’huile d’olive.",
+      "Enfournez pour 25 à 30 minutes à 200°C."
+    ]
+  },
+  "Tarte rustique aux oignons caramélisés et comté": {
+    "Type": "Plat",
+    "Temps": {
+      "Préparation": [20, "min"],
+      "Cuisson": [35, "min"],
+      "Repos": [0, ""]
+    },
+    "Ingrédients": [
+      ["1", "", "pâte brisée"],
+      ["1", "kg", "oignons jaunes"],
+      ["1", "filet", "huile d’olive"],
+      ["3", "c. à soupe", "vinaigre balsamique"],
+      ["10", "g", "cassonade"],
+      ["1", "dose", "Sel"],
+      ["2", "c. à soupe", "moutarde forte"],
+      ["90", "g", "comté"],
+      ["1", "dose", "branches de thym frais"],
+      ["1", "dose", "Poivre"]
+    ],
+    "Préparation": [
+      "Epluche les oignons et émince-les.",
+      "Fais chauffer une poêle à feu vif avec un filet d’huile d’olive. Ajoute les oignons, une pincée de sel, le vinaigre balsamique et le sucre et fais revenir le tout pendant environ 25 minutes à feu moyen-vif. Il faut que les oignons soient bien fondants et dorés. S’ils attachent, ajoute de l’eau.",
+      "Préchauffe le four à 190°C chaleur traditionnelle.",
+      "Etale la moutarde sur le fond de tarte en laissant environ 4 cm sur le bord.",
+      "Râpe le comté et ajoutez environ les 2/3 (soit 60g) sur la moutarde.",
+      "Ajoute ensuite les oignons sur le comté, puis le reste de comté par-dessus.",
+      "Rabats le bord de pâte sur les oignons.",
+      "Enfourne la tarte, dans le bas du four, pour environ 30 minutes, où jusqu’à ce que le dessous de tarte soit bien cuit et les rebords dorés.",
+      "Ajoute du thym frais et déguste !"
+    ]
+  },
+  "Tarte boursin/poireaux": {
+    "Type": "Plat",
+    "Temps": {
+      "Préparation": [20, "min"],
+      "Cuisson": [40, "min"],
+      "Repos": [0, ""]
+    },
+    "Ingrédients": [
+      ["1", "", "pâte brisée"],
+      ["1", "boursin", "150g"],
+      ["6", "", "poireaux"],
+      ["0.5", "", "oignon rouge"],
+      ["4", "", "œufs"],
+      ["125", "ml", "lait"],
+      ["1", "dose", "Sel et poivre"]
+    ],
+    "Préparation": [
+      "Cuire les poireaux, au préalable couper en morceau, avec de l’huile pendant minimum 10 minutes.",
+      "Dans le fond de la tarte, étaler une partie du boursin.",
+      "Ajouter ensuite les poireaux cuit et l’oignon couper en petit morceau.",
+      "Dans un saladier, mélanger les œufs, le lait, le sel et le poivre.",
+      "Verser sur les poireaux et mettre le reste du boursin par-dessus.",
+      "Faire cuire 35 à 40 minutes à 180°C."
+    ]
+  },
+  "Tarte au thon": {
+    "Type": "Plat",
+    "Temps": {
+      "Préparation": [20, "min"],
+      "Cuisson": [35, "min"],
+      "Repos": [0, ""]
+    },
+    "Ingrédients": [
+      ["1", "", "pâte brisée"],
+      ["3", "", "œufs"],
+      ["2", "cuillères à soupe", "moutarde"],
+      ["2", "", "oignons"],
+      ["1", "boite", "thon"],
+      ["50", "g", "olive"],
+      ["100", "ml", "crème liquide"],
+      ["1", "dose", "Sel, poivre, persil"]
+    ],
+    "Préparation": [
+      "Découper les oignons et les faire caraméliser.",
+      "Etaler dans le fond de la tarte la moutarde, ajouter les oignons, les olives couper en rondelle et le thon.",
+      "Dans un saladier, mélanger les œufs, la crème, le sel, le poivre et le persil.",
+      "Enfourner à 180°C pendant 35 minutes."
+    ]
+  },
+  "Les spaetzle au diot et au reblochon": {
+    "Type": "Plat",
+    "Temps": {
+      "Préparation": [20, "min"],
+      "Cuisson": [25, "min"],
+      "Repos": [0, ""]
+    },
+    "Ingrédients": [
+      ["1", "sachet", "spaetzle"],
+      ["2", "", "diots"],
+      ["0.5", "", "reblochon"],
+      ["2", "", "oignons"],
+      ["1", "dose", "Crème"],
+      ["1", "verre", "vin blanc"]
+    ],
+    "Préparation": [
+      "Faire cuire les spaetzle comme indiquer sur le paquet.",
+      "Pendant ce temps, couper les diots et les oignons en morceau.",
+      "Faire cuire les diots, à mi-cuisson ajouter les oignons et le vin blanc.",
+      "Après quelque minute couverte, rajouter le reblochon, préalablement couper, et la crème.",
+      "Apres l’apparition de bulle dans la sauce ajouter les spaetzle."
+    ]
+  },
+  "Pâtes au reblochon, bacon et champignons": {
+    "Type": "Plat",
+    "Temps": {
+      "Préparation": [20, "min"],
+      "Cuisson": [20, "min"],
+      "Repos": [0, ""]
+    },
+    "Ingrédients": [
+      ["200", "gr", "pâtes"],
+      ["6", "tranches", "lard"],
+      ["100", "gr", "champignons"],
+      ["10", "cl", "lait"],
+      ["10", "cl", "crème liquide 4%"],
+      ["0.5", "", "reblochon"],
+      ["1", "dose", "Huile d’olive"]
+    ],
+    "Préparation": [
+      "Faites cuire les pâtes comme indiqué sur le paquet, puis réserver.",
+      "Pendant ce temps, dans une poêle chaude avec de l’huile d’olive, faites cuire les champignons coupés en morceaux, puis réserver.",
+      "Dans cette même poêle, ajouter le lard puis réserver et coupez-le en morceaux.",
+      "Dans la casserole des pâtes, faites chauffer le lait et la crème, puis verser le reblochon coupé en petits morceaux. Laisser cuire sur feu doux jusqu’à temps que le fromage fonde.",
+      "Rajouter les pâtes, les champignons et le lard à la sauce, bien tout mélanger."
+    ]
+  },
+  "Pain de mie": {
+    "Type": "Pâte",
+    "Temps": {
+      "Préparation": [30, "min"],
+      "Cuisson": [50, "min"],
+      "Repos": [90, "min"]
+    },
+    "Ingrédients": [
+      ["500", "g", "farine T55"],
+      ["20", "g", "levure fraîche de boulanger"],
+      ["10", "g", "sel"],
+      ["15", "g", "sucre"],
+      ["40", "g", "beurre pommade"],
+      ["30", "cl", "lait tiède"]
+    ],
+    "Préparation": [
+      "Dans le bol du robot, versez la farine, le sucre et le sel.",
+      "Ajoutez la levure fraîche émiettée.",
+      "Versez le lait tiède et commencez à pétrir.",
+      "Après 3 minutes environ, ajoutez le beurre pommade petit à petit.",
+      "Pétrissez 10 minutes environ, jusqu’à obtenir une pâte douce et souple, qui se détache des parois de la cuve du robot.",
+      "Formez une boule, couvrez, et laissez pousser 30 minutes dans un endroit tiède.",
+      "Versez la pâte sur un plan de travail fariné. Dégazez la pâte avec la paume de la main.",
+      "Formez une boule.",
+      "Placez la pâte dans le moule placé sur une plaque perforée et couvrez.",
+      "Laissez pousser encore 1 h.",
+      "Préchauffez votre four à 200°C chaleur tournante. Enfournez pendant 30 minutes.",
+      "Diminuez la température à 180°C et laissez cuire encore 20 minutes. Le pain de mie doit être doré.",
+      "À la sortie du four, laissez reposer 5 minutes, puis démoulez délicatement."
+    ]
+  },
+  "Gâteau crumble-pâte à tartiner": {
+    "Type": "Dessert",
+    "Temps": {
+      "Préparation": [20, "min"],
+      "Cuisson": [30, "min"],
+      "Repos": [0, ""]
+    },
+    "Ingrédients": [
+      ["250", "g", "farine"],
+      ["100", "g", "sucre"],
+      ["1", "sachet", "sucre vanillé"],
+      ["1", "", "œuf"],
+      ["120", "g", "beurre mou"],
+      ["0.5", "sachet", "levure chimique"],
+      ["150-200", "g", "pâte à tartiner"]
+    ],
+    "Préparation": [
+      "Préchauffe ton four à 180°C.",
+      "Mélange la farine tamisée avec les sucres et la levure.",
+      "Ajoute le beurre mou coupé en morceaux et l’œuf puis mélange jusqu’à l’obtention d’une pâte de type crumble (en miettes).",
+      "Dispose un cercle à pâtisserie de 18-20 cm sur une plaque de cuisson recouverte de papier sulfurisé.",
+      "Étale les 2/3 de la pâte au fond du cercle en tassant légèrement.",
+      "A l’aide d’une cuillère à soupe recouvre délicatement de pâte à tartiner.",
+      "Répartis le reste de pâte à crumble par dessus en grosses miettes sans tasser.",
+      "Enfourne pour 30 minutes environ selon le four et la taille du cercle puis laisse refroidir avant de décercler délicatement."
+    ]
+  },
+  "Madeleines moelleuses": {
+    "Type": "Dessert",
+    "Temps": {
+      "Préparation": [20, "min"],
+      "Cuisson": [9, "min"],
+      "Repos": [60, "min"]
+    },
+    "Ingrédients": [
+      ["100", "g", "beurre"],
+      ["80", "g", "sucre"],
+      ["2", "", "œufs"],
+      ["30", "ml", "lait"],
+      ["120", "g", "farine"],
+      ["5", "g", "levure chimique"],
+      ["1", "c. à café", "vanille"],
+      ["1", "pincée", "sel"]
+    ],
+    "Préparation": [
+      "Faire fondre le beurre puis le laisser tiédir.",
+      "Fouetter les œufs avec le sucre jusqu’à obtenir un mélange légèrement mousseux.",
+      "Ajouter le lait et la vanille.",
+      "Incorporer la farine, la levure et le sel, sans trop travailler la pâte.",
+      "Ajouter le beurre fondu tiédi et mélanger jusqu’à obtenir une pâte homogène.",
+      "Couvrir la pâte et la placer au réfrigérateur minimum 1 heure.",
+      "Préchauffer le four à 200°C chaleur statique.",
+      "Remplir les empreintes aux ¾.",
+      "Enfourner 4 min à 200°C, puis baisser à 180°C et poursuivre 5min, jusqu’à ce qu’elles soient bien dorées."
+    ]
+  },
+  "Barquettes maison au chocolat": {
+    "Type": "Dessert",
+    "Temps": {
+      "Préparation": [20, "min"],
+      "Cuisson": [8, "min"],
+      "Repos": [0, ""]
+    },
+    "Ingrédients": [
+      ["3", "", "œufs"],
+      ["100", "g", "sucre"],
+      ["100", "g", "farine"],
+      ["35", "g", "beurre fondu"],
+      ["2", "grosses cas", "pâte à tartiner"]
+    ],
+    "Préparation": [
+      "Préchauffer le four à 170°C.",
+      "Faire fondre le beurre et réserver.",
+      "Fouetter les œufs avec le sucre au batteur électrique ou au robot jusqu’à ce que le mélange double de volume.",
+      "Ajouter la farine tamisée en 2 ou 3 fois en mélangeant délicatement avec une maryse.",
+      "Ajouter ensuite le beurre fondu et mélanger.",
+      "Verser la préparation dans des moules à barquettes préalablement beurrés.",
+      "Faire cuire 8 minutes à 170°C. Après cuisson, démouler et laisser refroidir.",
+      "Garnir avec la pâte à tartiner."
+    ]
+  },
+  "Crème dessert à la vanille": {
+    "Type": "Dessert",
+    "Temps": {
+      "Préparation": [15, "min"],
+      "Cuisson": [10, "min"],
+      "Repos": [120, "min"]
+    },
+    "Ingrédients": [
+      ["500", "ml", "lait demi-écrémé"],
+      ["40", "g", "Maïzena"],
+      ["1", "", "gros œuf (ou 2 petits)"],
+      ["1", "dose", "Vanille Bourbon en poudre ou 1 gousse de vanille"],
+      ["20 à 25", "g", "sucre"],
+      ["1", "pincée", "curcuma (optionnel)"]
+    ],
+    "Préparation": [
+      "Fais chauffer le lait avec la vanille.",
+      "Mélange la Maïzena, l’œuf et le sucrant.",
+      "Verse progressivement le lait chaud sur ce mélange en fouettant.",
+      "Reverse dans la casserole et fais épaissir à feu moyen sans arrêter de fouetter.",
+      "Verse dans deux ramequins et laisse refroidir avant de placer au réfrigérateur."
+    ]
+  },
+  "Les Taralli": {
+    "Type": "Dessert",
+    "Temps": {
+      "Préparation": [30, "min"],
+      "Cuisson": [30, "min"],
+      "Repos": [10, "min"]
+    },
+    "Ingrédients": [
+      ["1000", "g", "farine T00"],
+      ["360", "g", "vin blanc sec"],
+      ["220", "g", "huile d'olive extra vierge"],
+      ["20", "g", "sel de mer"]
+    ],
+    "Préparation": [
+      "Ajoutez de la farine à un bol et faites un puits.",
+      "Mélanger le vin, l'huile d'olive et le sel, verser au centre et incorporer progressivement la farine.",
+      "Pétrir pendant environ 10 minutes jusqu'à ce qu'il soit lisse, puis reposer pendant 10 minutes.",
+      "Faire des petits morceaux dans de fines cordes et rejoignez les extrémités pour former des anneaux.",
+      "Faire bouillir par lots pendant environ 1 minute, puis égoutter sur un tissu propre.",
+      "Transférez sur une plaque de cuisson doublée de parchemin et faites cuire à 190°C pendant 25–30 minutes, jusqu'à ce qu'elle soit dorée et croquante."
+    ]
+  },
+  "Tartinade olive & feta": {
+    "Type": "Entrée",
+    "Temps": {
+      "Préparation": [15, "min"],
+      "Cuisson": [0, ""],
+      "Repos": [30, "min"]
+    },
+    "Ingrédients": [
+      ["150", "g", "olives vertes dénoyautées"],
+      ["100", "g", "feta"],
+      ["1", "petite gousse", "ail"],
+      ["1", "poignée", "persil frais"],
+      ["1", "c. à soupe", "huile d’olive"],
+      ["1", "c", "jus de citron"],
+      ["1", "dose", "sel, piment d’Espelette"]
+    ],
+    "Préparation": [
+      "Mets les olives, la feta, l’ail, le jus de citron et le persil dans un mixeur.",
+      "Mixe par impulsions pour garder un peu de texture.",
+      "Ajoute l’huile d’olive et mélange.",
+      "Réserve au frais 30 minutes avant dégustation."
+    ]
+  },
+  "Gnocchi à la crème de courgette": {
+    "Type": "Plat",
+    "Temps": {
+      "Préparation": [20, "min"],
+      "Cuisson": [20, "min"],
+      "Repos": [0, "min"]
+    },
+    "Ingrédients": [
+      ["1", "", "oignon"],
+      ["2", "", "grosses courgettes"],
+      ["1", "pot", "Boursin ail et fines herbes"],
+      ["1", "grosse poignée", "parmesan"],
+      ["1", "dose", "feuilles de basilic frais"],
+      ["15", "cl", "crème fraîche"],
+      ["350", "g", "lardons"],
+      ["700", "g", "gnocchis"],
+      ["1", "dose", "Sel & poivre"]
+    ],
+    "Préparation": [
+      "Fais revenir l’oignon dans un filet d’huile d’olive.",
+      "Ajouter ensuite les courgettes coupées en petits morceaux.",
+      "Faites-les bien revenir puis baisse le feu, ajoute un peu d’eau dans le fond et laisse cuire à couvert pendant 10 à 15 minutes.",
+      "Une fois les courgettes bien fondantes, mixe-les avec le Boursin, le parmesan, le basilic et la crème fraîche.",
+      "À côté de ça, fais griller tes lardons dans une poêle puis réserve-en une partie.",
+      "Ajoute ta crème de courgette dans la poêle avec les lardons, verse le bouillon de légumes puis mélange bien.",
+      "Faire cuire les gnocchis puis les verser dans la sauce.",
+      "Ajouter un peu de parmesan et le reste des lardons sur le dessus."
+    ]
+  },
+  "Croquetas de Chorizo": {
+    "Type": "Plat",
+    "Temps": {
+      "Préparation": [25, "min"],
+      "Cuisson": [15, "min"],
+      "Repos": [0, ""]
+    },
+    "Ingrédients": [
+      ["200", "g", "chorizo"],
+      ["100", "g", "farine"],
+      ["450", "ml", "lait demi-écrémé"],
+      ["1", "dose", "Sel"],
+      ["150", "g", "fromage pour tartiflette"],
+      ["1", "dose", "Farine pour panure"],
+      ["2", "", "œufs"],
+      ["1", "dose", "Chapelure"],
+      ["1", "dose", "Huile de tournesol pour la cuisson"]
+    ],
+    "Préparation": [
+      "Couper le chorizo en morceau et le faire revenir dans un poêle, une fois fait mettre de côté.",
+      "Dans cette même poêle, réaliser une béchamel avec la farine et le lait.",
+      "Ajouter les chorizo mis de coté puis verser dans un plat et mettre au frais.",
+      "Apres repos au frais, réaliser des boulettes avec en son centre un morceau de fromage.",
+      "Pour les panés, les roulés dans la farine puis les œufs et enfin la chapelure.",
+      "Les faire cuire dans une poêle avec l’huile."
+    ]
+  },
+  "Pâtes aux tomates rôties et sauce à la feta": {
+    "Type": "Plat",
+    "Temps": {
+      "Préparation": [15, "min"],
+      "Cuisson": [25, "min"],
+      "Repos": [0, ""]
+    },
+    "Ingrédients": [
+      ["1", "bloc", "feta"],
+      ["2", "gousses", "ail"],
+      ["1", "dose", "tomates cerises"],
+      ["150", "g", "pâtes"],
+      ["1", "dose", "Huile d’olive"],
+      ["1", "càc", "origan"],
+      ["1", "càc", "paprika"],
+      ["100", "ml", "crème liquide"],
+      ["1", "dose", "persil haché"],
+      ["1", "dose", "Sel, poivre"]
+    ],
+    "Préparation": [
+      "Préchauffer le four à 200 degrés.",
+      "Dans un plat allant au four, déposer les tomates cerises, les deux gousses d’ail et le bloc de feta. Assaisonner avec l’origan, le paprika, du sel, du poivre et un filet d’huile d’olive.",
+      "Enfourner pendant 25 minutes, jusqu’à ce que les tomates soient bien rôties.",
+      "Pendant ce temps, faire cuire les pâtes en suivant les instructions indiquées sur le paquet.",
+      "Verser ensuite les tomates rôties, l’ail et la feta dans un mixeur avec un peu d’eau de cuisson des pâtes ainsi que la crème liquide. Mixer jusqu’à obtenir une texture bien crémeuse et onctueuse.",
+      "Mélanger les pâtes avec la sauce, ajouter un peu de persil haché."
+    ]
+  },
+  "Nutella": {
+    "Type": "Dessert",
+    "Temps": {
+      "Préparation": [20, "min"],
+      "Cuisson": [10, "min"],
+      "Repos": [0, ""]
+    },
+    "Ingrédients": [
+      ["300", "g", "noisettes"],
+      ["120", "g", "chocolat au lait"],
+      ["60", "g", "chocolat noir"],
+      ["80", "g", "sucre glace"],
+      ["2", "càs", "cacao non sucré"],
+      ["2", "càs", "huile de noisette ou huile neutre"],
+      ["1", "pincée", "sel"],
+      ["1", "càc", "extrait de vanille"]
+    ],
+    "Préparation": [
+      "Torréfier les noisettes 10 min à 180°C.",
+      "Retirer la peau puis mixer jusqu’à obtenir une pâte lisse.",
+      "Ajouter le sucre glace, le cacao, le sel et la vanille.",
+      "Faire fondre les chocolats puis les incorporer.",
+      "Ajouter l’huile petit à petit jusqu’à la texture parfaite.",
+      "Mixer encore quelques minutes pour une pâte ultra onctueuse."
+    ]
+  },
+  "Popcorn caramel & cacahuètes maison": {
+    "Type": "Dessert",
+    "Temps": {
+      "Préparation": [15, "min"],
+      "Cuisson": [30, "min"],
+      "Repos": [0, ""]
+    },
+    "Ingrédients": [
+      ["100", "g", "maïs à éclater"],
+      ["1-2", "càs", "huile neutre"],
+      ["100", "g", "cacahuètes grillées"],
+      ["100", "g", "beurre"],
+      ["150", "g", "cassonade"],
+      ["60", "g", "glucose / miel / sirop d’érable"],
+      ["1", "pincée", "sel"]
+    ],
+    "Préparation": [
+      "Fais éclater le maïs dans l’huile (couvercle + secouer). Réserve.",
+      "Fais chauffer le sirop.",
+      "Ajoute le sucre en pluie, sans remuer.",
+      "Quand c’est bien ambré : beurre + sel.",
+      "Hors feu : ajoute les cacahuètes.",
+      "Mélange les popcorns dans le caramel.",
+      "Étale sur plaque et four à 120°C pendant 30 min.",
+      "Refroidissement complet."
+    ]
+  },
+  "Pâte à tartiner": {
+    "Type": "Dessert",
+    "Temps": {
+      "Préparation": [20, "min"],
+      "Cuisson": [10, "min"],
+      "Repos": [0, ""]
+    },
+    "Ingrédients": [
+      ["150", "g", "noisettes"],
+      ["150", "g", "chocolat blanc"],
+      ["1", "c. à soupe", "huile végétale"],
+      ["1", "c. à café", "extrait de vanille liquide"]
+    ],
+    "Préparation": [
+      "Préchauffez le four à 150°C. Étalez les noisettes sur une plaque de cuisson perforée recouverte d’un tapis de cuisson.",
+      "Enfournez pendant 10 minutes.",
+      "Versez les noisettes dans le bol du mixeur.",
+      "Mixez à pleine puissance pendant 2 à 3 minutes.",
+      "Ajoutez la cuillère à soupe d’huile végétale. Continuez à mixer jusqu’à obtenir une pâte de noisettes plus ou moins lisse.",
+      "Faites fondre le chocolat blanc au bain-marie ou au micro-ondes.",
+      "Ajoutez le chocolat blanc fondu et l’extrait de vanille dans le mixeur, directement sur la pâte de noisettes.",
+      "Mixez à nouveau jusqu’à obtenir une pâte parfaitement lisse, homogène et bien crémeuse.",
+      "Versez la pâte à tartiner dans un pot propre et hermétique."
+    ]
+  },
+  "Cookies sandwich Pâte à tartiner praliné et brisures de cookies": {
+    "Type": "Dessert",
+    "Temps": {
+      "Préparation": [30, "min"],
+      "Cuisson": [7, "min"],
+      "Repos": [0, ""]
+    },
+    "Ingrédients": [
+      ["120", "g", "beurre"],
+      ["90", "g", "sucre vergeoise blonde"],
+      ["55", "g", "sucre"],
+      ["1", "", "œuf"],
+      ["220", "g", "farine"],
+      ["1", "pincée", "sel"],
+      ["150", "g", "pépites de chocolat"],
+      ["200", "g", "pâte à tartiner noisettes"],
+      ["150", "g", "praliné noisettes"],
+      ["4", "", "cookies hachés finement"]
+    ],
+    "Préparation": [
+      "Dans un bol mélangez la pâte à tartiner de votre choix avec votre praliné.",
+      "Hachez finement 4 de vos cookies et incorporez le tout dans votre mélange précédent. Terminez par une pincée de fleur de sel.",
+      "Dans un bol, mélangez votre beurre avec les sucres. Ajoutez l’œuf.",
+      "Versez ensuite la farine tamisée en terminant par le sel et les pépites de chocolat.",
+      "Sur une plaque allant au four et recouverte de papier sulfurisé formez vos boules de cookies de 50g. Espacez les puis mettez l’ensemble à cuire 6-7 min à 180°C.",
+      "Sortez alors la plaque du four et laissez tiédir. Une fois les cookies tièdes/froids, garnissez de votre pâte à tartiner, refermez avec un deuxième cookie pour créer le sandwich parfait !"
+    ]
+  },
+  "Pockitos": {
+    "Type": "Dessert",
+    "Temps": {
+      "Préparation": [30, "min"],
+      "Cuisson": [15, "min"],
+      "Repos": [1440, "min"]
+    },
+    "Ingrédients": [
+      ["250", "g", "farine"],
+      ["110", "g", "sucre glace"],
+      ["2", "pincée", "fleur de sel"],
+      ["124", "g", "beurre pommade"],
+      ["1", "", "œuf"],
+      ["1", "dose", "Pâte à tartiner"]
+    ],
+    "Préparation": [
+      "La veille, il faut faire 14 inserts de pâte à tartiner de 2x7,5 cm sur 0,5 cm de haut, et les mettre au congélateur.",
+      "Le jour j, mélanger la farine le sucre glace, le sel et le beurre.",
+      "Ajouter ensuite l’œuf jusqu’à former une boule.",
+      "Étaler sur 4 mm d’épaisseur entre 2 feuilles de papier cuisson et tu mets au frais au moins 1h.",
+      "Découper des rectangles de 7,5x8 cm. Tu refermes les morceaux de pâte autour des inserts de pâte à tartiner.",
+      "Ne pas dorer, mettre les biscuits au congélateur 1 heure, puis préchauffer le four à 170°C et cuire 15 minutes."
+    ]
+  },
+  "Crème anglaise": {
+    "Type": "Dessert",
+    "Temps": {
+      "Préparation": [15, "min"],
+      "Cuisson": [10, "min"],
+      "Repos": [0, ""]
+    },
+    "Ingrédients": [
+      ["4", "jaunes", "œufs"],
+      ["50", "g", "sucre en poudre"],
+      ["300", "g", "lait"],
+      ["1", "gousse", "vanille"]
+    ],
+    "Préparation": [
+      "Faites chauffer le lait avec la vanille dans une casserole.",
+      "Mélangez les jaunes d’œufs avec le sucre, puis versez progressivement le lait chaud tout en mélangeant.",
+      "Remettez sur feu doux sans cesser de remuer. Avec un thermomètre alimentaire, arrêtez la cuisson à 85°C."
+    ]
+  },
+  "Cookies géants fourré": {
+    "Type": "Dessert",
+    "Temps": {
+      "Préparation": [20, "min"],
+      "Cuisson": [22, "min"],
+      "Repos": [20, "min"]
+    },
+    "Ingrédients": [
+      ["120", "g", "beurre mou"],
+      ["50", "g", "sucre cassonade"],
+      ["50", "g", "vergeoise"],
+      ["1", "sachet", "sucre vanillé"],
+      ["1", "", "œuf"],
+      ["230", "g", "farine"],
+      ["0.5", "sachet", "levure"],
+      ["100", "g", "chocolat noir"],
+      ["100", "g", "chocolat blanc"],
+      ["1", "dose", "Pâte à tartiner"]
+    ],
+    "Préparation": [
+      "Mélange le beurre mou avec le sucre cassonade, la vergeoise, le sachet de sucre vanillé et l’œuf.",
+      "Ajoute la farine, la levure, le chocolat noir et le chocolat blanc concassé en grosses pépites.",
+      "Forme une boule de pâte et laisse 20 minutes au réfrigérateur.",
+      "Tasse dans un cercle de 18 cm la moitié de la pâte à cookies.",
+      "Étale de la pâte à tartiner.",
+      "Recouvre à nouveau de pâte à cookies.",
+      "Faire cuire 22 minutes à 180°C.",
+      "Laisse refroidir avant de déguster."
+    ]
+  },
+  "Tarte d’automne caramélisée des pommes de terre fondantes, des oignons caramélisés, du fromage": {
+    "Type": "Plat",
+    "Temps": {
+      "Préparation": [25, "min"],
+      "Cuisson": [55, "min"],
+      "Repos": [0, ""]
+    },
+    "Ingrédients": [
+      ["1", "", "pâte brisée"],
+      ["2", "", "oignons jaunes"],
+      ["2", "cuillères à soupe", "huile d’olive"],
+      ["2", "", "grosses pommes de terre"],
+      ["45", "g", "beurre doux fondu"],
+      ["2", "cuillères à soupe", "thym frais ciselé"],
+      ["100", "g", "cheddar râpé"],
+      ["1", "dose", "Sel, poivre"],
+      ["1", "", "œuf pour la dorure"]
+    ],
+    "Préparation": [
+      "Émince finement les oignons jaunes. Fais chauffer l’huile d’olive dans une casserole à fond épais, ajoute les oignons et une bonne pincée de sel. Couvre et laisse cuire à feu moyen 3 minutes, mélange, recouvre et poursuis 3 minutes de plus. Retire le couvercle et laisse cuire 10 à 15 minutes, jusqu’à ce qu’ils soient dorés et caramélisés. Réserve.",
+      "Tranche finement les pommes de terre (tu peux les précuire 10 minutes dans de l’eau bouillante salée). Dans un saladier, mélange-les avec les trois quarts des oignons caramélisés, le beurre fondu, le thym, le sel et le poivre.",
+      "Étale la pâte brisée sur une feuille de papier cuisson. Dépose la moitié du mélange de pommes de terre au centre, en laissant 3 cm de bord libre. Ajoute la moitié du fromage, puis le reste des pommes de terre, le reste du fromage, et termine par les oignons caramélisés restants.",
+      "Replie les bords de la pâte par-dessus la garniture et badigeonne d’œuf battu. Enfourne sur une plaque 45 minutes à 180°C."
+    ]
+  },
+  "Galettes de pommes de terre croustillantes au parmesan": {
+    "Type": "Plat",
+    "Temps": {
+      "Préparation": [20, "min"],
+      "Cuisson": [15, "min"],
+      "Repos": [0, ""]
+    },
+    "Ingrédients": [
+      ["5", "", "grosses pommes de terre"],
+      ["1", "", "œuf"],
+      ["3", "c-à-s", "farine"],
+      ["1", "c-à-c", "ail en poudre"],
+      ["1", "dose", "Sel, poivre"],
+      ["60", "g", "parmesan"],
+      ["1", "dose", "Huile de cuisson"]
+    ],
+    "Préparation": [
+      "Épluche les pommes de terre et fais-les précuire dans une casserole d’eau salée. Une fois précuites, râpe-les finement.",
+      "Dans un saladier, mélange les pommes de terre râpées avec l’œuf, la farine, l’ail en poudre, le sel, le poivre et du parmesan râpé.",
+      "Forme des galettes ovales avec tes mains. Fais-les cuire dans une poêle avec de l’huile bien chaude, 3-4 minutes de chaque côté, jusqu’à ce qu’elles soient bien dorées et croustillantes.",
+      "Sors-les de l’huile et essuie-les avec du sopalin."
+    ]
+  },
+  "Le cake aux figues, amandes et miel": {
+    "Type": "Dessert",
+    "Temps": {
+      "Préparation": [20, "min"],
+      "Cuisson": [50, "min"],
+      "Repos": [0, ""]
+    },
+    "Ingrédients": [
+      ["6", "", "grosses figues fraîches bien mûres"],
+      ["60", "g", "cassonade"],
+      ["40", "g", "miel liquide"],
+      ["120", "g", "beurre doux fondu"],
+      ["2", "", "œufs"],
+      ["100", "g", "poudre d’amande"],
+      ["80", "g", "farine T65"],
+      ["1", "càc", "levure chimique"],
+      ["1", "pincée", "sel"],
+      ["60", "ml", "crème liquide"],
+      ["1", "dose", "Figues fraîches + amandes effilées pour la déco"]
+    ],
+    "Préparation": [
+      "Préchauffez le four à 180°C. Fouettez les œufs et la cassonade jusqu’à ce que le mélange blanchisse.",
+      "Incorporez le beurre fondu et le miel, puis la farine et la levure tamisées, le sel et la crème liquide.",
+      "Versez les figues coupées en quartiers dans le moule beurré et fariné.",
+      "Recouvrez avec la pâte, décorez de figues et d’amandes effilées.",
+      "Enfournez 10 min à 180°C puis 40 min à 150°C."
+    ]
+  },
+  "Gâteau tourbillon pommes - cannelle – caramel": {
+    "Type": "Dessert",
+    "Temps": {
+      "Préparation": [25, "min"],
+      "Cuisson": [40, "min"],
+      "Repos": [0, ""]
+    },
+    "Ingrédients": [
+      ["180", "g", "farine"],
+      ["50", "g", "sucre"],
+      ["0.5", "sachet", "levure chimique"],
+      ["2", "", "œufs"],
+      ["150", "g", "lait"],
+      ["50", "g", "beurre"],
+      ["1", "dose", "Vanille"],
+      ["4", "", "pommes"],
+      ["1", "càs", "cannelle"],
+      ["60", "g", "sucre (tourbillon)"],
+      ["50", "g", "beurre mou (tourbillon)"],
+      ["1", "càs", "cannelle (tourbillon)"]
+    ],
+    "Préparation": [
+      "Dans un saladier, mélanger la farine, la levure chimique, les œufs et la vanille.",
+      "Ajouter ensuite le lait, le beurre fondu et le sucre.",
+      "Dans un autre saladier, mélanger le sucre, le beurre mou et la cuillère de cannelle.",
+      "Eplucher et couper les pommes. Mélangez-les avec la cannelle puis les ajouter à la première préparation.",
+      "Verser la première préparation dans le moule préalablement beurré.",
+      "Répartir la deuxième préparation sur la première et faire un effet de tourbillon.",
+      "Enfournez pour 40 min à 160°C."
+    ]
+  },
+  "Pâtes crémeuses sauce fêta & tomates": {
+    "Type": "Plat",
+    "Temps": {
+      "Préparation": [15, "min"],
+      "Cuisson": [20, "min"],
+      "Repos": [0, ""]
+    },
+    "Ingrédients": [
+      ["400", "g", "pâtes"],
+      ["200", "g", "lardons"],
+      ["1", "", "oignon"],
+      ["150", "g", "fêta"],
+      ["200", "g", "tomates concassées"],
+      ["1", "dose", "Paprika, mélange d’herbes, sel, poivre"]
+    ],
+    "Préparation": [
+      "Faire cuire les pâtes.",
+      "Faire revenir les lardons dans une poêle puis y ajouter l’oignon émincé.",
+      "Ajouter la fêta à la sauce, mélanger et laisser mijoter.",
+      "Saler, poivrer.",
+      "Dresser les assiettes en versant la sauce sur les pâtes. Saupoudrer de paprika et de mélange d’herbes.",
+      "Émietter un peu de fêta sur le dessus."
+    ]
   }
+
 }
